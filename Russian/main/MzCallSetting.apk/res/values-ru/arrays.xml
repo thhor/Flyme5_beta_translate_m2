@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="record_object_array">
+        <item>Все вызовы</item>
+        <item>Выбрать контакт(ы)</item>
+    </string-array>
     <string-array name="mc_custom_time_picker_lunar_month">
         <item>Январь</item>
         <item>Февраль</item>
@@ -45,9 +49,5 @@
         <item>28</item>
         <item>29</item>
         <item>30</item>
-    </string-array>
-	<string-array name="record_object_array">
-        <item>Все вызовы</item>
-        <item>Выбрать контакт(ы)</item>
     </string-array>
 </resources>
