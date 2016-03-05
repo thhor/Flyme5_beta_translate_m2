@@ -7,7 +7,7 @@
     <string name="configure">Настроить</string>
     <string name="disconnect">Разъединить</string>
     <string name="session">Сеанс:</string>
-    <string name="duration">Продолжительность:</string>
+    <string name="duration">"Длительность: "</string>
     <string name="data_transmitted">Отправлено:</string>
     <string name="data_received">Получено:</string>
     <string name="data_value_format">%1$s КБ; пакетов: %2$s</string>
