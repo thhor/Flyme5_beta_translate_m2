@@ -745,6 +745,9 @@
     <string name="yp_load_error">Ошибка загрузки</string>
     <string name="yp_loading">Поиск</string>
     <string name="yp_not_install">Приложение не установлено</string>
+    <string name="cancel_install">cancel install</string>
+    <string name="hw_version">Аппаратная версия</string>
+    <string name="install_fail">install fail</string>
     <string name="mc_cancel_button_text">Отмена</string>
     <string name="mc_last_refresh">Последнее обновление</string>
     <string name="mc_last_refresh_hour">" час назад"</string>
@@ -754,7 +757,7 @@
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_search_button_text">Поиск</string>
     <string name="mc_search_text">Поиск</string>
-    <string name="message_sip_address">Этот аккаунт не поддерживает VoIP</string>
+    <string name="model_name">Модель</string>
     <string name="mz_action_bar_multi_choice_cancel">Отмена</string>
     <string name="mz_action_bar_multi_choice_select_all">Все</string>
     <string name="mz_action_bar_multi_choice_select_all_cancel">Снять все</string>
@@ -773,31 +776,34 @@
     <string name="mzc_add_field">Добавить поле</string>
     <string name="mzc_add_group_members">Добавить в группу</string>
     <string name="mzc_add_mark">Добавить метку</string>
+    <string name="mzc_add_spam">В чёрный список</string>
     <string name="mzc_add_to_exist_contact">В существующий контакт</string>
     <string name="mzc_adding_contacts_to_group">Добавление контактов</string>
     <string name="mzc_ali_payment_dilog_title">Оплатить</string>
+    <string name="mzc_alipay">Alipay</string>
     <string name="mzc_alipay_transfer">Перевод Alipay</string>
     <string name="mzc_all_call_log">Полная история</string>
+    <string name="mzc_as_default_account">Установить аккаунтом по умолчанию</string>
     <string name="mzc_callDetailsDurationFormat" formatted="false">%s м %s с</string>
     <string name="mzc_callDetailsDurationFormat3">Гудков: %s</string>
     <string name="mzc_callDetailsDurationFormatSecond">%s с</string>
     <string name="mzc_callDetailsDurationFormatWithHour" formatted="false">%s ч %s м %s с</string>
-    <string name="mzc_call_detail_all_entries_delete_call">Очистить</string>
     <string name="mzc_call_ip_number">Набор IP-номера</string>
     <string name="mzc_call_log">Журнал вызовов</string>
-    <string name="mzc_call_log_date_format" formatted="false">%s / %s</string>
     <string name="mzc_call_log_delete_dialog_ok_text">Очистить %s записи</string>
     <string name="mzc_call_log_deleting">Удаление</string>
     <string name="mzc_call_log_no_choiced_title">Выбрать записи</string>
-    <string name="mzc_call_missed_ring_one_time">Один гудок</string>
+    <string name="mzc_call_phone">Позвонить</string>
     <string name="mzc_change_label">Изменить ярлык</string>
-    <string name="mzc_clear_call_log">Очистить журнал вызовов</string>
     <string name="mzc_contactSavedErrorToast">Ошибка сохранения</string>
     <string name="mzc_contact_count">Контактов: %s</string>
     <string name="mzc_contact_edit_filter_info">Введён неподдерживаемый символ</string>
     <string name="mzc_contact_editor_title_editor_contact">Правка контакта</string>
     <string name="mzc_contact_editor_title_new_contact">Новый контакт</string>
+    <string name="mzc_contact_editor_update_photo">Обновить фото</string>
     <string name="mzc_contact_in_group_manager">Управление</string>
+    <string name="mzc_contact_name_already_exists">"Контакт уже существует,
+сохранение объединит контакты"</string>
     <string name="mzc_contact_sort_description">Сортировка</string>
     <string name="mzc_contacts_delete_progress">Удаление</string>
     <string name="mzc_contacts_from_other">Импорт контактов</string>
@@ -831,7 +837,11 @@
     <string name="mzc_detail">Детали</string>
     <string name="mzc_detail_contact_info">Информация</string>
     <string name="mzc_dialer_invalid_dialing">Ошибка набора</string>
+    <string name="mzc_dialog_voicemail_no_sim_message">Please insert SIM card</string>
+    <string name="mzc_easymode_call">Call</string>
     <string name="mzc_edit_contact">Изменить контакт</string>
+    <string name="mzc_editor_contacts_no_name">Сохранить контакт без имени?</string>
+    <string name="mzc_editor_contacts_save">Сохранить</string>
     <string name="mzc_error_correction">Ошибка правки</string>
     <string name="mzc_error_success_missing_count" formatted="false">Детали: %s успешно, %s неудачно</string>
     <string name="mzc_eventLabelsGroup">Дата</string>
@@ -840,29 +850,25 @@
     <string name="mzc_export_to_item_mms">Новое сообщение</string>
     <string name="mzc_export_to_item_nfc">NFC</string>
     <string name="mzc_export_to_item_sdcard">Проводник</string>
-    <string name="mzc_export_to_prepare_vcard">Подготовка vCard</string>
     <string name="mzc_export_to_title">Экспорт в</string>
-    <string name="mzc_export_vcard_activity_title">Экспорт контактов</string>
     <string name="mzc_exporting_contact_finished_title">Экспорт завершён</string>
+    <string name="mzc_exporting_contact_list_message">Экспорт контактов</string>
     <string name="mzc_fail_reason">"
 Возможная причина ошибки:
 1.SIM-карта заполнена 
 2.Ошибка имени или номера"</string>
-    <string name="mzc_fail_reason_could_not_initialize_exporter">Невозможно начать экспорт: %s</string>
     <string name="mzc_fail_reason_could_not_open_file" formatted="false">Невозможно открыть %s: %s</string>
     <string name="mzc_fail_reason_error_occurred_during_export">Ошибка экспорта: %s</string>
-    <string name="mzc_fail_reason_failed_to_collect_vcard_meta_info">Не удалось собрать метаданные файлов vCard</string>
-    <string name="mzc_fail_reason_failed_to_read_files">Один или несколько файлов невозможно импортировать (%s)</string>
     <string name="mzc_fail_reason_io_error">Ошибка I/O</string>
     <string name="mzc_fail_reason_low_memory_during_import">Недостаточно памяти. Возможно, файл слишком большой.</string>
     <string name="mzc_fail_reason_no_exportable_contact">Нет контактов для экспорта</string>
     <string name="mzc_fail_reason_no_importable_file">Нет файлов для импорта</string>
+    <string name="mzc_fail_reason_no_space">no space</string>
     <string name="mzc_fail_reason_not_supported">Неподдерживаемый формат</string>
     <string name="mzc_fail_reason_too_long_filename">Имя файла слишком длинное (%s)</string>
     <string name="mzc_fail_reason_too_many_vcard">Слишком много файлов vCard в памяти</string>
     <string name="mzc_fail_reason_unknown">Неизвестная ошибка</string>
     <string name="mzc_fail_reason_vcard_can_not_parse_error">Не удалось открыть vCard</string>
-    <string name="mzc_fail_reason_vcard_parse_error">Невозможно открыть файл vCard</string>
     <string name="mzc_footer_import">Импорт контактов</string>
     <string name="mzc_gal_lable">%s контакты Exchange</string>
     <string name="mzc_group_account_name">Все %s</string>
@@ -872,17 +878,17 @@
     <string name="mzc_group_remove">Удалить</string>
     <string name="mzc_group_title_already_exists">Имя группы уже существует</string>
     <string name="mzc_group_title_weibo_contacts">Контакты Weibo</string>
-    <string name="mzc_hour">час</string>
     <string name="mzc_imLabelsGroup">Мессенджер</string>
     <string name="mzc_import_contact">Импорт в телефон</string>
     <string name="mzc_import_contact_to">Импорт в</string>
     <string name="mzc_import_vcard">Импорт</string>
     <string name="mzc_import_vcard_activity_title">Импорт с диска</string>
+    <string name="mzc_importing">Импортирование</string>
     <string name="mzc_importing_vcard_finished_title">Импорт завершён</string>
+    <string name="mzc_is_supper_power_mode_warning">Это действие не поддерживается в текущем режиме</string>
     <string name="mzc_item_call_edit">Изменить перед набором</string>
     <string name="mzc_item_copy_text">Копировать</string>
     <string name="mzc_item_default_sim_ip_call">+ %s</string>
-    <string name="mzc_item_sim_card_call">Использовать SIM%s для вызова</string>
     <string name="mzc_item_sim_card_ip_call" formatted="false">SIM%s + %s</string>
     <string name="mzc_loading">Загрузка</string>
     <string name="mzc_local_profile_title">Мой профиль</string>
@@ -910,11 +916,12 @@
     <string name="mzc_pick_vcard_title">Выбрать vCard</string>
     <string name="mzc_preference_export_contacts_title">Экспорт контактов</string>
     <string name="mzc_preference_import_contacts_from_otherphone_title">Импорт с другого телефона</string>
-    <string name="mzc_preference_import_contacts_from_storagedisk_title">Импорт с диска</string>
     <string name="mzc_progress_notifier_message">Импорт %1$s/%2$s: %3$s</string>
+    <string name="mzc_read_only_contacts_export_failed">Нельзя экспортировать контакты в режиме только для чтения</string>
     <string name="mzc_recent">Недавние</string>
     <string name="mzc_recentMissed_empty">Нет вызовов</string>
     <string name="mzc_remove_contacts_success">Удаление завершено</string>
+    <string name="mzc_remove_spam">Убрать из чёрного списка</string>
     <string name="mzc_removing_contacts_from_group">Удаление контактов</string>
     <string name="mzc_saving_groups">Сохранение</string>
     <string name="mzc_scanning_sdcard_failed_title">Не удалось просканировать карту памяти</string>
@@ -922,7 +929,10 @@
     <string name="mzc_search_shortcut_add_to_contacts">Добавить в контакты</string>
     <string name="mzc_searching_vcard_message">Загрузка</string>
     <string name="mzc_select_vcard_import_will_start_message">Выбранные контакты будут импортированы позже</string>
+    <string name="mzc_send_sms">Отправить сообщение</string>
+    <string name="mzc_set_spam">В чёрный список</string>
     <string name="mzc_share_contact">Передать контакт</string>
+    <string name="mzc_share_contact_to">Передать</string>
     <string name="mzc_share_error">Ошибка передачи</string>
     <string name="mzc_show_Understanding_internet_telephony">Об интернет-телефонии</string>
     <string name="mzc_sip_call">Совершить интернет-вызов</string>
@@ -939,60 +949,57 @@
     <string name="mzc_type_voicemail">Голосовая почта</string>
     <string name="mzc_type_voicemail_fail">Нет голосовых сообщений</string>
     <string name="mzc_unknown">Неизвест.</string>
-    <string name="mzc_vcard_detail_info">Предпросмотр vCard</string>
     <string name="mzc_vcard_empty">нет vCard</string>
+    <string name="mzc_vcard_export_failed">Ошибка экспорта</string>
     <string name="mzc_vcard_file_parse">Анализ</string>
     <string name="mzc_vcard_import_failed">Ошибка импорта</string>
+    <string name="mzc_vcard_import_failed_notification">"Couldn't import vCard"</string>
     <string name="mzc_vcard_import_request_rejected_message">Запрос на импорт vCard был отклонён. Попробуйте позже.</string>
     <string name="mzc_voicemail">Голосовая почта</string>
-    <string name="hw_version">Аппаратная версия</string>
-    <string name="model_name">Модель</string>
-    <string name="mzc_alipay">Alipay</string>
-    <string name="mzc_as_default_account">Установить аккаунтом по умолчанию</string>
-    <string name="mzc_contact_editor_update_photo">Обновить фото</string>
-    <string name="mzc_contact_name_already_exists">"Контакт уже существует,
-сохранение объединит контакты"</string>
-    <string name="mzc_editor_contacts_no_name">Сохранить контакт без имени?</string>
-    <string name="mzc_editor_contacts_save">Сохранить</string>
-    <string name="mzc_exporting_contact_list_message">Экспорт контактов</string>
-    <string name="mzc_importing">Импортирование</string>
-    <string name="mzc_is_supper_power_mode_warning">Это действие не поддерживается в текущем режиме</string>
-    <string name="mzc_read_only_contacts_export_failed">Нельзя экспортировать контакты в режиме только для чтения</string>
-    <string name="mzc_set_spam">В чёрный список</string>
-    <string name="mzc_vcard_export_failed">Ошибка экспорта</string>
+    <string name="open_wifi">open wifi</string>
     <string name="prl_version">Версия PRL</string>
     <string name="sw_version">Версия ПО</string>
-    <string name="version">Версия</string>
-    <string name="mzc_share_contact_to">Передать</string>
-    <string name="cancel_install">cancel install</string>
-    <string name="install_fail">install fail</string>
-    <string name="mzc_call_phone">Dial phone</string>
-    <string name="mzc_dialog_voicemail_no_sim_message">Please insert SIM card</string>
-    <string name="mzc_easymode_call">Call</string>
-    <string name="mzc_fail_reason_no_space">no space</string>
-    <string name="mzc_send_sms">Send message</string>
-    <string name="open_download">open download</string>
-    <string name="open_wifi">open wifi</string>
     <string name="title_service_download">O2O</string>
     <string name="update_cancel">cancel</string>
     <string name="update_o2o">Update O2O</string>
     <string name="update_ok">ok</string>
+    <string name="version">Версия</string>
     <string name="whether_download">download</string>
     <string name="whether_install">whether install</string>
-    <string name="mzc_add_spam">В чёрный список</string>
+    <string name="message_sip_address">Этот аккаунт не поддерживает VoIP</string>
+    <string name="mzc_call_detail_all_entries_delete_call">Очистить</string>
+    <string name="mzc_call_log_date_format" formatted="false">%s / %s</string>
+    <string name="mzc_call_missed_ring_one_time">Один гудок</string>
+    <string name="mzc_clear_call_log">Очистить журнал вызовов</string>
+    <string name="mzc_context_menu_batch_edit">Групповая очистка</string>
+    <string name="mzc_export_to_prepare_vcard">Подготовка vCard</string>
+    <string name="mzc_export_vcard_activity_title">Экспорт контактов</string>
+    <string name="mzc_fail_reason_could_not_initialize_exporter">Невозможно начать экспорт: %s</string>
+    <string name="mzc_fail_reason_failed_to_collect_vcard_meta_info">Не удалось собрать метаданные файлов vCard</string>
+    <string name="mzc_fail_reason_failed_to_read_files">Один или несколько файлов невозможно импортировать (%s)</string>
+    <string name="mzc_fail_reason_vcard_parse_error">Невозможно открыть файл vCard</string>
+    <string name="mzc_hour">час</string>
     <string name="mzc_international_search_exchange_directory">Search Global Contacts</string>
-    <string name="mzc_net_type_wlan">Wi-Fi</string>
-    <string name="mzc_remove_spam">Убрать из чёрного списка</string>
-    <string name="mzc_vcard_import_failed_notification">"Couldn't import vCard"</string>
+    <string name="mzc_item_sim_card_call">Использовать SIM%s для вызова</string>
+    <string name="mzc_preference_account_dialog_subtitle">Аккаунт по умолчанию для сохранения новых контактов</string>
+    <string name="mzc_preference_default_account">Аккаунт по умолчанию</string>
+    <string name="mzc_preference_import_contacts_from_storagedisk_title">Импорт с диска</string>
+    <string name="mzc_preference_sim_contacts_title">Контакты SIM</string>
+    <string name="mzc_preference_title">Управление контактами</string>
+    <string name="mzc_vcard_detail_info">Предпросмотр vCard</string>
+    <string name="open_download">open download</string>
     <string name="eventTypeLunarBirthday">Lunar Birthday</string>
     <string name="mzc_emailTypeWork">Рабочий</string>
-    <string name="mzc_eventTypeAnniversary">Юбилей</string>
     <string name="mzc_phoneTypeFaxWork">Рабочий факс</string>
     <string name="mzc_phoneTypeWork">Рабочий</string>
     <string name="mzc_postalTypeWork">Рабочий</string>
     <string name="socialProfileTypeCustom">Custom</string>
     <string name="socialProfileTypeOther">Other</string>
     <string name="socialProfileTypeSinaWeibo">Sina Weibo</string>
+    <string name="mc_pattern_hour_minute_12" formatted="false">%p %I:%M</string>
+    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %p %I:%M</string>
+    <string name="mzc_net_type_wlan">Wi-Fi</string>
+    <string name="mzc_eventTypeAnniversary">Юбилей</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_search_hint">Search…</string>
@@ -1018,10 +1025,8 @@
     <string name="mc_app_name">MeizuCommon</string>
     <string name="mc_hello_world">Hello world!</string>
     <string name="mc_pattern_hour_minute" formatted="false">%H:%M</string>
-    <string name="mc_pattern_hour_minute_12" formatted="false">%p %I:%M</string>
     <string name="mc_pattern_week">%a</string>
     <string name="mc_pattern_week_hour_minute" formatted="false">%a %H:%M</string>
-    <string name="mc_pattern_week_hour_minute_12" formatted="false">%a %p %I:%M</string>
     <string name="mzc_account_type_lable_eas_gmail">Gmail</string>
     <string name="mzc_account_type_lable_eas_meizu">Meizu</string>
     <string name="mzc_account_type_lable_eas_qq">QQ</string>
@@ -1099,18 +1104,23 @@
     <string name="tab_font_family">sans-serif</string>
     <string name="view_full_call_history_font_family">sans-serif</string>
     <string name="add_field">Digər sahə əlavə edin</string>
-    <string name="call_log_empty_gecode">-</string>
-    <string name="call_settings">Ayarlar</string>
     <string name="contact_detail_picture_description">Şəkil. Dəyişmək üçün seçin.</string>
     <string name="contactsAllLabel">Bütün kontaktlar</string>
     <string name="contactsGroupsLabel">Qruplar</string>
+    <string name="description_dial_phone_number">Yığım telefonu %1$s</string>
+    <string name="description_send_message">%1$s ünvanına mesaj göndərin</string>
+    <string name="no_contact_details">Bu kontakt üçün heç bir əlavə məlumat yoxdur.</string>
+    <string name="people">Camaat</string>
+    <string name="use_photo_as_primary">Bu fotonu istifadə edin</string>
+    <string name="viewContactDesription">Kontakta baxın</string>
+    <string name="call_log_empty_gecode">-</string>
+    <string name="call_settings">Ayarlar</string>
     <string name="description_add_contact">Kontakt əlavə edin</string>
     <string name="description_call_log_incoming_call">Gələn zəng</string>
     <string name="description_call_log_missed_call">Buraxılmış zəng</string>
     <string name="description_call_log_outgoing_call">Gedən zəng</string>
     <string name="description_call_log_voicemail">Səsli məktub</string>
     <string name="description_delete_button">backspace</string>
-    <string name="description_dial_phone_number">Yığım telefonu %1$s</string>
     <string name="description_image_button_eight">səkkiz</string>
     <string name="description_image_button_five">beş</string>
     <string name="description_image_button_four">dörd</string>
@@ -1123,7 +1133,6 @@
     <string name="description_image_button_three">üç</string>
     <string name="description_image_button_two">iki</string>
     <string name="description_image_button_zero">sıfır</string>
-    <string name="description_send_message">%1$s ünvanına mesaj göndərin</string>
     <string name="description_voicemail_button">Səsli məktub</string>
     <string name="dialerDialpadHintText">Zəng əlavə etmək üçün nömrə yığın</string>
     <string name="dialerKeyboardHintText">Nömrə yığmaq üçün klaviaturadan istifadə ediin</string>
@@ -1138,11 +1147,7 @@
     <string name="dialpad_8_number">8</string>
     <string name="dialpad_9_number">9</string>
     <string name="launcherDialer">Telefon</string>
-    <string name="no_contact_details">Bu kontakt üçün heç bir əlavə məlumat yoxdur.</string>
-    <string name="people">Camaat</string>
     <string name="show_all_contacts">Bütün kontaktları göstər</string>
     <string name="show_all_contacts_button_text">Bütün kontaktlar</string>
     <string name="show_all_contacts_title">Bütün kontaktlar</string>
-    <string name="use_photo_as_primary">Bu fotonu istifadə edin</string>
-    <string name="viewContactDesription">Kontakta baxın</string>
 </resources>
