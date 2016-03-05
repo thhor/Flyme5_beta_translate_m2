@@ -637,6 +637,14 @@
         <item>Smart wake</item>
         <item>Prohibition wake</item>
     </string-array>
+    <string-array name="install_outside_app_value">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="install_outside_app_entries">
+        <item>Предупреждать</item>
+        <item>Не предупреждать</item>
+    </string-array>
     <string-array name="mc_custom_time_picker_lunar_month">
         <item>Январь</item>
         <item>Февраль</item>
@@ -683,7 +691,4 @@
         <item>29</item>
         <item>30</item>
     </string-array>
-    <item type="array" name="APKTOOL_DUMMY_006a">false</item>
-    <item type="array" name="APKTOOL_DUMMY_006b">false</item>
-    <item type="array" name="APKTOOL_DUMMY_006c">false</item>
 </resources>
