@@ -96,10 +96,6 @@
         <item>Ноябрь</item>
         <item>Декабрь</item>
     </string-array>
-    <string-array name="mzc_array_import_power_mode_selection">
-        <item>Импорт с накопителя</item>
-        <item>Импорт с SIM-карты</item>
-    </string-array>
     <string-array name="mzc_array_import_selection">
         <item>Импорт из аккаунта</item>
         <item>Импорт с накопителя</item>
@@ -109,5 +105,9 @@
     <string-array name="mzc_pick_info_type">
         <item>Передать как текст</item>
         <item>Передать как vCard</item>
+    </string-array>
+    <string-array name="mzc_array_import_power_mode_selection">
+        <item>Импорт с накопителя</item>
+        <item>Импорт с SIM-карты</item>
     </string-array>
 </resources>
