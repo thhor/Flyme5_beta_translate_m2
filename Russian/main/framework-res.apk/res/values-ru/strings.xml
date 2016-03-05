@@ -1447,8 +1447,8 @@
     <string name="storage_internal">Внутренняя память</string>
     <string name="storage_sd_card">Карта памяти</string>
     <string name="storage_usb">USB-накопитель</string>
-    <string name="storage_phone">Phone storage</string>
-    <string name="storage_external_usb">External USB storage</string>
+    <string name="storage_phone">Внутренняя память</string>
+    <string name="storage_external_usb">Карта памяти</string>
     <string name="storage_ic_usb1">External IC-USB storage1</string>
     <string name="storage_ic_usb2">External IC-USB storage2</string>
     <string name="extract_edit_menu_button">Изменить</string>
