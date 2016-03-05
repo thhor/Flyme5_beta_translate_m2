@@ -2616,6 +2616,8 @@
     <string name="wlan_tether_no_encypt">Открытая</string>
     <string name="obtain_device_info_txt">Получение информации об устройстве…</string>
     <string name="wifi_setting_sleep_policy_sum">Отключать модуль Wi-Fi для энергосбережения</string>
+    <string name="smart_wifi_selection_title">Интеллектуальный выбор Wi-Fi сети</string>
+    <string name="smart_wifi_selection_sum">Автоматически подключаться к более подходящей Wi-Fi сети</string>
     <string name="cert_issued_to">Владелец</string>
     <string name="cert_serial">Серийный №</string>
     <string name="cert_valid_from">Действует с</string>
@@ -3327,7 +3329,12 @@
     <string name="corporation_info_type_phone">Телефон</string>
     <string name="corporation_info_type_address">Адрес</string>
     <string name="wifi_security_wapi_cert">WAPI серт.</string>
+    <string name="easy_mode">Простой режим</string>
+    <string name="easy_mode_tip">Будет использоваться упрощенный домашний экран с крупными шрифтом и значками.</string>
+    <string name="easy_mode_cancel_dialog_msg">Выйти из Простого режима?</string>
     <string name="search_settings_title">Поиск</string>
+    <string name="install_outside_app">Установка приложений из неофициальных источников</string>
+    <string name="wifi_proxy_manual">手動</string>
     <string name="fast_scroll_alphabet">ABCDEFGHIJKLMNOPQRSTUVWXYZ#</string>
     <string name="vioce_assisant_hit">试试说: 铃声</string>
     <string name="mz_date_time_month">м</string>
@@ -3442,54 +3449,9 @@
     <string name="mc_disable">Отключить</string>
     <string name="mc_time_picker_leap">Встав.</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <item type="string" name="APKTOOL_DUMMY_0988">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0989">false</item>
-    <item type="string" name="APKTOOL_DUMMY_098a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_098b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_098c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_098d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_098e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_098f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0990">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0991">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0992">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0993">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0994">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0995">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0996">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0997">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0998">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0999">false</item>
-    <item type="string" name="APKTOOL_DUMMY_099a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_099b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_099c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_099d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_099e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_099f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09a0">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09a1">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09a2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09a3">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09a4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09a5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09a6">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09a7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09a8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09a9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09aa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09ab">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09ac">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09ad">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09ae">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09af">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09b0">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09b1">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09b2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09b3">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09b4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_09b5">false</item>
-    <string name="wifi_proxy_manual">手動</string>
-	<string name="easy_mode">Простой режим</string>
-    <string name="easy_mode_cancel_dialog_msg">Выйти из Простого режима?</string>
-    <string name="easy_mode_tip">Будет использоваться упрощенный домашний экран с крупными шрифтом и значками.</string>
+    <string name="4pda_info">Подробнее о русификации</string>
+    <string name="ringtone_unknown">Без звука</string>
+	<string name="forget_pwd_associate_account_title">Связать с Flyme-аккаунтом</string>
+    <string name="forget_pwd_associate_account_summary">Использовать Flyme-аккаунт для восстановления пароля</string>
+    <string name="forget_pwd">Забыли пароль?</string>
 </resources>
