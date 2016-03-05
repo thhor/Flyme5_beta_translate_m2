@@ -711,6 +711,9 @@ flyme message and file transfer、contact
     <string name="callFailed_dsac_restricted_normal">В вашем домене запрещено звонить на обычные номера</string>
     <string name="callFailed_unobtainable_number">Неверный номер</string>
     <string name="incall_error_missing_voicemail_number">Неизвестный номер голосовой почты.</string>
+    <string name="sim1_more_info">Другие настройки(SIM1)</string>
+    <string name="sim2_more_info">Другие настройки(SIM2)</string>
+    <string name="expand_option_title">Другие настройки</string>
     <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
     <string name="fake_phone_activity_placeCall_text">Fake Incoming Call</string>
     <string name="phoneAppLabel">Телефон</string>
@@ -1279,50 +1282,18 @@ flyme message and file transfer、contact
     <string name="mc_disable">Отключить</string>
     <string name="mc_time_picker_leap">Встав.</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <item type="string" name="APKTOOL_DUMMY_02c1">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02c2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02cc">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02cf">false</item>
     <item type="string" name="APKTOOL_DUMMY_02d2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02d4">false</item>
     <item type="string" name="APKTOOL_DUMMY_02d5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02d6">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02d7">false</item>
     <item type="string" name="APKTOOL_DUMMY_02d8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02d9">false</item>
     <item type="string" name="APKTOOL_DUMMY_02db">false</item>
     <item type="string" name="APKTOOL_DUMMY_02dc">false</item>
     <item type="string" name="APKTOOL_DUMMY_02dd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02eb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02f4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02fb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_02fc">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0306">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0307">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0308">false</item>
-    <item type="string" name="APKTOOL_DUMMY_030b">false</item>
     <item type="string" name="APKTOOL_DUMMY_030c">false</item>
     <item type="string" name="APKTOOL_DUMMY_030d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_030f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0310">false</item>
     <item type="string" name="APKTOOL_DUMMY_0311">false</item>
     <item type="string" name="APKTOOL_DUMMY_0312">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0314">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0348">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0349">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0351">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0356">false</item>
     <item type="string" name="APKTOOL_DUMMY_0357">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0358">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0359">false</item>
-    <item type="string" name="APKTOOL_DUMMY_03b5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_03f7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_03f9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_03fa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_03fb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_03fc">false</item>
     <item type="string" name="APKTOOL_DUMMY_03fd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_03fe">false</item>
     <item type="string" name="APKTOOL_DUMMY_03ff">false</item>
     <item type="string" name="APKTOOL_DUMMY_0400">false</item>
     <item type="string" name="APKTOOL_DUMMY_0401">false</item>
@@ -1334,23 +1305,62 @@ flyme message and file transfer、contact
     <item type="string" name="APKTOOL_DUMMY_0407">false</item>
     <item type="string" name="APKTOOL_DUMMY_0408">false</item>
     <item type="string" name="APKTOOL_DUMMY_0409">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0410">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0411">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0412">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0420">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0423">false</item>
     <item type="string" name="APKTOOL_DUMMY_0426">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0427">false</item>
-    <item type="string" name="APKTOOL_DUMMY_0428">false</item>
     <item type="string" name="APKTOOL_DUMMY_0429">false</item>
-    <item type="string" name="APKTOOL_DUMMY_042a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_042b">false</item>
     <item type="string" name="APKTOOL_DUMMY_042c">false</item>
     <item type="string" name="APKTOOL_DUMMY_042d">false</item>
     <item type="string" name="APKTOOL_DUMMY_042e">false</item>
     <item type="string" name="APKTOOL_DUMMY_042f">false</item>
     <item type="string" name="APKTOOL_DUMMY_0430">false</item>
     <item type="string" name="APKTOOL_DUMMY_0431">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04ba">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04bc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_04be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02eb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02f4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_02fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0306">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0307">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0308">false</item>
+    <item type="string" name="APKTOOL_DUMMY_030b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_030f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0310">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0314">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0348">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0349">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0351">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0356">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0358">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0359">false</item>
+    <item type="string" name="APKTOOL_DUMMY_03b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_03f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_03f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_03fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_03fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_03fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_03fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0410">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0411">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0412">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0420">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0423">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0427">false</item>
+    <item type="string" name="APKTOOL_DUMMY_0428">false</item>
+    <item type="string" name="APKTOOL_DUMMY_042a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_042b">false</item>
     <item type="string" name="APKTOOL_DUMMY_043a">false</item>
     <item type="string" name="APKTOOL_DUMMY_04b1">false</item>
     <item type="string" name="APKTOOL_DUMMY_04b2">false</item>
@@ -1359,11 +1369,5 @@ flyme message and file transfer、contact
     <item type="string" name="APKTOOL_DUMMY_04b5">false</item>
     <item type="string" name="APKTOOL_DUMMY_04b6">false</item>
     <item type="string" name="APKTOOL_DUMMY_04b7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_04b8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_04b9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_04ba">false</item>
-    <item type="string" name="APKTOOL_DUMMY_04bb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_04bc">false</item>
-    <item type="string" name="APKTOOL_DUMMY_04bd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_04be">false</item>
 </resources>
+
