@@ -15,8 +15,8 @@
     <string name="tile_powersave_user_defined">Пользоват.</string>
     <string name="tile_powersave_super">Супер</string>
     <string name="tile_mobiledata_2g_only">Только 2G</string>
-    <string name="tile_mobiledata_3g_first">3G-приоритет</string>
-    <string name="tile_mobiledata_4g_first">4G-приоритет</string>
+    <string name="tile_mobiledata_3g_first">Только 3G</string>
+    <string name="tile_mobiledata_4g_first">Только 4G</string>
     <string name="status_bar_settings_battery_meter_format_simple">%d</string>
     <string name="tile_bluetooth_detail_empty_text">Активных Bluetooth-устройств поблизости не обнаружено.</string>
     <string name="wifi_password">Пароль</string>
@@ -73,6 +73,8 @@
     <string name="location_is_in_using">Поиск спутников в фоновом режиме</string>
     <string name="location_kill_process">Закрыть приложение</string>
     <string name="location_disallow_location">Запретить определение местоположения</string>
+    <string name="ext_media_mounted_notification_title">Обнаружена SD карта</string>
+    <string name="ext_media_mounted_notification_message">Нажмите для информации</string>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
     <string name="quick_settings_tiles_default">wifi,dataconnection,bt,mute,vibrate,airplane,rotation,location,autobrightness,flashlight,smarttouch,zenmode</string>
     <string name="quick_settings_tiles">default</string>
@@ -967,6 +969,4 @@
     <item type="string" name="APKTOOL_DUMMY_0289">false</item>
     <item type="string" name="APKTOOL_DUMMY_030f">false</item>
     <item type="string" name="APKTOOL_DUMMY_0310">false</item>
-	<string name="ext_media_mounted_notification_title">Обнаружена SD карта</string>
-    <string name="ext_media_mounted_notification_message">Нажмите для информации</string>
 </resources>
