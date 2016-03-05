@@ -16,14 +16,14 @@
     <string name="waitingcall_answer">+ Ответ</string>
     <string name="waitingcall_current_call">Текущий вызов</string>
     <string name="callForwardedText">Переадресация</string>
-    <string name="card_title_alerting">Оповещение</string>
+    <string name="card_title_alerting">Соединение</string>
     <string name="card_title_answering">Ответ</string>
     <string name="card_title_connecting">Соединение</string>
     <string name="forwardedCallText">Переадресация</string>
     <string name="add_call">Позвонить</string>
     <string name="mute_call">Выкл. звук</string>
     <string name="speaker">Динамик</string>
-    <string name="record_num">История</string>
+    <string name="record_num">Заметка</string>
     <string name="hold_call">Удержать</string>
     <string name="dialpad">Клавиатура</string>
     <string name="record">Запись</string>
@@ -62,6 +62,7 @@
     <string name="default_sim_select">Установить SIM-карту по умолчанию</string>
     <string name="bluetooth_auto_slot_countdown">(%s)</string>
     <string name="incall_voice_route">Voice route</string>
+    <string name="volume_key_tip_text">Нажмите клавишу громкости для отключения сигнала вызова; Длительное нажатие кнопки увеличения громкости - для ответа</string>
     <string name="phoneAppLabel">Телефон</string>
     <string name="unknown">Неизвестно</string>
     <string name="private_num">Скрытый номер</string>
