@@ -1,1 +1,1 @@
-# Flyme5_beta_translate_m2
+# Flyme5 beta translate(RU) for MEIZU M2note
