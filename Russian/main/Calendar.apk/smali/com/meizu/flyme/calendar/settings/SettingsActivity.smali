@@ -89,8 +89,6 @@
 
 .field private q:Landroid/preference/ListPreference;
 
-.field private r:Landroid/preference/ListPreference;
-
 .field private s:Lcom/meizu/flyme/calendar/settings/CalCheckBoxPreference;
 
 .field private t:Lcom/meizu/flyme/calendar/i;
@@ -380,16 +378,6 @@
     invoke-direct {v1, v0}, Landroid/graphics/drawable/BitmapDrawable;-><init>(Landroid/graphics/Bitmap;)V
 
     return-object v1
-.end method
-
-.method static synthetic a(Lcom/meizu/flyme/calendar/settings/SettingsActivity;)Landroid/preference/ListPreference;
-    .locals 1
-
-    .prologue
-    .line 51
-    iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
-
-    return-object v0
 .end method
 
 .method private a(Ljava/lang/String;)Ljava/lang/String;
@@ -981,20 +969,6 @@
 
     iput-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->k:Landroid/preference/PreferenceCategory;
 
-    .line 109
-    const-string v0, "pref_key_holiday_zone"
-
-    invoke-virtual {p0, v0}, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->findPreference(Ljava/lang/CharSequence;)Landroid/preference/Preference;
-
-    move-result-object v0
-
-    check-cast v0, Landroid/preference/ListPreference;
-
-    iput-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
-
-    .line 110
-    invoke-direct {p0}, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->e()V
-
     .line 111
     const-string v0, "preferences_contacts_birthday"
 
@@ -1033,11 +1007,6 @@
 
     .line 131
     iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->q:Landroid/preference/ListPreference;
-
-    invoke-virtual {v0, p0}, Landroid/preference/ListPreference;->setOnPreferenceChangeListener(Landroid/preference/Preference$OnPreferenceChangeListener;)V
-
-    .line 132
-    iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
 
     invoke-virtual {v0, p0}, Landroid/preference/ListPreference;->setOnPreferenceChangeListener(Landroid/preference/Preference$OnPreferenceChangeListener;)V
 
