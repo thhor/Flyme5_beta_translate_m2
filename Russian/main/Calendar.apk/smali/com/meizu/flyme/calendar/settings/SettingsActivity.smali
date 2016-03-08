@@ -89,6 +89,8 @@
 
 .field private q:Landroid/preference/ListPreference;
 
+.field private r:Landroid/preference/ListPreference;
+
 .field private s:Lcom/meizu/flyme/calendar/settings/CalCheckBoxPreference;
 
 .field private t:Lcom/meizu/flyme/calendar/i;
@@ -380,6 +382,16 @@
     return-object v1
 .end method
 
+.method static synthetic a(Lcom/meizu/flyme/calendar/settings/SettingsActivity;)Landroid/preference/ListPreference;
+    .locals 1
+
+    .prologue
+    .line 51
+    iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
+
+    return-object v0
+.end method
+
 .method private a(Ljava/lang/String;)Ljava/lang/String;
     .locals 2
 
@@ -563,7 +575,7 @@
     .line 360
     iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->q:Landroid/preference/ListPreference;
 
-    const v1, 0x7f090141
+    const v1, 0x7f090126
 
     invoke-virtual {v0, v1}, Landroid/preference/ListPreference;->setSummary(I)V
 
@@ -671,7 +683,7 @@
     if-eqz v12, :cond_2
 
     .line 386
-    const v4, 0x7f0900fc
+    const v4, 0x7f09007f
 
     invoke-virtual {p0, v4}, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->getString(I)Ljava/lang/String;
 
@@ -921,7 +933,7 @@
 
     .prologue
     .line 103
-    const v0, 0x7f080001
+    const v0, 0x7f080002
 
     invoke-virtual {p0, v0}, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->addPreferencesFromResource(I)V
 
@@ -968,7 +980,21 @@
     check-cast v0, Landroid/preference/PreferenceCategory;
 
     iput-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->k:Landroid/preference/PreferenceCategory;
- 
+
+    .line 109
+    const-string v0, "pref_key_holiday_zone"
+
+    invoke-virtual {p0, v0}, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->findPreference(Ljava/lang/CharSequence;)Landroid/preference/Preference;
+
+    move-result-object v0
+
+    check-cast v0, Landroid/preference/ListPreference;
+
+    iput-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
+
+    .line 110
+    invoke-direct {p0}, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->e()V
+
     .line 111
     const-string v0, "preferences_contacts_birthday"
 
@@ -1010,6 +1036,11 @@
 
     invoke-virtual {v0, p0}, Landroid/preference/ListPreference;->setOnPreferenceChangeListener(Landroid/preference/Preference$OnPreferenceChangeListener;)V
 
+    .line 132
+    iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
+
+    invoke-virtual {v0, p0}, Landroid/preference/ListPreference;->setOnPreferenceChangeListener(Landroid/preference/Preference$OnPreferenceChangeListener;)V
+
     .line 133
     iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->s:Lcom/meizu/flyme/calendar/settings/CalCheckBoxPreference;
 
@@ -1044,13 +1075,13 @@
     .line 140
     const/4 v0, 0x1
 
-    invoke-static {v0}, Lcom/meizu/flyme/calendar/u;->a(Z)Z
+    invoke-static {v0}, Lcom/meizu/flyme/calendar/v;->a(Z)Z
 
     move-result v0
 
     if-eqz v0, :cond_0
 
-    invoke-static {}, Lcom/meizu/flyme/calendar/o;->b()Z
+    invoke-static {}, Lcom/meizu/flyme/calendar/p;->b()Z
 
     move-result v0
 
@@ -1080,7 +1111,7 @@
 
     .prologue
     .line 147
-    invoke-static {p0}, Lcom/meizu/flyme/calendar/dateview/datasource/cupboardhelper/ConstellationAlmanacDbHelper;->getRxDatabase(Landroid/content/Context;)Lcom/meizu/flyme/calendar/r;
+    invoke-static {p0}, Lcom/meizu/flyme/calendar/dateview/datasource/cupboardhelper/ConstellationAlmanacDbHelper;->getRxDatabase(Landroid/content/Context;)Lcom/meizu/flyme/calendar/s;
 
     move-result-object v0
 
@@ -1116,7 +1147,7 @@
 
     new-array v3, v3, [Ljava/lang/String;
 
-    invoke-virtual {v0, v1, v2, v3}, Lcom/meizu/flyme/calendar/r;->a(Ljava/lang/Class;Ljava/lang/String;[Ljava/lang/String;)Lrx/a;
+    invoke-virtual {v0, v1, v2, v3}, Lcom/meizu/flyme/calendar/s;->a(Ljava/lang/Class;Ljava/lang/String;[Ljava/lang/String;)Lrx/a;
 
     move-result-object v0
 
@@ -1513,7 +1544,7 @@
     :goto_4
     if-eqz v3, :cond_a
 
-    const v2, 0x7f0900fc
+    const v2, 0x7f09007f
 
     invoke-virtual {p0, v2}, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->getString(I)Ljava/lang/String;
 
@@ -1601,7 +1632,7 @@
 
     move-result v0
 
-    invoke-static {v0}, Lcom/meizu/flyme/calendar/u;->b(I)I
+    invoke-static {v0}, Lcom/meizu/flyme/calendar/v;->b(I)I
 
     move-result v0
 
@@ -1716,7 +1747,7 @@
 
     move-result-object v0
 
-    const v1, 0x7f090130
+    const v1, 0x7f090115
 
     invoke-virtual {v0, v1}, Landroid/content/res/Resources;->getString(I)Ljava/lang/String;
 
@@ -1911,13 +1942,13 @@
 
     move-result-object v0
 
-    new-instance v2, Lcom/meizu/flyme/calendar/t;
+    new-instance v2, Lcom/meizu/flyme/calendar/u;
 
     const-string v4, "Set_weekstart"
 
     const-string v5, "Setting"
 
-    invoke-direct {v2, v4, v5, v3}, Lcom/meizu/flyme/calendar/t;-><init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+    invoke-direct {v2, v4, v5, v3}, Lcom/meizu/flyme/calendar/u;-><init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
 
     invoke-virtual {v0, v2}, Lcom/meizu/flyme/calendar/b/a;->a(Ljava/lang/Object;)V
 
@@ -2007,7 +2038,101 @@
 
     .line 290
     :cond_5
-    
+    iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
+
+    if-ne p1, v0, :cond_6
+
+    .line 291
+    iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
+
+    invoke-virtual {v0}, Landroid/preference/ListPreference;->getValue()Ljava/lang/String;
+
+    move-result-object v2
+
+    .line 292
+    iget-object v3, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
+
+    move-object v0, p2
+
+    check-cast v0, Ljava/lang/String;
+
+    invoke-virtual {v3, v0}, Landroid/preference/ListPreference;->setValue(Ljava/lang/String;)V
+
+    .line 293
+    iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
+
+    iget-object v3, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
+
+    invoke-virtual {v3}, Landroid/preference/ListPreference;->getEntry()Ljava/lang/CharSequence;
+
+    move-result-object v3
+
+    invoke-virtual {v0, v3}, Landroid/preference/ListPreference;->setSummary(Ljava/lang/CharSequence;)V
+
+    .line 294
+    iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
+
+    invoke-virtual {v0}, Landroid/preference/ListPreference;->getValue()Ljava/lang/String;
+
+    move-result-object v0
+
+    .line 297
+    iget-object v3, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->r:Landroid/preference/ListPreference;
+
+    invoke-virtual {v3}, Landroid/preference/ListPreference;->getEntry()Ljava/lang/CharSequence;
+
+    move-result-object v3
+
+    invoke-interface {v3}, Ljava/lang/CharSequence;->toString()Ljava/lang/String;
+
+    move-result-object v3
+
+    invoke-static {p0, v3}, Lcom/meizu/flyme/calendar/settings/a;->a(Landroid/content/Context;Ljava/lang/String;)V
+
+    .line 298
+    check-cast p2, Ljava/lang/String;
+
+    invoke-static {p0, p2}, Lcom/meizu/flyme/calendar/settings/a;->b(Landroid/content/Context;Ljava/lang/String;)V
+
+    .line 299
+    invoke-static {}, Lcom/meizu/flyme/calendar/b/a;->a()Lcom/meizu/flyme/calendar/b/a;
+
+    move-result-object v3
+
+    new-instance v4, Lcom/meizu/flyme/calendar/u;
+
+    const-string v5, "Set_holiday"
+
+    const-string v6, "Setting"
+
+    new-instance v7, Ljava/lang/StringBuilder;
+
+    invoke-direct {v7}, Ljava/lang/StringBuilder;-><init>()V
+
+    invoke-virtual {v7, v2}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v2
+
+    const-string v7, "2"
+
+    invoke-virtual {v2, v7}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v2
+
+    invoke-virtual {v2, v0}, Ljava/lang/StringBuilder;->append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+
+    move-result-object v0
+
+    invoke-virtual {v0}, Ljava/lang/StringBuilder;->toString()Ljava/lang/String;
+
+    move-result-object v0
+
+    invoke-direct {v4, v5, v6, v0}, Lcom/meizu/flyme/calendar/u;-><init>(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V
+
+    invoke-virtual {v3, v4}, Lcom/meizu/flyme/calendar/b/a;->a(Ljava/lang/Object;)V
+
+    goto/16 :goto_1
+
     .line 300
     :cond_6
     iget-object v0, p0, Lcom/meizu/flyme/calendar/settings/SettingsActivity;->s:Lcom/meizu/flyme/calendar/settings/CalCheckBoxPreference;
@@ -2077,7 +2202,7 @@
     invoke-virtual/range {v1 .. v9}, Lcom/meizu/flyme/calendar/events/helper/a;->a(ILjava/lang/Object;Landroid/net/Uri;Landroid/content/ContentValues;Ljava/lang/String;[Ljava/lang/String;J)V
 
     .line 310
-    invoke-static {p0}, Lcom/meizu/flyme/calendar/u;->f(Landroid/content/Context;)V
+    invoke-static {p0}, Lcom/meizu/flyme/calendar/v;->f(Landroid/content/Context;)V
 
     goto/16 :goto_2
 
@@ -2166,11 +2291,11 @@
 
     move-result-object v1
 
-    new-instance v2, Lcom/meizu/flyme/calendar/t;
+    new-instance v2, Lcom/meizu/flyme/calendar/u;
 
     const-string v3, "Setting"
 
-    invoke-direct {v2, v3, v0}, Lcom/meizu/flyme/calendar/t;-><init>(Ljava/lang/String;I)V
+    invoke-direct {v2, v3, v0}, Lcom/meizu/flyme/calendar/u;-><init>(Ljava/lang/String;I)V
 
     invoke-virtual {v1, v2}, Lcom/meizu/flyme/calendar/b/a;->a(Ljava/lang/Object;)V
 
@@ -2193,11 +2318,11 @@
 
     move-result-object v1
 
-    new-instance v2, Lcom/meizu/flyme/calendar/t;
+    new-instance v2, Lcom/meizu/flyme/calendar/u;
 
     const-string v3, "Setting"
 
-    invoke-direct {v2, v3, v0}, Lcom/meizu/flyme/calendar/t;-><init>(Ljava/lang/String;I)V
+    invoke-direct {v2, v3, v0}, Lcom/meizu/flyme/calendar/u;-><init>(Ljava/lang/String;I)V
 
     invoke-virtual {v1, v2}, Lcom/meizu/flyme/calendar/b/a;->a(Ljava/lang/Object;)V
 
