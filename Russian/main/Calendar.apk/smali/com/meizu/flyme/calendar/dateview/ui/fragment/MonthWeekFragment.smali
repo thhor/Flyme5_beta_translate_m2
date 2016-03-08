@@ -1,5 +1,5 @@
 .class public Lcom/meizu/flyme/calendar/dateview/ui/fragment/MonthWeekFragment;
-.super Lcom/meizu/flyme/calendar/q;
+.super Lcom/meizu/flyme/calendar/r;
 .source "MonthWeekFragment.java"
 
 # interfaces
@@ -108,7 +108,7 @@
     const/4 v1, 0x0
 
     .line 61
-    invoke-direct {p0}, Lcom/meizu/flyme/calendar/q;-><init>()V
+    invoke-direct {p0}, Lcom/meizu/flyme/calendar/r;-><init>()V
 
     .line 62
     const-string v0, "MonthWeekFragment"
@@ -786,7 +786,7 @@
     .line 880
     iget-object v1, p0, Lcom/meizu/flyme/calendar/dateview/ui/fragment/MonthWeekFragment;->mActivity:Landroid/app/Activity;
 
-    invoke-static {v1}, Lcom/meizu/flyme/calendar/u;->d(Landroid/content/Context;)I
+    invoke-static {v1}, Lcom/meizu/flyme/calendar/v;->d(Landroid/content/Context;)I
 
     move-result v1
 
@@ -815,7 +815,7 @@
     invoke-direct {v0}, Ljava/util/GregorianCalendar;-><init>()V
 
     .line 1224
-    invoke-static {p1}, Lcom/meizu/flyme/calendar/u;->d(Landroid/content/Context;)I
+    invoke-static {p1}, Lcom/meizu/flyme/calendar/v;->d(Landroid/content/Context;)I
 
     move-result v1
 
@@ -1246,7 +1246,7 @@
 
     iget-object v1, p0, Lcom/meizu/flyme/calendar/dateview/ui/fragment/MonthWeekFragment;->mActivity:Landroid/app/Activity;
 
-    invoke-static {v1}, Lcom/meizu/flyme/calendar/u;->d(Landroid/content/Context;)I
+    invoke-static {v1}, Lcom/meizu/flyme/calendar/v;->d(Landroid/content/Context;)I
 
     move-result v1
 
@@ -3222,7 +3222,7 @@
 
     .prologue
     .line 229
-    invoke-super {p0, p1}, Lcom/meizu/flyme/calendar/q;->onAttach(Landroid/app/Activity;)V
+    invoke-super {p0, p1}, Lcom/meizu/flyme/calendar/r;->onAttach(Landroid/app/Activity;)V
 
     .line 230
     iput-object p1, p0, Lcom/meizu/flyme/calendar/dateview/ui/fragment/MonthWeekFragment;->mActivity:Landroid/app/Activity;
@@ -3247,7 +3247,7 @@
 
     move-result-object v0
 
-    invoke-static {v0}, Lcom/meizu/flyme/calendar/u;->a(Landroid/content/ContentResolver;)Z
+    invoke-static {v0}, Lcom/meizu/flyme/calendar/v;->a(Landroid/content/ContentResolver;)Z
 
     move-result v0
 
@@ -3323,13 +3323,13 @@
 
     .prologue
     .line 220
-    invoke-super {p0, p1}, Lcom/meizu/flyme/calendar/q;->onCreate(Landroid/os/Bundle;)V
+    invoke-super {p0, p1}, Lcom/meizu/flyme/calendar/r;->onCreate(Landroid/os/Bundle;)V
 
     .line 221
     invoke-virtual {p0}, Lcom/meizu/flyme/calendar/dateview/ui/fragment/MonthWeekFragment;->getFragmentArguments()V
 
     .line 222
-    sget-object v0, Lcom/meizu/flyme/calendar/u;->h:Ljava/lang/String;
+    sget-object v0, Lcom/meizu/flyme/calendar/v;->h:Ljava/lang/String;
 
     const-string v1, "Month"
 
@@ -3442,7 +3442,7 @@
 
     .prologue
     .line 908
-    invoke-super {p0}, Lcom/meizu/flyme/calendar/q;->onDestroy()V
+    invoke-super {p0}, Lcom/meizu/flyme/calendar/r;->onDestroy()V
 
     .line 909
     return-void
@@ -3463,7 +3463,7 @@
     invoke-interface {v0, p0}, Landroid/content/SharedPreferences;->unregisterOnSharedPreferenceChangeListener(Landroid/content/SharedPreferences$OnSharedPreferenceChangeListener;)V
 
     .line 251
-    invoke-super {p0}, Lcom/meizu/flyme/calendar/q;->onDetach()V
+    invoke-super {p0}, Lcom/meizu/flyme/calendar/r;->onDetach()V
 
     .line 252
     return-void
@@ -3479,7 +3479,7 @@
     iput-boolean v0, p0, Lcom/meizu/flyme/calendar/dateview/ui/fragment/MonthWeekFragment;->mIsOnPause:Z
 
     .line 483
-    invoke-super {p0}, Lcom/meizu/flyme/calendar/q;->onPause()V
+    invoke-super {p0}, Lcom/meizu/flyme/calendar/r;->onPause()V
 
     .line 484
     return-void
@@ -3615,7 +3615,7 @@
 
     .line 476
     :cond_4
-    invoke-super {p0}, Lcom/meizu/flyme/calendar/q;->onResume()V
+    invoke-super {p0}, Lcom/meizu/flyme/calendar/r;->onResume()V
 
     .line 477
     const-string v0, "MonthFragment============================= resume"
@@ -3631,7 +3631,7 @@
 
     .prologue
     .line 554
-    invoke-super {p0, p1}, Lcom/meizu/flyme/calendar/q;->onSaveInstanceState(Landroid/os/Bundle;)V
+    invoke-super {p0, p1}, Lcom/meizu/flyme/calendar/r;->onSaveInstanceState(Landroid/os/Bundle;)V
 
     .line 555
     return-void
@@ -3724,7 +3724,7 @@
 
     move-result v0
 
-    goto :cond_3
+    if-eqz v0, :cond_3
 
     .line 622
     iget-boolean v0, p0, Lcom/meizu/flyme/calendar/dateview/ui/fragment/MonthWeekFragment;->mIsOnPause:Z
@@ -3854,20 +3854,20 @@
     .line 919
     const-string v0, "Week"
 
-    sput-object v0, Lcom/meizu/flyme/calendar/u;->h:Ljava/lang/String;
+    sput-object v0, Lcom/meizu/flyme/calendar/v;->h:Ljava/lang/String;
 
     .line 920
     invoke-static {}, Lcom/meizu/flyme/calendar/b/a;->a()Lcom/meizu/flyme/calendar/b/a;
 
     move-result-object v0
 
-    new-instance v1, Lcom/meizu/flyme/calendar/t;
+    new-instance v1, Lcom/meizu/flyme/calendar/u;
 
     const-string v2, "Week"
 
     const-string v3, "Month"
 
-    invoke-direct {v1, v2, v3}, Lcom/meizu/flyme/calendar/t;-><init>(Ljava/lang/String;Ljava/lang/String;)V
+    invoke-direct {v1, v2, v3}, Lcom/meizu/flyme/calendar/u;-><init>(Ljava/lang/String;Ljava/lang/String;)V
 
     invoke-virtual {v0, v1}, Lcom/meizu/flyme/calendar/b/a;->a(Ljava/lang/Object;)V
 
@@ -4008,20 +4008,20 @@
     .line 944
     const-string v0, "Month"
 
-    sput-object v0, Lcom/meizu/flyme/calendar/u;->h:Ljava/lang/String;
+    sput-object v0, Lcom/meizu/flyme/calendar/v;->h:Ljava/lang/String;
 
     .line 945
     invoke-static {}, Lcom/meizu/flyme/calendar/b/a;->a()Lcom/meizu/flyme/calendar/b/a;
 
     move-result-object v0
 
-    new-instance v1, Lcom/meizu/flyme/calendar/t;
+    new-instance v1, Lcom/meizu/flyme/calendar/u;
 
     const-string v2, "Month"
 
     const-string v3, "Week"
 
-    invoke-direct {v1, v2, v3}, Lcom/meizu/flyme/calendar/t;-><init>(Ljava/lang/String;Ljava/lang/String;)V
+    invoke-direct {v1, v2, v3}, Lcom/meizu/flyme/calendar/u;-><init>(Ljava/lang/String;Ljava/lang/String;)V
 
     invoke-virtual {v0, v1}, Lcom/meizu/flyme/calendar/b/a;->a(Ljava/lang/Object;)V
 
@@ -4054,7 +4054,7 @@
     const/4 v3, 0x0
 
     .line 888
-    sget-object v0, Lcom/meizu/flyme/calendar/u;->h:Ljava/lang/String;
+    sget-object v0, Lcom/meizu/flyme/calendar/v;->h:Ljava/lang/String;
 
     const-string v1, "Month"
 
@@ -4065,11 +4065,11 @@
 
     move-result-object v0
 
-    new-instance v1, Lcom/meizu/flyme/calendar/t;
+    new-instance v1, Lcom/meizu/flyme/calendar/u;
 
-    sget-object v2, Lcom/meizu/flyme/calendar/u;->h:Ljava/lang/String;
+    sget-object v2, Lcom/meizu/flyme/calendar/v;->h:Ljava/lang/String;
 
-    invoke-direct {v1, v2, v3}, Lcom/meizu/flyme/calendar/t;-><init>(Ljava/lang/String;Ljava/lang/String;)V
+    invoke-direct {v1, v2, v3}, Lcom/meizu/flyme/calendar/u;-><init>(Ljava/lang/String;Ljava/lang/String;)V
 
     invoke-virtual {v0, v1}, Lcom/meizu/flyme/calendar/b/a;->a(Ljava/lang/Object;)V
 
@@ -4080,7 +4080,7 @@
     invoke-static {v0}, Lcom/meizu/flyme/calendar/subscription/b;->a(Ljava/lang/String;)V
 
     .line 894
-    invoke-super {p0}, Lcom/meizu/flyme/calendar/q;->onStart()V
+    invoke-super {p0}, Lcom/meizu/flyme/calendar/r;->onStart()V
 
     .line 895
     invoke-static {}, Lcom/meizu/flyme/calendar/b/a;->a()Lcom/meizu/flyme/calendar/b/a;
@@ -4098,11 +4098,11 @@
 
     move-result-object v0
 
-    new-instance v1, Lcom/meizu/flyme/calendar/t;
+    new-instance v1, Lcom/meizu/flyme/calendar/u;
 
-    sget-object v2, Lcom/meizu/flyme/calendar/u;->h:Ljava/lang/String;
+    sget-object v2, Lcom/meizu/flyme/calendar/v;->h:Ljava/lang/String;
 
-    invoke-direct {v1, v2, v3}, Lcom/meizu/flyme/calendar/t;-><init>(Ljava/lang/String;Ljava/lang/String;)V
+    invoke-direct {v1, v2, v3}, Lcom/meizu/flyme/calendar/u;-><init>(Ljava/lang/String;Ljava/lang/String;)V
 
     invoke-virtual {v0, v1}, Lcom/meizu/flyme/calendar/b/a;->a(Ljava/lang/Object;)V
 
@@ -4121,7 +4121,7 @@
     invoke-virtual {v0, p0}, Lcom/meizu/flyme/calendar/b/a;->b(Lcom/meizu/flyme/calendar/b/b;)V
 
     .line 902
-    invoke-super {p0}, Lcom/meizu/flyme/calendar/q;->onStop()V
+    invoke-super {p0}, Lcom/meizu/flyme/calendar/r;->onStop()V
 
     .line 903
     const-string v0, "MonthFragment============================= stop"
