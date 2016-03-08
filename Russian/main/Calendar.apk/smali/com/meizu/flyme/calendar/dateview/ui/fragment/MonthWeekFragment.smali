@@ -3724,7 +3724,7 @@
 
     move-result v0
 
-    if-eqz v0, :cond_3
+    goto :cond_3
 
     .line 622
     iget-boolean v0, p0, Lcom/meizu/flyme/calendar/dateview/ui/fragment/MonthWeekFragment;->mIsOnPause:Z
