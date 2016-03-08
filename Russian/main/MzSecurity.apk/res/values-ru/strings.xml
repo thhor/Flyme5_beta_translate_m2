@@ -1076,5 +1076,5 @@
     <string name="app_consumption_management">Управление приложениями</string>
     <string name="app_waken_allowed_from_cnt">Общий запуск: %1$s</string>
     <string name="msg_help_for_clean_app_old">Автозакрытие фоновых приложений, спустя 3 минуты сна. Это может привести к отказу в получении уведомлений.</string>
-    <string name="title_app_cutawaken">Запретить общий запуск в режиме сна</string>
+    <string name="title_app_cutawaken">Откл. общий запуск в режиме сна</string>
 </resources>
