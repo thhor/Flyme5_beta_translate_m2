@@ -51,7 +51,7 @@
     <string name="clear_all">Очистить историю</string>
     <string name="clear_all_finish">История очищена</string>
     <string name="download_pause">Пауза загрузки</string>
-    <string name="download_failed">Ошибка загрузки</string>
+    <string name="download_failed">Ошибка</string>
     <string name="download_directory">Папка загрузки</string>
     <string name="download_complete">Загруженное</string>
     <string name="new_download">Новая загрузка</string>
@@ -59,7 +59,7 @@
     <string name="stop_download">Пауза</string>
     <string name="go_download">Продолжить</string>
     <string name="in_download">Загрузка</string>
-    <string name="wait_download">Инициализация загрузки…</string>
+    <string name="wait_download">Инициализация…</string>
     <string name="delete">Удалить</string>
     <string name="deleting">Удаление</string>
     <string name="cancel">Отмена</string>
@@ -90,7 +90,7 @@
     <string name="delete_task">Удалить задачу</string>
     <string name="delete_nrecord">Удаление записей: %d</string>
     <string name="delete_record_and_file">Удалить запись и файл</string>
-    <string name="status_paused">Приостановлено</string>
+    <string name="status_paused">Пауза</string>
     <string name="unselect_all">Отменить выбор</string>
     <string name="select_file">Выбрать файл</string>
     <string name="network_unavailable_set">Сеть недоступна, перейдите к настройкам</string>
