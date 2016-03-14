@@ -59,7 +59,7 @@
     <string name="stop_download">Пауза</string>
     <string name="go_download">Продолжить</string>
     <string name="in_download">Загрузка</string>
-    <string name="wait_download">Инициализация…</string>
+    <string name="wait_download">Ожидание…</string>
     <string name="delete">Удалить</string>
     <string name="deleting">Удаление</string>
     <string name="cancel">Отмена</string>
