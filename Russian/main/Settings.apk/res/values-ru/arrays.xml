@@ -691,15 +691,10 @@
         <item>29</item>
         <item>30</item>
     </string-array>
-    <string-array name="preferred_network_mode_choices_simple_mrvl">
-        <item>2G only</item>
-        <item>3G first</item>
-        <item>4G first</item>
-    </string-array>
     <string-array name="preferred_network_mode_choices_intl">
-        <item>2G only</item>
-        <item>3G first</item>
-        <item>3G only</item>
-        <item>4G first</item>
+        <item>Только 2G</item>
+        <item>Приоритет 3G</item>
+        <item>Только 3G</item>
+        <item>Приоритет 4G</item>
     </string-array>
 </resources>
