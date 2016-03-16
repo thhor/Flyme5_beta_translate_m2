@@ -13,7 +13,7 @@
     <string name="abc_searchview_description_voice">Голосовой поиск</string>
     <string name="abc_shareactionprovider_share_with">Открыть доступ</string>
     <string name="abc_shareactionprovider_share_with_application">Открыть доступ пользователю %s</string>
-    <string name="add_fast_folder">Добавит в избранное</string>
+    <string name="add_fast_folder">Добавить в избранное</string>
     <string name="add_fast_folder_fail_tips">Добавлено в избранное</string>
     <string name="add_fast_folder_success_tips">Добавлено</string>
     <string name="alwaysUse">По умолчанию для этого действия</string>
