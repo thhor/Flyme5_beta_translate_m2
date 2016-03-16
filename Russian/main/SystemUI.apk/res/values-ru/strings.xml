@@ -14,9 +14,9 @@
     <string name="tile_powersave_standard">Смарт</string>
     <string name="tile_powersave_user_defined">Пользоват.</string>
     <string name="tile_powersave_super">Супер</string>
-    <string name="tile_mobiledata_2g_only">Только 2G</string>
-    <string name="tile_mobiledata_3g_first">Только 3G</string>
-    <string name="tile_mobiledata_4g_first">Только 4G</string>
+    <string name="tile_mobiledata_2g_only">Сеть 2G</string>
+    <string name="tile_mobiledata_3g_first">Сеть 3G</string>
+    <string name="tile_mobiledata_4g_first">Сеть 4G</string>
     <string name="status_bar_settings_battery_meter_format_simple">%d</string>
     <string name="tile_bluetooth_detail_empty_text">Активных Bluetooth-устройств поблизости не обнаружено.</string>
     <string name="wifi_password">Пароль</string>
