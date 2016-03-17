@@ -278,7 +278,7 @@
     <string name="confirm_delete_messages">Удалить %1$s сообщение</string>
     <string name="confirm_dialog_delete_conversation">Удалить сообщение?</string>
     <string name="confirm_dialog_delete_conversations">Удалить выбранные сообщения?</string>
-    <string name="confirm_dialog_resend_mms_msg">Сделать расслыку MMS повторно?</string>
+    <string name="confirm_dialog_resend_mms_msg">Сделать рассылку MMS повторно?</string>
     <string name="confirm_dialog_resend_sms_msg">Рассылка сообщения для %s</string>
     <string name="confirm_dialog_search_spam_address">Отфильтровать номер?</string>
     <string name="confirm_dialog_search_spam_addresses">Отфильтровать выбранные номера?</string>
@@ -536,7 +536,7 @@
     <string name="mms_notifi_subject">(MMS-уведомление)</string>
     <string name="mms_slide_show_detail_text">Детали</string>
     <string name="mms_slideshow_view_title">Детали</string>
-    <string name="mms_talk_noti_subject_view">(Голосове сообщение)</string>
+    <string name="mms_talk_noti_subject_view">(Голосовое сообщение)</string>
     <string name="mms_vcard_subject_view">(vCard)</string>
     <string name="mms_video_subject_view">(Видео)</string>
     <string name="monthly_fee">Проверить счет</string>
