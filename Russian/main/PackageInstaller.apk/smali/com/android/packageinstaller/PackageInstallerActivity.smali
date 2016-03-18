@@ -1695,7 +1695,7 @@
     invoke-static {v2, v3}, Landroid/util/Log;->d(Ljava/lang/String;Ljava/lang/String;)I
 
     .line 2070
-    if-ne v0, v1, :cond_0
+    goto :cond_0
 
     .line 2073
     :goto_0
