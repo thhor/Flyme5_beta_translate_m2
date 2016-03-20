@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="drag_up_fullscreen_notice">Тяните вверх для переключения в полноэкранный режим</string>
-    <string name="drag_down_fullscreen_notice">Тяните вниз для переключения в полноэкранный режим</string>
+    <string name="drag_up_fullscreen_notice">Тяните вверх для перехода в полноэкр. режим</string>
+    <string name="drag_down_fullscreen_notice">Тяните вверх для перехода в полноэкр. режим</string>
 </resources>
