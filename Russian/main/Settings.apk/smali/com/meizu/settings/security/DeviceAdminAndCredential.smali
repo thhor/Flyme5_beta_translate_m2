@@ -364,6 +364,11 @@
 
     invoke-virtual {v5, p0}, Landroid/preference/ListPreference;->setOnPreferenceChangeListener(Landroid/preference/Preference$OnPreferenceChangeListener;)V
 
+	.line 107
+    iget-object v5, p0, Lcom/meizu/settings/security/DeviceAdminAndCredential;->mInstallAppRisk:Landroid/preference/ListPreference;
+
+    invoke-virtual {v2, v5}, Landroid/preference/PreferenceScreen;->removePreference(Landroid/preference/Preference;)Z
+
     .line 109
     return-void
 
