@@ -3329,6 +3329,9 @@
     <string name="corporation_info_type_phone">Телефон</string>
     <string name="corporation_info_type_address">Адрес</string>
     <string name="wifi_security_wapi_cert">WAPI серт.</string>
+    <string name="forget_pwd_associate_account_title">Связать с Flyme-аккаунтом</string>
+    <string name="forget_pwd_associate_account_summary">Использовать Flyme-аккаунт для восстановления пароля</string>
+    <string name="forget_pwd">Забыли пароль?</string>
     <string name="easy_mode">Простой режим</string>
     <string name="easy_mode_tip">Будет использоваться упрощенный домашний экран с крупными шрифтом и значками.</string>
     <string name="easy_mode_cancel_dialog_msg">Выйти из Простого режима?</string>
@@ -3451,7 +3454,10 @@
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="4pda_info">Подробнее о русификации</string>
     <string name="ringtone_unknown">Без звука</string>
-	<string name="forget_pwd_associate_account_title">Связать с Flyme-аккаунтом</string>
-    <string name="forget_pwd_associate_account_summary">Использовать Flyme-аккаунт для восстановления пароля</string>
-    <string name="forget_pwd">Забыли пароль?</string>
+    <string name="buttom_button_style_title">Расположение элементов в приложениях</string>
+    <string name="buttom_button_style_summary">Выбрать между плавающей кнопкой или панелью кнопок в нижней части экрана</string>
+    <string name="phone_view">Телефон</string>
+    <string name="float_button">Плавающая кнопка</string>
+    <string name="bottom_button">Кнопки внизу экрана</string>
+    <string name="other_app_view">Другие приложения</string>
 </resources>
