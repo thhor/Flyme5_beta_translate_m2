@@ -1029,7 +1029,7 @@
     <string name="master_clear_progress_title">Удаление…</string>
     <string name="master_clear_progress_text">Подождите...</string>
     <string name="media_format_title">Очистить карту памяти</string>
-    <string name="media_format_summary">Удаление всех данных с карты пмяти</string>
+    <string name="media_format_summary">Удаление всех данных с карты памяти</string>
     <string name="media_format_desc">Очистить карту памяти? Вы потеряете <b>все</b> данные на ней.</string>
     <string name="media_format_button_text">Очистить карту памяти</string>
     <string name="media_format_final_desc">Удалить с карты памяти все файлы без возможности восстановления?</string>
@@ -1055,7 +1055,7 @@
     <string name="bluetooth_tethering_device_connected_subtext">Интернет-подключение телефона используется 1 устройством</string>
     <string name="bluetooth_tethering_devices_connected_subtext">Интернет-подключение телефона используется %1$d устройствами</string>
     <string name="bluetooth_tethering_off_subtext_config">Использование устройства %1$d в режиме модема</string>
-    <string name="bluetooth_tethering_off_subtext">Передать сетевое подлкючение через Bluetooth</string>
+    <string name="bluetooth_tethering_off_subtext">Передать сетевое подключение через Bluetooth</string>
     <string name="bluetooth_tethering_errored_subtext">Отсутствует подключение</string>
     <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
     <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано.</string>
@@ -1309,7 +1309,7 @@
     <string name="running_processes_header_apps_prefix">Приложения</string>
     <string name="running_processes_header_free_prefix">Свободно</string>
     <string name="running_processes_header_used_prefix">Используется</string>
-    <string name="running_processes_header_cached_prefix">Кешированные</string>
+    <string name="running_processes_header_cached_prefix">Кэшированные</string>
     <string name="running_processes_header_ram">%1$s ОЗУ</string>
     <string name="runningservicedetails_settings_title">Запущенное приложение</string>
     <string name="no_services">Неактивен</string>
@@ -1696,7 +1696,7 @@
     <string name="process_stats_total_duration">%1$s приложения за %2$s</string>
     <string name="process_stats_type_background">Фоновые</string>
     <string name="process_stats_type_foreground">Активные</string>
-    <string name="process_stats_type_cached">Кешированные</string>
+    <string name="process_stats_type_cached">Кэшированные</string>
     <string name="process_stats_memory_status">Уровень свободной памяти: %1$s</string>
     <string name="process_stats_avg_ram_use">Использование оперативной памяти (среднее значение)</string>
     <string name="process_stats_max_ram_use">Использование оперативной памяти (максимальное значение)</string>
@@ -1708,7 +1708,7 @@
     <string name="mem_use_subtitle">Использование памяти</string>
     <string name="mem_use_kernel_type">Ядро</string>
     <string name="mem_use_native_type">Собственные процессы</string>
-    <string name="mem_use_kernel_cache_type">Кеш ядра</string>
+    <string name="mem_use_kernel_cache_type">Кэш ядра</string>
     <string name="mem_use_zram_type">Замена ZRam</string>
     <string name="mem_use_free_type">Свободно</string>
     <string name="mem_use_total">Итого</string>
@@ -2850,7 +2850,7 @@
     <string name="wave_wake_tip">Please input voiceprint wakeup command:</string>
     <string name="wave_wake_tip_more_words">Команда не принята. Произнесите 3 слова, как минимум</string>
     <string name="wave_wake_tip_lest_words">Команда не распознана. Произнесите 3 слова, как минимум</string>
-    <string name="wave_wake_tip_create_success">"Голосовая команда становлена 
+    <string name="wave_wake_tip_create_success">"Голосовая команда установлена 
  Повторите команду трижды для подтверждения"</string>
     <string name="wave_wake_tip_confirm">Повторите %d раз(а)</string>
     <string name="wave_wake_tip_once">Повторите для подтверждения</string>
