@@ -65,56 +65,21 @@
 .end method
 
 .method public static isYPContact(J)Z
-    .locals 2
+    .locals 1
 
     .prologue
-    .line 984
-    const-wide v0, 0x7fffffffbfffffffL
-
-    cmp-long v0, p0, v0
-
-    if-ltz v0, :cond_0
-
-    const/4 v0, 0x1
-
-    :goto_0
-    return v0
-
-    :cond_0
+    .line 984 
     const/4 v0, 0x0
 
-    goto :goto_0
+    return v0 
 .end method
 
 .method public static isYPContact(Landroid/net/Uri;)Z
-    .locals 4
+    .locals 1
 
     .prologue
     .line 974
     const/4 v0, 0x0
 
-    .line 976
-    :try_start_0
-    invoke-static {p0}, Landroid/content/ContentUris;->parseId(Landroid/net/Uri;)J
-
-    move-result-wide v2
-
-    invoke-static {v2, v3}, Lcom/meizu/common/widget/MzContactsContract$MzNetContacts;->isYPContact(J)Z
-    :try_end_0
-    .catch Ljava/lang/Exception; {:try_start_0 .. :try_end_0} :catch_0
-
-    move-result v0
-
-    .line 980
-    :goto_0
-    return v0
-
-    .line 977
-    :catch_0
-    move-exception v1
-
-    .line 978
-    invoke-virtual {v1}, Ljava/lang/Exception;->printStackTrace()V
-
-    goto :goto_0
+    return v0 
 .end method
