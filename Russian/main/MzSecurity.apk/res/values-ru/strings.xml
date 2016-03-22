@@ -1078,5 +1078,4 @@
     <string name="msg_help_for_clean_app_old">Автозакрытие фоновых приложений после 3 минут сна. Может привести к отказу в получении уведомлений.</string>
     <string name="title_app_cutawaken">Откл. общий запуск в режиме сна</string>
     <string name="app_standby_management">Управление спящим режимом</string>
-    <string name="app_consumption_management">Управление спящим режимом</string>
 </resources>
