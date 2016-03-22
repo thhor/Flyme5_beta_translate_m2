@@ -9,14 +9,17 @@
     <string name="status_bar_settings_vibrate">Вибрация</string>
     <string name="status_bar_settings_powersave">Энергосбер.</string>
     <string name="status_bar_settings_rotation">Поворот экрана</string>
+    <string name="quick_settings_connecting_label">Соединение…</string>
     <string name="mobile_data_disabled_message">Передача данных не активна, попробуйте позже.</string>
     <string name="flash_light_disabled">Сначала выключите камеру или фонарик</string>
     <string name="tile_powersave_standard">Смарт</string>
     <string name="tile_powersave_user_defined">Пользоват.</string>
     <string name="tile_powersave_super">Супер</string>
-    <string name="tile_mobiledata_2g_only">Сеть 2G</string>
-    <string name="tile_mobiledata_3g_first">Сеть 3G</string>
-    <string name="tile_mobiledata_4g_first">Сеть 4G</string>
+	<string name="status_bar_settings_mobile">Интернет</string>
+    <string name="tile_mobiledata_2g_only">Только 2G</string>
+    <string name="tile_mobiledata_3g_first">3G-приоритет</string>
+	<string name="tile_mobiledata_3g_only">Только 3G</string>
+    <string name="tile_mobiledata_4g_first">4G-приоритет</string>
     <string name="status_bar_settings_battery_meter_format_simple">%d</string>
     <string name="tile_bluetooth_detail_empty_text">Активных Bluetooth-устройств поблизости не обнаружено.</string>
     <string name="wifi_password">Пароль</string>
@@ -379,7 +382,6 @@
     <string name="quick_settings_connected">Подключено</string>
     <string name="quick_settings_connected_via_wfa">Установлено подключение через Ассистента Wi-Fi</string>
     <string name="quick_settings_connecting">Соединение…</string>
-	<string name="quick_settings_connecting_label">Соединение…</string>
     <string name="quick_settings_tethering_label">Режим модема</string>
     <string name="quick_settings_hotspot_label">Точка доступа</string>
     <string name="quick_settings_notifications_label">Уведомления</string>
@@ -936,14 +938,21 @@
     <string name="gemini_4g_3g_disable_warning_case1">所選的SIM沒有可用的4G/3G服務。這樣可能會導致載入速度較慢。你可以到設定 > 無線網絡 > 流動網絡來更改4G/3G服務設定。你確定想選擇此SIM嗎？</string>
     <string name="gemini_4g_3g_disable_warning_case2">此SIM必須啟動數據漫遊而這會導致昂貴的漫遊服務費！況且，所選的SIM沒有可用的4G/3G服務。這樣可能會導致載入速度較慢。你可以到設定 > 無線網絡 > 流動網絡來更改4G/3G服務設定。你確定想啟用數據漫遊並且選擇此SIM嗎？</string>
     <string name="data_connection_datach_timeout_error_msg">資料連結移除失敗</string>
+    <item type="string" name="APKTOOL_DUMMY_009b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_009c">false</item>
+    <string name="notifications_off_title">通知功能已停用</string>
+    <string name="notifications_off_text">点按此处可重新启用通知功能。</string>
+    <item type="string" name="APKTOOL_DUMMY_01f9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01fa">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_01ff">false</item>
     <item type="string" name="APKTOOL_DUMMY_0093">false</item>
     <item type="string" name="APKTOOL_DUMMY_0094">false</item>
     <item type="string" name="APKTOOL_DUMMY_0095">false</item>
     <item type="string" name="APKTOOL_DUMMY_0096">false</item>
-    <string name="notifications_off_title">通知功能已停用</string>
-    <string name="notifications_off_text">点按此处可重新启用通知功能。</string>
-    <item type="string" name="APKTOOL_DUMMY_009b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_009c">false</item>
     <item type="string" name="APKTOOL_DUMMY_01f1">false</item>
     <item type="string" name="APKTOOL_DUMMY_01f2">false</item>
     <item type="string" name="APKTOOL_DUMMY_01f3">false</item>
@@ -952,13 +961,6 @@
     <item type="string" name="APKTOOL_DUMMY_01f6">false</item>
     <item type="string" name="APKTOOL_DUMMY_01f7">false</item>
     <item type="string" name="APKTOOL_DUMMY_01f8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_01f9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_01fa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_01fb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_01fc">false</item>
-    <item type="string" name="APKTOOL_DUMMY_01fd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_01fe">false</item>
-    <item type="string" name="APKTOOL_DUMMY_01ff">false</item>
     <item type="string" name="APKTOOL_DUMMY_0311">false</item>
     <item type="string" name="APKTOOL_DUMMY_0091">false</item>
     <item type="string" name="APKTOOL_DUMMY_0092">false</item>
