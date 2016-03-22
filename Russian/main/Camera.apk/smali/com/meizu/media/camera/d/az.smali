@@ -642,45 +642,7 @@
     .line 180
     sget-boolean v0, Lcom/meizu/media/camera/e/i;->r:Z
 
-    if-eqz v0, :cond_3
-
-    .line 181
-    new-instance v0, Lcom/meizu/media/camera/d/az$a;
-
-    invoke-direct {v0, p0, v2}, Lcom/meizu/media/camera/d/az$a;-><init>(Lcom/meizu/media/camera/d/az;Lcom/meizu/media/camera/d/ba;)V
-
-    .line 182
-    sget-object v1, Lcom/meizu/media/camera/d/az$b;->c:Lcom/meizu/media/camera/d/az$b;
-
-    iput-object v1, v0, Lcom/meizu/media/camera/d/az$a;->b:Lcom/meizu/media/camera/d/az$b;
-
-    .line 183
-    const-string v1, "mz_pref_voice_action_key"
-
-    iput-object v1, v0, Lcom/meizu/media/camera/d/az$a;->a:Ljava/lang/String;
-
-    .line 184
-    const v1, 0x7f090139
-
-    invoke-static {v1}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
-
-    move-result-object v1
-
-    iput-object v1, v0, Lcom/meizu/media/camera/d/az$a;->c:Ljava/lang/Integer;
-
-    .line 185
-    const v1, 0x7f090138
-
-    invoke-static {v1}, Ljava/lang/Integer;->valueOf(I)Ljava/lang/Integer;
-
-    move-result-object v1
-
-    iput-object v1, v0, Lcom/meizu/media/camera/d/az$a;->d:Ljava/lang/Integer;
-
-    .line 186
-    iget-object v1, p0, Lcom/meizu/media/camera/d/az;->o:Ljava/util/List;
-
-    invoke-interface {v1, v0}, Ljava/util/List;->add(Ljava/lang/Object;)Z
+    goto :cond_3
 
     .line 190
     :cond_3
