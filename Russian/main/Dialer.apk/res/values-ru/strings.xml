@@ -46,8 +46,8 @@
     <string name="attach_photo_dialog_title">Фотография контакта</string>
     <string name="audio_chat">Голосовой чат</string>
     <string name="blurbJoinContactDataWith">Выберите контакт, который хотите объединить с \"%s\":</string>
-    <string name="caching_vcard_message">Выполняется кеширование файлов vCard в локальное временное хранилище, после чего начнется импорт.</string>
-    <string name="caching_vcard_title">Кеширование…</string>
+    <string name="caching_vcard_message">Выполняется кэширование файлов vCard в локальное временное хранилище, после чего начнется импорт.</string>
+    <string name="caching_vcard_title">Кэширование…</string>
     <string name="callAgain">Позвонить снова</string>
     <string name="callBack">Перезвонить</string>
     <string name="callDetailTitle">Сведения о вызове</string>
