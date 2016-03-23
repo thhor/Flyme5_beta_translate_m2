@@ -2793,6 +2793,12 @@
     <string name="flashlight">Фонарик</string>
     <string name="keyboard_back_behavior">Ответ клавиатуры на касание кнопки Домой</string>
     <string name="alipay_code">Платёжный код Alipay</string>
+    <string name="buttom_button_style_title">Расположение элементов в приложениях</string>
+    <string name="buttom_button_style_summary">Выбрать между плавающей кнопкой или панелью кнопок в нижней части экрана</string>
+    <string name="phone_view">Телефон</string>
+    <string name="float_button">Плавающая кнопка</string>
+    <string name="bottom_button">Кнопки внизу экрана</string>
+    <string name="other_app_view">Другие приложения</string>
     <string name="drive_mode_title">Помощь водителю</string>
     <string name="drive_mode_tips">Поступление звонка или SMS сопровождается голосовым сообщением</string>
     <string name="drive_mode_incall_voice">Читать номера входящих вызовов</string>
@@ -2936,10 +2942,10 @@
     <string name="service_push_notify_summary">Просмотр</string>
     <string name="service_push_notify_no_count_title">Имеются ожидающие подтверждения уведомления</string>
     <string name="refreshing">Обновление</string>
-    <string name="notification_and_statusbar">Панель уведомлений</string>
-    <string name="show_notification_on_lockscreen">Показывать уведомления на экране блокировки</string>
-    <string name="show_notification_content">Показать уведомления</string>
-    <string name="show_notification_content_summary">Показывать уведомления на экране блокировки</string>
+    <string name="notification_and_statusbar">Настройки уведомлений</string>
+    <string name="show_notification_on_lockscreen">Показывать уведомления</string>
+    <string name="show_notification_content">Показывать содержимое</string>
+    <string name="show_notification_content_summary">Показывать содержимое уведомлений, даже если установлен пароль блокировки</string>
     <string name="wakeup_screen_on_notification_title">Новое уведомление будет активировать подсветку экрана</string>
     <string name="wakeup_screen_on_notification_summary">Новое уведомление будет пробуждать экран, если телефон не в кармане</string>
     <string name="statusbar">Статус-бар</string>
@@ -3454,10 +3460,7 @@
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="4pda_info">Подробнее о русификации</string>
     <string name="ringtone_unknown">Без звука</string>
-    <string name="buttom_button_style_title">Расположение элементов в приложениях</string>
-    <string name="buttom_button_style_summary">Выбрать между плавающей кнопкой или панелью кнопок в нижней части экрана</string>
-    <string name="phone_view">Телефон</string>
-    <string name="float_button">Плавающая кнопка</string>
-    <string name="bottom_button">Кнопки внизу экрана</string>
-    <string name="other_app_view">Другие приложения</string>
+    <string name="notificationbar_category_title">Панель уведомлений</string>
+    <string name="lockscreen_category_title">Экран блокировки</string>
+    <string name="notifcaionbar_item_management">Настройки переключателей</string>
 </resources>
