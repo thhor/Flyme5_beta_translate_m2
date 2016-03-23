@@ -396,12 +396,8 @@
 
     invoke-virtual {v0, v1}, Landroid/preference/PreferenceScreen;->removePreference(Landroid/preference/Preference;)Z
 
-    .line 113
     :cond_0
-    const-string v0, "notificationbar_item_management"
-
-    invoke-virtual {p0, v0}, Lcom/meizu/settings/notificationstatusbar/NotificationStatusbarSettings;->removePreference(Ljava/lang/String;)V
-
+    
     .line 116
     return-void
 
