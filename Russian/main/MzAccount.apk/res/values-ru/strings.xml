@@ -320,7 +320,7 @@
     <string name="phoneBound">Номер телефона зарегистрирован</string>
     <string name="phoneNumber">Номер телефона</string>
     <string name="phoneValidateTip">Введите номер привязанного телефона, чтобы получить код подтверждения</string>
-    <string name="phone_length_error">Поддерживаютсся только 11-значные номера</string>
+    <string name="phone_length_error">Поддерживаются только 11-значные номера</string>
     <string name="phone_or_Flyme">Телефон/аккаунт Flyme</string>
     <string name="pleaseLoginFirst">Please log in first</string>
     <string name="pleaseUseFlymeToTransfer">Пожалуйста, введите полное имя аккаунта Flyme для перевода</string>
@@ -663,7 +663,7 @@ If this phone is dual-sim card, default deducted fee from SIM1 card"</string>
     <string name="province">Province</string>
     <string name="qh_finish_title">Ваш облачный аккаунт был улучшен</string>
     <string name="quick_register_agreement">"1. Нажатие 'Регистрация по этому номеру' означает ваше согласие %s
-2. Быстрая реистрация предполагает аутентификационные сообщения, за которые может взиматься плата оператором."</string>
+2. Быстрая регистрация предполагает аутентификационные сообщения, за которые оператор может взимать плату."</string>
     <string name="recharge">Recharge</string>
     <string name="recharge_amount_format_error">Recharge anount is not standard</string>
     <string name="recharge_now">Recharge</string>
