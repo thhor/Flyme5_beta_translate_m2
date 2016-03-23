@@ -44,7 +44,7 @@
     <string name="notification_unreadedRecordsMsg">%s непрочит. записей</string>
     <string name="notification_unreadedRecordsMsg_multi" formatted="false">%s оставил(а) %s голос. сообщ.</string>
     <string name="notification_unreadedRecordTicker">Непрочитанная запись от %s</string>
-    <string name="notification_missedRecordSdErrorTitle">"' голосовое собщение остановлено"</string>
+    <string name="notification_missedRecordSdErrorTitle">"' голосовое сообщение остановлено"</string>
     <string name="notification_missedRecordSdErrorText">Недостаточно места или карта памяти отсутствует</string>
     <string name="private_num">Скрытый номер</string>
     <string name="check_out_unread_record">Проверить</string>
