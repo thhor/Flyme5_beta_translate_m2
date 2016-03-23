@@ -255,8 +255,8 @@
     <string name="cannot_send_sns_message_reason_logout">Невозможно отправить SNS-сообщение. Пожалуйста, выполните вход.</string>
     <string name="change_default_message_app_dialog_title">Изменить приложение для сообщений?</string>
     <string name="change_mms_text">MMS</string>
-    <string name="change_sim1_title">Карта 1 - %s</string>
-    <string name="change_sim2_title">Карта 2 - %s</string>
+    <string name="change_sim1_title">SIM 1 - %s</string>
+    <string name="change_sim2_title">SIM 2 - %s</string>
     <string name="change_sms_text">SMS</string>
     <string name="charge_flow">Купить трафик</string>
     <string name="check_for_delete_address">Удалить выбранные адреса?</string>
@@ -553,7 +553,7 @@
     <string name="mw_recipient_global_search">Search for global contacts</string>
     <string name="mw_recipient_global_searching">Searching for global contacts</string>
     <string name="mw_recipient_hint_str">Получатель:</string>
-    <string name="mw_recipient_others_displayname">%d others..</string>
+    <string name="mw_recipient_others_displayname">%d другие..</string>
     <string name="mw_recipient_sns_search">Search for Weibo contacts</string>
     <string name="mw_recipient_sns_searching">Searching Weibo contacts ..</string>
     <string name="mw_recipient_sns_update">Update Weibo contacts</string>
@@ -731,7 +731,7 @@
     <string name="sim_count">(%s)</string>
     <string name="sim_message_label">Сообщения SIM</string>
     <string name="sim_open">Вкл.</string>
-    <string name="sim_status" formatted="false">Карта 1%s, Карта 2%s</string>
+    <string name="sim_status" formatted="false">SIM 1%s, SIM 2%s</string>
     <string name="sim_type_flyme">Веб-сообщение</string>
     <string name="sim_type_normal">Обычное сообщение</string>
     <string name="size_unit">M</string>
@@ -746,7 +746,7 @@
     <string name="sns_attachment_video">Видео</string>
     <string name="sns_attachment_voice">Аудио</string>
     <string name="sns_can_not_add_attachment">MMS не может быть отправлено как прямое сообщение</string>
-    <string name="sns_no_net_error">Отстутствует соединение. Отправка сообщения невозможна.</string>
+    <string name="sns_no_net_error">Отсутствует соединение. Отправка сообщения невозможна.</string>
     <string name="sns_unlogin_error">Не выполнен вход в аккаунт Weibo</string>
     <string name="spam">Добавить в чёрный список</string>
     <string name="spam_extra">Добавить в чёрный список</string>
