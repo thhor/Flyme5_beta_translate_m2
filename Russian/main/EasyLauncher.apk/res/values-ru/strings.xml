@@ -48,14 +48,14 @@
     <string name="delete_zone_label_all_apps">Удалить</string>
     <string name="delete_zone_label_all_apps_system_app">Удалить обновление</string>
     <string name="delete_zone_label_workspace">Удалить</string>
-    <string name="dialog_message_full_workspace">Сдесь нет больше места для размещения ярлыков</string>
+    <string name="dialog_message_full_workspace">Здесь нет больше места для размещения ярлыков</string>
     <string name="dialog_message_install_shortcut">Установить в лаунчер?</string>
     <string name="dialog_message_uninstall_shortcut">Удалить из лаунчера?</string>
     <string name="dream_name">Лаунчер Rocket</string>
     <string name="easysetting_name">Простые настройки</string>
     <string name="external_drop_widget_error">Невозможно разместить здесь</string>
     <string name="external_drop_widget_pick_title">Выбрать виджет</string>
-    <string name="first_run_cling_create_screens_hint">Создать больше экарнов для приложений и папок</string>
+    <string name="first_run_cling_create_screens_hint">Создать больше экранов для приложений и папок</string>
     <string name="first_run_cling_custom_content_hint" />
     <string name="first_run_cling_description">Чувствуйте себя как дома</string>
     <string name="first_run_cling_search_bar_hint" />
@@ -82,7 +82,7 @@
     <string name="invalid_hotseat_item">Этот виджет слишком большой для Избранного</string>
     <string name="local_number">Местный номер</string>
     <string name="long_press_widget_to_add">Нажмите и удерживайте для захвата виджета</string>
-    <string name="market">Магзин</string>
+    <string name="market">Магазин</string>
     <string name="menu_item_add_item">Добавить на домашний экран</string>
     <string name="migration_cling_copy_apps">Копирование ярлыков</string>
     <string name="migration_cling_description">Импортировать ярлыки и папки с вашего старого домашнего экрана?</string>
@@ -113,7 +113,7 @@
     <string name="rename_action">OK</string>
     <string name="rename_folder_label">Имя папки</string>
     <string name="rename_folder_title">Переименовать</string>
-    <string name="safemode_shortcut_error">Загруженное приложение отключаетя в безопасном режиме</string>
+    <string name="safemode_shortcut_error">Загруженное приложение отключается в безопасном режиме</string>
     <string name="settings_button_text">Настройки</string>
     <string name="shortcut_duplicate">Ярлык \"%s\" был создан</string>
     <string name="shortcut_installed">Ярлык \"%s\" создан</string>
