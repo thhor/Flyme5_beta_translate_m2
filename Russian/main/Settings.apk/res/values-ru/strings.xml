@@ -1309,7 +1309,7 @@
     <string name="running_processes_header_apps_prefix">Приложения</string>
     <string name="running_processes_header_free_prefix">Свободно</string>
     <string name="running_processes_header_used_prefix">Используется</string>
-    <string name="running_processes_header_cached_prefix">Кешированные</string>
+    <string name="running_processes_header_cached_prefix">Кэшированные</string>
     <string name="running_processes_header_ram">%1$s ОЗУ</string>
     <string name="runningservicedetails_settings_title">Запущенное приложение</string>
     <string name="no_services">Неактивен</string>
@@ -1432,7 +1432,7 @@
     <string name="wifi_aggressive_handover">Переключаться на мобильную сеть</string>
     <string name="wifi_allow_scan_with_traffic">Всегда включать поиск сетей Wi-Fi</string>
     <string name="wifi_display_certification_summary">Показывать параметры сертификации беспроводных мониторов</string>
-    <string name="wifi_verbose_logging_summary">Увеличьте уровень ведения журнала Wi-Fi, показывая SSID RSSI в Wi-Fi Picker</string>
+    <string name="wifi_verbose_logging_summary">Подробное ведение журнала Wi-Fi, показывая SSID RSSI в Wi-Fi Picker</string>
     <string name="wifi_aggressive_handover_summary">Принудительно переключаться на мобильную сеть, если сигнал Wi-Fi слабый</string>
     <string name="wifi_allow_scan_with_traffic_summary">Включать или отключать поиск сетей Wi-Fi во время передачи данных в зависимости от объема трафика</string>
     <string name="select_logd_size_title">Размер буфера журнала</string>
@@ -1696,7 +1696,7 @@
     <string name="process_stats_total_duration">%1$s приложения за %2$s</string>
     <string name="process_stats_type_background">Фоновые</string>
     <string name="process_stats_type_foreground">Активные</string>
-    <string name="process_stats_type_cached">Кешированные</string>
+    <string name="process_stats_type_cached">Кэшированные</string>
     <string name="process_stats_memory_status">Уровень свободной памяти: %1$s</string>
     <string name="process_stats_avg_ram_use">Использование оперативной памяти (среднее значение)</string>
     <string name="process_stats_max_ram_use">Использование оперативной памяти (максимальное значение)</string>
@@ -1708,7 +1708,7 @@
     <string name="mem_use_subtitle">Использование памяти</string>
     <string name="mem_use_kernel_type">Ядро</string>
     <string name="mem_use_native_type">Собственные процессы</string>
-    <string name="mem_use_kernel_cache_type">Кеш ядра</string>
+    <string name="mem_use_kernel_cache_type">Кэш ядра</string>
     <string name="mem_use_zram_type">Замена ZRam</string>
     <string name="mem_use_free_type">Свободно</string>
     <string name="mem_use_total">Итого</string>
@@ -2984,7 +2984,7 @@
     <string name="recently_twelve_hour">Последние 12ч</string>
     <string name="recently_hours">Последние %d часа(ов)</string>
     <string name="time_usage">Время：%s</string>
-    <string name="normal_sleep_time">Время нормальной сна</string>
+    <string name="normal_sleep_time">Время нормального сна</string>
     <string name="screen_force_wakeup_title">Бодрствование</string>
     <string name="screen_force_wakeup_summary">Включая онлайн синхр. сообщений, обновления данных и т.д.</string>
     <string name="app_force_wakeup_rank">Будящие приложения</string>
@@ -3008,7 +3008,7 @@
     <string name="power_usage_percent">Рейтинг исп. батареи：%s</string>
     <string name="counts">%d раз(а)</string>
     <string name="radio_weak_time">Слабый сигнал</string>
-    <string name="mobile_network_usage_time">Время активно сети</string>
+    <string name="mobile_network_usage_time">Время исп. сетью</string>
     <string name="screen_on_time">Время вкл. экрана</string>
     <string name="phone_standby_time">Время откл. экрана</string>
     <string name="phone_standby_management">Приложение управления</string>
@@ -3119,7 +3119,7 @@
   ВНИМАНИЕ: Это устройство поставляется с открытым загрузчиком. Для устройства возможно получение Root полномочий, но есть определенные риски, связанные с этим. Эти риски включают, но не ограничивают потерю возможности поиска телефона с помощью программы  Phone Finder, потерянные файлы,  раскрытие паролей или снижение стабильности системы. MEIZU не несет ответственности за любые последствия, связанные с получением Root полномочий. Root полномочия предоставляют практически полный контроль над аппаратом и предназначен для разработчиков. С Root полномочиями необходимо крайне осторожно выполнять все действия, чтобы случайно не повредить прошивку аппарата. Помните, что какие-либо действия, вы осуществляете на свой страх и риск. 
 © 2015 MEIZU. Все права защищены"</string>
     <string name="filter_apps_cached">В кэше</string>
-    <string name="external_sdcard_storage">Внешняя карта памяти</string>
+    <string name="external_sdcard_storage">Карта памяти</string>
     <string name="unmount_sdcard">Отключить карту памяти</string>
     <string name="unmount_sdcard_summay">Отключите карту памяти перед её извлечением</string>
     <string name="format_sdcard">Форматировать карту</string>
@@ -3192,7 +3192,7 @@
     <string name="brightness_category_title">Настройки яркости</string>
     <string name="blur_view_switch_title">Динамическое размытие</string>
     <string name="blur_view_switch_summary">Размытие фона в реальном времени облегчают чтение информации. Отключение этой функции экономит заряд батареи.</string>
-    <string name="sim_management">Управление SIM-картой</string>
+    <string name="sim_management">Управление SIM-картами</string>
     <string name="mobile_networks_title">Мобильные сети</string>
     <string name="label_global_roaming_settings">Настройки роуминга</string>
     <string name="data_enabled">Передача данных</string>
@@ -3205,8 +3205,8 @@
     <string name="lte_4g_switch_prompt">Произойдёт переключение с 2G/3G на 4G. Некоторые активные задачи будут остановлены.</string>
     <string name="flyme_push_dialog_title">Отключить Push?</string>
     <string name="flyme_push_dialog_content">Если отключить Push, то нельзя будет использовать функцию поиска телефона, синхронизацию нескольких устройств, Flyme-сообщения и другие функции.</string>
-    <string name="sim_1">Карта 1 -</string>
-    <string name="sim_2">Карта 2 -</string>
+    <string name="sim_1">SIM 1 -</string>
+    <string name="sim_2">SIM 2 -</string>
     <string name="no_uim_card">Пусто</string>
     <string name="no_sim_card">Пусто</string>
     <string name="sim_disable">Отключена</string>
@@ -3221,7 +3221,7 @@
     <string name="data_suggest">Системные push-уведомления и облачные сервисы потребляют трафик</string>
     <string name="gemini_sim_select_title">Выберите SIM-карту</string>
     <string name="sim_enabled">Использовать</string>
-    <string name="sim_info_editor_name">Изменить имя</string>
+    <string name="sim_info_editor_name"Переименовать</string>
     <string name="gemini_sim_info_editor_number">Номер телефона</string>
     <string name="register_automatically">Авторегистрация…</string>
     <string name="load_networks_progress">Поиск</string>
