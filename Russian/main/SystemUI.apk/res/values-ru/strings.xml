@@ -972,4 +972,6 @@
     <item type="string" name="APKTOOL_DUMMY_0289">false</item>
     <item type="string" name="APKTOOL_DUMMY_030f">false</item>
     <item type="string" name="APKTOOL_DUMMY_0310">false</item>
+    <string name="qs_tile_config_title">Настройки переключателей</string>
+    <string name="qs_tile_config_cue_line_text">Перетащите значок</string>
 </resources>
