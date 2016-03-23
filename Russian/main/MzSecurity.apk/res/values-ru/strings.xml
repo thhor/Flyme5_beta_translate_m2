@@ -164,7 +164,7 @@
     <string name="block_reason_local_marker">Блокировать по меткам</string>
     <string name="block_reason_none_contact">Режим блокировки - только разрешенные контакты</string>
     <string name="block_reason_none_white">Режим блокировки - только белый список</string>
-    <string name="block_reason_none_white_contact">Режим блокировки - номера не белом спискеи не в списке контактов</string>
+    <string name="block_reason_none_white_contact">Режим блокировки - номера нет в контактах и в белом списке</string>
     <string name="block_reason_normal_ringonce">Предупреждать один раз</string>
     <string name="block_reason_public_black_number">Номера чёрного списка</string>
     <string name="block_reason_reported_msg">По сообщению</string>
@@ -610,7 +610,7 @@
     <string name="scan_done_no_safe">%1$s угроз найдено</string>
     <string name="scan_done_safe">Сканирование окончено, ваш телефон в безопасности</string>
     <string name="scan_hint_opt_done">Готово</string>
-    <string name="scan_phone_clean">Поиск больших файлов иприложений</string>
+    <string name="scan_phone_clean">Поиск больших файлов и приложений</string>
     <string name="scan_power_mode_item">Поиск энергоёмких приложений</string>
     <string name="scan_ram">Сканирование RAM</string>
     <string name="scan_rubbish">Поиск ненужных файлов</string>
