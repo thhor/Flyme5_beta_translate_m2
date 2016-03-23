@@ -3186,7 +3186,7 @@
     <string name="brightness_category_title">Настройки яркости</string>
     <string name="blur_view_switch_title">Динамическое размытие</string>
     <string name="blur_view_switch_summary">Размытие фона в реальном времени облегчают чтение информации. Отключение этой функции экономит заряд батареи.</string>
-    <string name="sim_management">Управление SIM-картой</string>
+    <string name="sim_management">Управление SIM-картами</string>
     <string name="mobile_networks_title">Мобильные сети</string>
     <string name="label_global_roaming_settings">Настройки роуминга</string>
     <string name="data_enabled">Передача данных</string>
@@ -3199,8 +3199,8 @@
     <string name="lte_4g_switch_prompt">Произойдёт переключение с 2G/3G на 4G. Некоторые активные задачи будут остановлены.</string>
     <string name="flyme_push_dialog_title">Отключить Push?</string>
     <string name="flyme_push_dialog_content">Если отключить Push, то нельзя будет использовать функцию поиска телефона, синхронизацию нескольких устройств, Flyme-сообщения и другие функции.</string>
-    <string name="sim_1">Карта 1 -</string>
-    <string name="sim_2">Карта 2 -</string>
+    <string name="sim_1">SIM 1 -</string>
+    <string name="sim_2">SIM 2 -</string>
     <string name="no_uim_card">Пусто</string>
     <string name="no_sim_card">Пусто</string>
     <string name="sim_disable">Отключена</string>
@@ -3215,7 +3215,7 @@
     <string name="data_suggest">Системные push-уведомления и облачные сервисы потребляют трафик</string>
     <string name="gemini_sim_select_title">Выберите SIM-карту</string>
     <string name="sim_enabled">Использовать</string>
-    <string name="sim_info_editor_name">Изменить имя</string>
+    <string name="sim_info_editor_name"Переименовать</string>
     <string name="gemini_sim_info_editor_number">Номер телефона</string>
     <string name="register_automatically">Авторегистрация…</string>
     <string name="load_networks_progress">Поиск</string>
