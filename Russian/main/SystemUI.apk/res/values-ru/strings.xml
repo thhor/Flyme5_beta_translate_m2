@@ -77,7 +77,7 @@
     <string name="location_kill_process">Закрыть приложение</string>
     <string name="location_disallow_location">Запретить определение местоположения</string>
     <string name="config_statusBarComponent">com.android.systemui.statusbar.phone.PhoneStatusBar</string>
-    <string name="quick_settings_tiles_default">wifi,dataconnection,bt,mute,vibrate,airplane,rotation,location,autobrightness,flashlight,smarttouch,zenmode</string>
+    <string name="quick_settings_tiles_default">wifi,dataconnection,bt,mute,vibrate,airplane,rotation,location,autobrightness,flashlight,smarttouch,zenmode,vpn,screenshot,hotspot</string>
     <string name="quick_settings_tiles">default</string>
     <string name="velocity_tracker_impl">platform</string>
     <string name="doze_pulse_schedule">1s,10s,30s,60s</string>
@@ -973,5 +973,5 @@
     <item type="string" name="APKTOOL_DUMMY_030f">false</item>
     <item type="string" name="APKTOOL_DUMMY_0310">false</item>
     <string name="qs_tile_config_title">Настройки переключателей</string>
-    <string name="qs_tile_config_cue_line_text">Перемещайте значки</string>
+    <string name="qs_tile_config_cue_line_text">Потяните иконку вверх</string>
 </resources>
