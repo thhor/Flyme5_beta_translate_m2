@@ -974,6 +974,6 @@
     <item type="string" name="APKTOOL_DUMMY_0310">false</item>
     <string name="qs_tile_config_title">Настройки переключателей</string>
     <string name="qs_tile_config_cue_line_text">Потяните иконку вверх</string>
-	<string name="status_bar_settings_screenshot">Скриншот</string>
+    <string name="status_bar_settings_screenshot">Скриншот</string>
     <string name="status_bar_settings_hotspot">Точка доступа</string>
 </resources>
