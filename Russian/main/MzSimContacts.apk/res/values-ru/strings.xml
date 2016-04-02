@@ -33,7 +33,7 @@
     <string name="import_in_progress">Осуществляется импорт…</string>
     <string name="import_to">Импорт в</string>
     <string name="initializing_message">Инициализация…</string>
-    <string name="intent_confirm_button_text_export">Экспорт</string>
+    <string name="intent_confirm_button_text_export">Импорт</string>
     <string name="intent_window_title">Импорт на SIM-карту</string>
     <string name="labelSimcBtnCreateContact">Новый</string>
     <string name="lableBtnDeleteSelected">Удалить</string>
