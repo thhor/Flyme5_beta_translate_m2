@@ -1150,4 +1150,5 @@
     <string name="show_all_contacts">Bütün kontaktları göstər</string>
     <string name="show_all_contacts_button_text">Bütün kontaktlar</string>
     <string name="show_all_contacts_title">Bütün kontaktlar</string>
+    <string name="mzc_preference_import_contacts_from_sim_title">Импорт с SIM-карты</string>
 </resources>
