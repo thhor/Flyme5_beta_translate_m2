@@ -248,7 +248,7 @@
     <string name="mz_recording_save">Сохранение</string>
     <string name="mz_refocus_hint">Держите камеру неподвижно</string>
     <string name="mz_refocus_hint_handling">Обработка…</string>
-    <string name="mz_setting_countdown_title">Обратный отсчёт</string>
+    <string name="mz_setting_countdown_title">Таймер</string>
     <string name="mz_setting_level_title">Уровень</string>
     <string name="mz_setting_meshline_title">Сетка</string>
     <string name="mz_setting_picturesize_title">Размер фото</string>
@@ -326,7 +326,7 @@
     <string name="mz_manual_whitebalance_label_daylight">Солнечно</string>
     <string name="mz_manual_whitebalance_label_fluorescent">Флюоресц.</string>
     <string name="mz_manual_whitebalance_label_incandescent">Лампа накал.</string>
-    <string name="mz_meter_separate_title">Просчёт экспозиции</string>
+    <string name="mz_meter_separate_title">Замер экспозиции</string>
     <string name="mz_mx3_filter_10_title">Подсветка</string>
     <string name="mz_mx3_filter_11_title">Принт</string>
     <string name="mz_mx3_filter_12_title">Ч/б</string>
