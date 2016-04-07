@@ -110,10 +110,10 @@
     <string name="mc_hour">час</string>
     <string name="mc_is_Refreshing">Обновление</string>
     <string name="mc_last_refresh">Последнее обновление</string>
-    <string name="mc_last_refresh_hour">" час назад"</string>
+    <string name="mc_last_refresh_hour">" ч. назад"</string>
     <string name="mc_last_refresh_just_now">сейчас</string>
     <string name="mc_last_refresh_minute">мин назад</string>
-    <string name="mc_last_refresh_second">сек назад</string>
+    <string name="mc_last_refresh_second">сек. назад</string>
     <string name="mc_loading_view_text">Загрузка</string>
     <string name="mc_minute">мин</string>
     <string name="mc_monday">ПН</string>
@@ -158,6 +158,7 @@
     <string name="mc_search_icon_input_clear">Очистить</string>
     <string name="mc_search_text">Поиск</string>
     <string name="mc_second">сек</string>
+    <string name="mc_selectionbutton_all">Все</string>
     <string name="mc_sunday">ВС</string>
     <string name="mc_thursday">ЧТ</string>
     <string name="mc_time_picker_leap">Встав.</string>
@@ -213,6 +214,15 @@
     <string name="panel_name_en_qwerty">QWERTY</string>
     <string name="panel_name_en_qwertz">QWERTZ</string>
     <string name="panel_name_fr_azerty">AZERTY</string>
+    <string name="panel_name_symbol_bottom_layout_back">Назад</string>
+    <string name="panel_name_symbol_chinese">Кит.</string>
+    <string name="panel_name_symbol_common_use">Частоe</string>
+    <string name="panel_name_symbol_emoction">Смайлы</string>
+    <string name="panel_name_symbol_emoji">Эмодзи</string>
+    <string name="panel_name_symbol_english">Англ.</string>
+	<string name="panel_name_symbol_math">Матем.</string>
+    <string name="panel_name_symbol_num">№</string>
+    <string name="panel_name_symbol_special">Спец.</string>
     <string name="panel_name_zh_bihua">Штрих</string>
     <string name="panel_name_zh_cangjie">Cangjie</string>
     <string name="panel_name_zh_hw">Рукописный</string>
@@ -240,6 +250,7 @@
     <string name="setting_summary_voice_mandarin">Мандарин</string>
     <string name="setting_title_add_dict">Добавить метод ввода</string>
     <string name="setting_title_auto_cap">Автозаглавные</string>
+    <string name="setting_title_blackskin">Тёмная обложка</string>
     <string name="setting_title_clean_user_dicts">Удалить словарь</string>
     <string name="setting_title_cloud_input">Облачный метод ввода</string>
     <string name="setting_title_dict_keyboards">Клавиатуры</string>
@@ -287,12 +298,4 @@
     <string name="mc_pattern_year_month_day_hour_minute" formatted="false">%-e/%-m/%Y %H:%M</string>
     <string name="mc_pattern_year_month_day_hour_minute_12" formatted="false">%-e/%-m/%Y %I:%M %p</string>
     <string name="mc_pattern_yesterday">Вчера</string>
-    <string name="mc_selectionbutton_all">Все</string>
-    <string name="setting_title_blackskin">Тёмная обложка</string>
-	<string name="panel_name_symbol_bottom_layout_back">Назад</string>
-    <string name="panel_name_symbol_chinese">CN</string>
-    <string name="panel_name_symbol_common_use">Частые</string>
-    <string name="panel_name_symbol_emoction">Faces</string>
-    <string name="panel_name_symbol_emoji">Emoji</string>
-    <string name="panel_name_symbol_english">EN</string>
 </resources>
