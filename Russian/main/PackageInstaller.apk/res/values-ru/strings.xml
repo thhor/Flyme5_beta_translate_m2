@@ -114,6 +114,23 @@
     <string name="text_btn_del">Удалить</string>
     <string name="text_scan_official_warning">Угроза безопасности</string>
     <string name="text_btn_continue">Продолжить</string>
+	<string name="btn_continue">Продолжить</string>
+	<string name="continue_confirm">Продолжить</string>
+	<string name="btn_install_confirm">Продолжить?</string>
+	<string name="permission_confirm_statement">Приложение получит следующие разрешения:</string>
+	<string name="btn_next_step">Далее</string>
+	<string name="downgrade_install_statement">Установлена версия %1$s, понижение версии приведет к очистке данных приложения.</string>
+	<string name="perm_costs_money">Может привести к расходам</string>
+	<string name="warning_title_unsafe">Угроза безопасности</string>
+	<string name="install_warning_version_state">Установить обновлённую версию? %1$s (Новее)</string>
+    <string name="install_warning_rival_text">For better to adapter meizu mobile phone, please download apps in meizu app store.</string>
+    <string name="install_warning_virus">"Вероятность наличия вируса. "</string>
+    <string name="install_warning_untypical_download">Detected package origination is: “%1$s”,from unofficial channel. Advise you be caution of this installation to avoid losses.</string>
+    <string name="install_warning_rival_download_text">Your mobile phone and personal data is easy to be attacked from unknown source apps. These apps may exits risk of tampering data, horse or advertisement implantation. Advise you using meizu official app store.</string>
+    <string name="btn_goto_mz_store">Go to app store</string>
+    <string name="btn_goto_mz_store_install">Install in meizu app store</string>
+    <string name="btn_goto_mz_store_for_high_version">Install newest version in meizu app store</string>
+    <string name="btn_delete_apk_file">Удалить приложение</string>
     <string name="text_btn_goto_market">Установить официальную версию</string>
     <string name="text_official_statement">Meizu сообщает Вам, что приложение устанавливается из неофициальных источников. Возможна кража вашей личной информации и потеря данных. Это предупреждение можно отключить в Настройках - администраторы устройства и полномочия.</string>
     <string name="PERM_ID_WRITE_CONTACT">Изменять записи контактов</string>
@@ -273,5 +290,5 @@
     <item type="string" name="APKTOOL_DUMMY_007e">false</item>
     <item type="string" name="APKTOOL_DUMMY_007f">false</item>
     <item type="string" name="APKTOOL_DUMMY_0080">false</item>
-	<string name="install_failed_version_downgrade">Установка не удалась, более старая версия</string>
+    <string name="install_failed_version_downgrade">Установка не удалась, более старая версия</string>
 </resources>
