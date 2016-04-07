@@ -10,6 +10,6 @@
         <Button android:id="@id/num_btn" android:tag="7" android:text="@string/panel_name_symbol_num" android:layout_below="@id/special_btn" style="@style/symbol_leftview_style" />
         <Button android:id="@id/emoji_btn" android:tag="3" android:text="@string/panel_name_symbol_emoji" android:layout_below="@id/num_btn" style="@style/symbol_leftview_style" />
         <Button android:id="@id/emoction_btn" android:tag="4" android:text="@string/panel_name_symbol_emoction" android:layout_below="@id/emoji_btn" style="@style/symbol_leftview_style" />
-		<Button android:id="@id/chinese_btn" android:tag="1" android:text="@string/panel_name_symbol_chinese" android:layout_below="@id/emoction_btn" style="@style/symbol_leftview_style" />
+	<Button android:id="@id/chinese_btn" android:tag="1" android:text="@string/panel_name_symbol_chinese" android:layout_below="@id/emoction_btn" style="@style/symbol_leftview_style" />
     </RelativeLayout>
 </ScrollView>
