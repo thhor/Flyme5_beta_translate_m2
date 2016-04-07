@@ -3407,8 +3407,6 @@
     <string name="mc_date_time_min">м</string>
     <string name="mc_date_time_sec">с</string>
     <string name="mc_date_time_set">Установить</string>
-    <string name="mc_description_target_decline">Отклонить</string>
-    <string name="mc_description_target_answer">Правильный вариант</string>
     <string name="mc_custom_date_time_lunar">Лунный</string>
     <string name="mc_custom_date_time_gregorian">Григор.</string>
     <string name="mc_permission_apply">Разрешения</string>
@@ -3461,6 +3459,9 @@
     <string name="mc_disable">Отключить</string>
     <string name="mc_time_picker_leap">Встав.</string>
     <string name="mc_loading_view_text">Загрузка</string>
+    <string name="mc_description_target_decline">Отклонить</string>
+    <string name="mc_description_target_answer">Правильный вариант</string>
     <string name="4pda_info">Подробнее о русификации</string>
     <string name="ringtone_unknown">Без звука</string>
+	<string name="mz_install_unknown_applications">Неизвестные источники</string>
 </resources>
