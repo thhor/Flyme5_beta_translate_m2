@@ -152,7 +152,7 @@ All your previous user data will be saved."</string>
     <string name="warning_title_kind_remind">Reminder</string>
     <string name="warning_title_risk_remind">Risk Remind</string>
     <string name="install_warning_default">"In case of safty, advise you don't install apps from unknown source that may case security risk of your phone and personal data. You can shield this remind in Settings."</string>
-    <string name="install_warning_default_summry">Installing apps in meizu mz store with safe, convenient and quick.</string>
+    <string name="install_warning_default_summry"></string>
     <string name="install_warning_version_state">Installing newest version?%1$s (Newest)</string>
     <string name="install_warning_rival_text">For better to adapter meizu mobile phone, please download apps in meizu app store.</string>
     <string name="install_warning_virus">Detected risk of virus, shield installation for your mobile safety.</string>
