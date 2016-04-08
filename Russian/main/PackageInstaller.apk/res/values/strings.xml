@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Package installer</string>
-    <string name="next">The next step</string>
-    <string name="install">Install</string>
-    <string name="done">Done</string>
-    <string name="security_settings_desc">Allow this app to:</string>
-    <string name="cancel">Cancel</string>
-    <string name="unknown">Unknown</string>
-    <string name="installing">Installing</string>
-    <string name="install_done">App installed.</string>
-    <string name="install_confirm_question">Permissions</string>
-    <string name="install_confirm_question_no_perms">Do you want to install this application? It does not require any special access.</string>
+    <string name="next">Далее</string>
+    <string name="install">Установить</string>
+    <string name="done">Готово</string>
+    <string name="security_settings_desc">Разрешить этому приложению:</string>
+    <string name="cancel">Отменить</string>
+    <string name="unknown">Неизвестный</string>
+    <string name="installing">Установка</string>
+    <string name="install_done">Приложение установлено.</string>
+    <string name="install_confirm_question">Разрешения</string>
+    <string name="install_confirm_question_no_perms">Хотите ли вы установить это приложение? Оно не требует различных разрешений.</string>
     <string name="install_confirm_question_update">Do you want to install an update to this existing application? Your existing data will not be lost. The updated application will get access to:</string>
-    <string name="install_confirm_question_update_system">"Do you want to install an update
- to this built-in application? Your existing data will not
- be lost. The updated application will get access to:"</string>
+    <string name="install_confirm_question_update_system">"Вы хотите установить обновление
+ встроенного приложения? Ваши данные не будут потеряны.
+ Приложение запрашивает разрешение к:"</string>
     <string name="install_confirm_question_update_no_perms">Do you want to update the existing app? Your existing data will remain and no special permission is required.</string>
     <string name="install_confirm_question_update_system_no_perms">Do you want to update this built-in app? Your existing data will remain and no special permission is required.</string>
-    <string name="install_failed">App not installed</string>
+    <string name="install_failed">Приложение не установлено</string>
     <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
     <string name="install_failed_inconsistent_certificates">"An existing package by the same name
  with a conflicting signature is already installed."</string>
@@ -32,25 +32,25 @@
     <string name="install_failed_verify_timeout">"A timeout occurred while trying to verify this
  package. Try to install it again later."</string>
     <string name="install_failed_msg">"%1$s couldn't be installed on your phone."</string>
-    <string name="launch">Open</string>
-    <string name="unknown_apps_dlg_title">Install blocked</string>
+    <string name="launch">Открыть</string>
+    <string name="unknown_apps_dlg_title">Установка заблокирована</string>
     <string name="unknown_apps_dlg_text">For security, installation of apps obtained from unknown sources are banned.</string>
     <string name="ok">OK</string>
-    <string name="settings">Open</string>
-    <string name="allow_source_dlg_title">New source for apps</string>
-    <string name="allow_source_dlg_text">"%1$s wants to install other apps.
+    <string name="settings">Открыть</string>
+    <string name="allow_source_dlg_title">Новые источники для приложений</string>
+    <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
 
-Allow
- this now and in the future?"</string>
+Разрешить
+ это сейчас и в будущем?"</string>
     <string name="manage_applications">Manage apps</string>
-    <string name="dlg_app_replacement_title">Replace app</string>
+    <string name="dlg_app_replacement_title">Заменить приложение</string>
     <string name="dlg_app_replacement_statement">"The app you're installing will replace another app.
 
 All your previous user data will be saved."</string>
-    <string name="dlg_sys_app_replacement_statement">"This is a system app.
+    <string name="dlg_sys_app_replacement_statement">"Это систменое приложение.
 
-All your previous user data will be saved."</string>
-    <string name="out_of_space_dlg_title">Out of space</string>
+Все ваши предыдущие данные сохранятся."</string>
+    <string name="out_of_space_dlg_title">Нет места</string>
     <string name="out_of_space_dlg_text">"%1$s couldn't be installed. Free up some space and try again."</string>
     <string name="dlg_ok">OK</string>
     <string name="app_not_found_dlg_title">App not found</string>
@@ -62,24 +62,24 @@ All your previous user data will be saved."</string>
     <string name="uninstall_application_text">Do you want to uninstall this app?</string>
     <string name="uninstall_application_text_all_users">Uninstall this app for <b>all</b> users? The app and its data will be removed from <b>all</b> users on the device.</string>
     <string name="uninstall_update_text">Do you want to replace this app with the factory version?</string>
-    <string name="uninstalling">Uninstalling...</string>
-    <string name="uninstall_done">Uninstall finished.</string>
-    <string name="uninstall_failed">Uninstall failed.</string>
-    <string name="uninstall_failed_device_policy_manager">"Can't uninstall because this package is an
- active device administrator."</string>
+    <string name="uninstalling">Удаление...</string>
+    <string name="uninstall_done">Удаление завершено.</string>
+    <string name="uninstall_failed">Удаление завершенно некорректно.</string>
+    <string name="uninstall_failed_device_policy_manager">"Невозможно удалить приложение,потому что
+ это активный администратор устройства."</string>
     <string name="manage_device_administrators">Manage device administrators</string>
     <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
     <string name="Parse_error_dlg_title">Parse error</string>
     <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
-    <string name="newPerms">New</string>
-    <string name="allPerms">All</string>
-    <string name="privacyPerms">Privacy</string>
-    <string name="devicePerms">Device Access</string>
-    <string name="no_new_perms">This update requires no new permissions.</string>
-    <string name="version_text">Version: %1$s</string>
-    <string name="version_text_message" formatted="false">%s %s replace as %s</string>
-    <string name="uninstall">Uninstall</string>
-    <string name="install_success">Successfully installed</string>
+    <string name="newPerms">Новые</string>
+    <string name="allPerms">Все</string>
+    <string name="privacyPerms">Конфиденциальность</string>
+    <string name="devicePerms">Разрешения Устройства</string>
+    <string name="no_new_perms">Это обновление не требует новых разрешений.</string>
+    <string name="version_text">Версия: %1$s</string>
+    <string name="version_text_message" formatted="false">%s %s заменяется на %s</string>
+    <string name="uninstall">Удалить</string>
+    <string name="install_success">Успешно установлено</string>
     <string name="call">Phone call</string>
     <string name="call_log">Read call logs</string>
     <string name="contacts">Read contacts</string>
@@ -100,25 +100,25 @@ All your previous user data will be saved."</string>
     <string name="help_message">You can change settings in \"Settings/Apps Control\"</string>
     <string name="permlab_processOutgoingCalls">Re-route outgoing calls</string>
     <string name="security_detecting">Security checking</string>
-    <string name="text_accept">Allow</string>
-    <string name="text_reject">Reject</string>
-    <string name="text_prompt">Ask</string>
-    <string name="text_virus_install_confirm">Virus detected in app, continue the installation?</string>
+    <string name="text_accept">Разрешить</string>
+    <string name="text_reject">Запретить</string>
+    <string name="text_prompt">Спрашивать</string>
+    <string name="text_virus_install_confirm">Приложение заражено, продолжить установку?</string>
     <string name="text_virus_install_confirm_tips">Tips</string>
-    <string name="text_loading">Scanning</string>
-    <string name="text_installing">Installing</string>
-    <string name="text_virus">Virus</string>
+    <string name="text_loading">Сканирование</string>
+    <string name="text_installing">Установка</string>
+    <string name="text_virus">Вирус</string>
     <string name="text_safe">Security</string>
-    <string name="permission_count">permission(s)</string>
-    <string name="perm_notity">Notification</string>
-    <string name="perm_autostart">Auto launch</string>
+    <string name="permission_count">разрешение(я)</string>
+    <string name="perm_notity">Уведомление</string>
+    <string name="perm_autostart">Авто загрузка</string>
     <string name="perm_dialog">Alert</string>
     <string name="perm_other">Other permissions</string>
     <string name="text_scan_done_safe">Safe</string>
-    <string name="text_scan_done_virus">Virus</string>
-    <string name="text_scan_done_virus_replace">Virus</string>
-    <string name="text_scan_done_fake_replace">Piratic app</string>
-    <string name="text_install_done">Installed</string>
+    <string name="text_scan_done_virus">Вирус</string>
+    <string name="text_scan_done_virus_replace">Вирув</string>
+    <string name="text_scan_done_fake_replace">Пиратское приложение</string>
+    <string name="text_install_done">Установлено</string>
     <string name="text_btn_still_install">Still Install</string>
     <string name="text_btn_replace">Replace</string>
     <string name="text_btn_del">Delete</string>
