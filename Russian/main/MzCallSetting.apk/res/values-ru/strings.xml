@@ -82,7 +82,7 @@
     <string name="sim_calls_category_title">Выбрать SIM-карту по умолчанию</string>
     <string name="sim_calls_title">SIM-карта для вызовов по умолчанию</string>
     <string name="mz_contacts_manager">Управление контактами</string>
-    <string name="spam_call_filter_title">Блокировка неугодных</string>
+    <string name="spam_call_filter_title">Черный список</string>
     <string name="sim_calls_defaule_name">Не выбрано</string>
     <string name="button_ends_call_prerefence_title">Отбой вызова кнопкой ВКЛ.</string>
     <string name="auto_record_when_calling_title">Запись вызовов</string>
