@@ -3003,8 +3003,8 @@
     <string name="battery_usage_permission">Разрешения</string>
     <string name="battery_usage_permission_standby">Работа в режиме ожидания</string>
     <string name="battery_usage_permission_wakeup">Разрешение пробуждения</string>
-    <string name="normal_screen_on_time">Экран включен нормально</string>
-    <string name="app_force_screen_on_title">Время повыш. потреб. экрана приложениями</string>
+    <string name="normal_screen_on_time">Время нормального потребления</string>
+    <string name="app_force_screen_on_title">Время повыш. потребления приложениями</string>
     <string name="app_force_screen_on_summary">Включая навигацию, просм. видео, игры</string>
     <string name="app_force_screen_on_rank">Рейтинг обяз. приложений вкл. экрна</string>
     <string name="durationHourMinuteSecond">%1$d ч %2$d мин %3$d сек</string>
