@@ -229,7 +229,8 @@
     <string name="mz_manual_shutter_speed_toast">Держите камеру неподвижно, пока осуществляется фотографирование</string>
     <string name="mz_manual_wb_title">Баланс белого</string>
     <string name="mz_no_support_video_filter_480P">Переключить в режим 480P</string>
-    <string name="mz_pano_hint">"Нажмите затвор и двигайте камеру по горизонтали"</string>
+    <string name="mz_pano_hint">"Нажмите затвор и двигайте камеру 
+по горизонтали"</string>
     <string name="mz_pano_hint_direc_confirming">Двигайте камеру по горизонтали</string>
     <string name="mz_pano_hint_in_panning">Продолжайте двигать по горизонтали</string>
     <string name="mz_pano_hint_off_center">Камера двигается не по горизонтали!</string>
