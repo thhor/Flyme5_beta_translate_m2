@@ -2970,7 +2970,7 @@
     <string name="battery_consumption_balance_title">Сбалансированный</string>
     <string name="battery_consumption_saving_title">Энергосберегающий</string>
     <string name="battery_consumption_performance_title">Производительный</string>
-    <string name="battery_consumption_summary">Осталось:%1$s</string>
+    <string name="battery_consumption_summary">Осталось: %1$s</string>
     <string name="battery_usage_app">Программное энергопотребление</string>
     <string name="battery_usage_hardware">Аппаратное энергопотребление</string>
     <string name="battery_optimization">Оптимизация энергопотребления</string>
@@ -2986,12 +2986,12 @@
     <string name="recently_nine_hour">Последние 9ч</string>
     <string name="recently_twelve_hour">Последние 12ч</string>
     <string name="recently_hours">Последние %d часа(ов)</string>
-    <string name="time_usage">Время：%s</string>
+    <string name="time_usage">Время: %s</string>
     <string name="normal_sleep_time">Время сна</string>
     <string name="screen_force_wakeup_title">Принудительное пробуждение</string>
     <string name="screen_force_wakeup_summary">Включая онлайн синхр. сообщений, обновления данных и т.д.</string>
     <string name="app_force_wakeup_rank">Будящие приложения</string>
-    <string name="app_force_wakeup_summary">"%1$s  время пробуждения：%2$d раз(а)"</string>
+    <string name="app_force_wakeup_summary">"%1$s  время пробуждения: %2$d раз(а)"</string>
     <string name="app_force_wakeup_frequency">%d d/h</string>
     <string name="battery_usage_statistics">Статистика потребления</string>
     <string name="system_sleep_wakeup_time">Время пробуждения</string>
@@ -3008,7 +3008,7 @@
     <string name="app_force_screen_on_summary">Включая навигацию, просм. видео, игры</string>
     <string name="app_force_screen_on_rank">Рейтинг обяз. приложений вкл. экрна</string>
     <string name="durationHourMinuteSecond">%1$d ч %2$d мин %3$d сек</string>
-    <string name="power_usage_percent">Рейтинг исп. батареи：%s</string>
+    <string name="power_usage_percent">Рейтинг исп. батареи:%s</string>
     <string name="counts">%d раз(а)</string>
     <string name="radio_weak_time">Слабый сигнал</string>
     <string name="mobile_network_usage_time">Время активно сети</string>
