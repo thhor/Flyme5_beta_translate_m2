@@ -381,17 +381,17 @@
     <string name="father_day">День отца</string>
     <string name="hungry_ghost_festival">Фестиваль Голодных призраков</string>
     <string name="laba">Лаба-фестиваль</string>
-    <string name="loap_day" />
+    <string name="loap_day">
     <string name="magpie_festival">Китайский День влюбленных</string>
     <string name="mid_autumn_festival">День середины осени</string>
     <string name="mother_day">День матери</string>
     <string name="spring_festival">Фестиваль Весны</string>
     <string name="thanks_giving">День благодарения</string>
     <string name="title_activity_program_detail">Детали</string>
-    <string name="touch_3d_agenda">Agenda</string>
-    <string name="touch_3d_horoscope">Horoscope</string>
-    <string name="touch_3d_new_event">New event</string>
-    <string name="touch_3d_search">Search</string>
+    <string name="touch_3d_agenda">Ежедневник</string>
+    <string name="touch_3d_horoscope">Гороскоп</string>
+    <string name="touch_3d_new_event">Новое событие</string>
+    <string name="touch_3d_search">Поиск</string>
 	<string name="new_event_smart_bar">Новое событие</string>
 	<string name="event_smart_bar">Список событий</string>
 </resources>
