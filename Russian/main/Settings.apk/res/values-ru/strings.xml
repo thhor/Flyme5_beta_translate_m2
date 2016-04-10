@@ -2971,8 +2971,8 @@
     <string name="battery_consumption_saving_title">Энергосберегающий</string>
     <string name="battery_consumption_performance_title">Производительный</string>
     <string name="battery_consumption_summary">Осталось:%1$s</string>
-    <string name="battery_usage_app">Программное энергопотребление</string>
-    <string name="battery_usage_hardware">Аппаратное энергопотребление</string>
+    <string name="battery_usage_app">Программное</string>
+    <string name="battery_usage_hardware">Аппаратное</string>
     <string name="battery_optimization">Оптимизация энергопотребления</string>
     <string name="power_software_usage_not_available">Данные использования батареи не доступны</string>
     <string name="power_hardware_usage_not_available">Данные использования батареи не доступны</string>
@@ -3463,5 +3463,5 @@
     <string name="mc_description_target_answer">Правильный вариант</string>
     <string name="4pda_info">Подробнее о русификации</string>
     <string name="ringtone_unknown">Без звука</string>
-    <string name="mz_install_unknown_applications">Неизвестные источники</string>
+	<string name="mz_install_unknown_applications">Неизвестные источники</string>
 </resources>
