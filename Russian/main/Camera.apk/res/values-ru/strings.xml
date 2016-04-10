@@ -194,8 +194,7 @@
     <string name="mz_fb_eye">Глаза</string>
     <string name="mz_fb_slime">Подтяжка</string>
     <string name="mz_fb_smooth">Гладкая кожа</string>
-    <string name="mz_fb_tone">"Отбелива-
-ние"</string>
+    <string name="mz_fb_tone">"Отбеливание"</string>
     <string name="mz_filter_10_title">Дерево</string>
     <string name="mz_filter_14_title">Оливково-жёлтый</string>
     <string name="mz_filter_16_title">Голубой</string>
@@ -206,7 +205,7 @@
     <string name="mz_filter_3_title">Плёнка</string>
     <string name="mz_filter_4_title">Окисленный</string>
     <string name="mz_filter_5_title">Зеленый абсент</string>
-    <string name="mz_filter_6_title">Сирень</string>
+    <string name="mz_filter_6_title">Сиреневый</string>
     <string name="mz_filter_8_title">Синий</string>
     <string name="mz_filter_9_title">Зелёный</string>
     <string name="mz_filter_none_title">Нет</string>
@@ -230,8 +229,7 @@
     <string name="mz_manual_shutter_speed_toast">Держите камеру неподвижно, пока осуществляется фотографирование</string>
     <string name="mz_manual_wb_title">Баланс белого</string>
     <string name="mz_no_support_video_filter_480P">Переключить в режим 480P</string>
-    <string name="mz_pano_hint">"Нажмите затвор и двигайте камеру 
-по горизонтали"</string>
+    <string name="mz_pano_hint">"Нажмите затвор и двигайте камеру по горизонтали"</string>
     <string name="mz_pano_hint_direc_confirming">Двигайте камеру по горизонтали</string>
     <string name="mz_pano_hint_in_panning">Продолжайте двигать по горизонтали</string>
     <string name="mz_pano_hint_off_center">Камера двигается не по горизонтали!</string>
@@ -303,7 +301,7 @@
     <string name="mz_action_bar_multi_choice_select_all_cancel">Нет</string>
     <string name="mz_action_bar_multi_choice_title">Выбрано %d</string>
     <string name="mz_app_center_download">Загрузка…</string>
-    <string name="mz_cam_mode_gif">Gif</string>
+    <string name="mz_cam_mode_gif">GIF</string>
     <string name="mz_countdown_close">Выкл.</string>
     <string name="mz_forcetouch_item_mirror">Зеркало</string>
     <string name="mz_forcetouch_item_video">Видео</string>
