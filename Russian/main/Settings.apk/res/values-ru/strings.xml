@@ -2987,8 +2987,8 @@
     <string name="recently_twelve_hour">Последние 12ч</string>
     <string name="recently_hours">Последние %d часа(ов)</string>
     <string name="time_usage">Время：%s</string>
-    <string name="normal_sleep_time">Время нормальной сна</string>
-    <string name="screen_force_wakeup_title">Бодрствование</string>
+    <string name="normal_sleep_time">Время сна</string>
+    <string name="screen_force_wakeup_title">Принудительное пробуждение</string>
     <string name="screen_force_wakeup_summary">Включая онлайн синхр. сообщений, обновления данных и т.д.</string>
     <string name="app_force_wakeup_rank">Будящие приложения</string>
     <string name="app_force_wakeup_summary">"%1$s  время пробуждения：%2$d раз(а)"</string>
