@@ -651,7 +651,7 @@
     <string name="pref_title_larger_text_size">Крупный шрифт</string>
     <string name="pref_title_manage_messages_spam">Спам-фильтр</string>
     <string name="pref_title_manage_multi_sim_messages">Сообщения SIM (%s)</string>
-    <string name="pref_title_manage_multi_sim_messages_cdma">Управление сообщениями на карте (%s)</string>
+    <string name="pref_title_manage_multi_sim_messages_cdma">Управление сообщениями на SIM (%s)</string>
     <string name="pref_title_manage_sim_messages_cdma">Управление сообщениями SIM</string>
     <string name="pref_title_manage_spam_address">Заблокированные номера</string>
     <string name="pref_title_mms_allow_return_read_reports">Разрешить читать отчёт о доставке</string>
@@ -725,8 +725,8 @@
     <string name="sending_disabled_not_default_app">Отправка отключена</string>
     <string name="sending_read_reports">%d отчётов об отправке MMS</string>
     <string name="server_error">Ошибка сервера</string>
-    <string name="sim1">"SIM1 "</string>
-    <string name="sim2">"SIM2 "</string>
+    <string name="sim1">"SIM 1"</string>
+    <string name="sim2">"SIM 2"</string>
     <string name="sim_close">Выкл.</string>
     <string name="sim_count">(%s)</string>
     <string name="sim_message_label">Сообщения SIM</string>
