@@ -766,8 +766,8 @@
     <string name="mz_wif_setting_dialog_message">Сеть недоступна. Проверьте настройки сети.</string>
     <string name="mz_wif_setting_dialog_set">Установить</string>
     <string name="mzc_account_name_base">SIM</string>
-    <string name="mzc_account_name_home">SIM2</string>
-    <string name="mzc_account_name_work">SIM1</string>
+    <string name="mzc_account_name_home">SIM 2</string>
+    <string name="mzc_account_name_work">SIM 1</string>
     <string name="mzc_account_type_lable">%s контакты</string>
     <string name="mzc_account_type_lable_device_only">Локально</string>
     <string name="mzc_account_type_lable_net_contact">Жёлтые страницы онлайн</string>
