@@ -59,8 +59,8 @@
     <string name="Mz_respond_via_sms_setting_title">Отклонение вызова сообщением</string>
     <string name="expand_option_title">Другие настройки</string>
     <string name="speed_voicemail">Голос. почта</string>
-    <string name="speed_card1_voicemail">SIM1 голос. почта</string>
-    <string name="speed_card2_voicemail">SIM2 голос. почта</string>
+    <string name="speed_card1_voicemail">SIM 1 голос. почта</string>
+    <string name="speed_card2_voicemail">SIM 2 голос. почта</string>
     <string name="speed_dail_label">Быстрый набор</string>
     <string name="speed_dail_remove">Очистить</string>
     <string name="speed_dial_add">Добавить</string>
