@@ -10,7 +10,7 @@
     <string name="stop_record">Остановить запись</string>
     <string name="str_db_playlist_name">Мои записи</string>
     <string name="alert_device_error">Ошибка аудио-устройства</string>
-    <string name="ext_media_badremoval_notification_title">Непредвиденное извлечение SD-карты</string>
+    <string name="ext_media_badremoval_notification_title">Непредвиденное извлечение карты памяти</string>
     <string name="error_sdcard_access">Карта памяти недоступна</string>
     <string name="confirm_device_info_full">На карте памяти заканчивается место. Запись была сохранена.</string>
     <string name="confirm_save_info_saved">Запись была сохранена</string>
@@ -54,7 +54,7 @@
     <string name="vt_local_video_display">Локальное отображение видео</string>
     <string name="vt_sd_null">"Карта памяти
 недоступна"</string>
-    <string name="vt_sd_not_enough">"Карта памяти работает
+    <string name="vt_sd_not_enough">"На карте памяти
 недостаточно места"</string>
     <string name="vt_peer_video_quality_normal">Обычное</string>
     <string name="vt_peer_video_quality_sharp">Резкое</string>
@@ -110,7 +110,7 @@
     <string name="vt_recorder_only_voice">Только голос</string>
     <string name="vt_recorder_only_peer_video">Только удалённое видео</string>
     <string name="vt_recording_saved">Запись сохранена.</string>
-    <string name="vt_recording_saved_sd_full">На карте SD закончилось место, запись сохранена.</string>
+    <string name="vt_recording_saved_sd_full">Карта памяти заполнена, запись сохранена.</string>
     <string name="vt_recording_error">Ошибка записи</string>
     <string name="start_record_vt">Начать запись</string>
     <string name="stop_record_vt">Остановить запись</string>
@@ -186,7 +186,7 @@
     <string name="new_password_label">Новый пароль (4 цифры)</string>
     <string name="invalid_password">Введите пароль из 4 цифр.</string>
     <string name="confirm_password_label">Подтвердите новый пароль</string>
-    <string name="mismatch_password">Введенный пароль не совпадает Повторите попытку.</string>
+    <string name="mismatch_password">Введенный пароль не совпадает. Повторите попытку.</string>
     <string name="password_changed">Пароль успешно изменён</string>
     <string name="enter_callbarring_password">Введите пароль запрета вызовов (4 цифры)</string>
     <string name="wrong_password">Ошибка в пароле</string>
@@ -312,7 +312,7 @@
     <string name="fdn_only_error">Возможны операции только с разрешенными номерами.</string>
     <string name="network_setting_all_forbidden_dialog">Нет доступных сетей.</string>
     <string name="reset_data_usage">Сброс данных</string>
-    <string name="simContacts_emptyLoading_ex">Чтение контактов с SIM1…</string>
+    <string name="simContacts_emptyLoading_ex">Чтение контактов с SIM 1…</string>
     <string name="one_retry_left">Осталась одна попытка</string>
     <string name="retries_left">Осталось попыток: %d</string>
     <string name="pin2_unblocked">Код PIN2 разблокирован</string>
@@ -499,20 +499,20 @@ flyme message and file transfer、contact
     <string name="flyme_settings_close">Выкл.</string>
     <string name="msg_guest_mode_toast">Message app not available in Guset Mode</string>
     <string name="button_ends_call_prerefence_title">Отбой вызова кнопкой питания</string>
-    <string name="app_name_sim1">Карта 1 -</string>
-    <string name="app_name_sim2">Карта 2 -</string>
+    <string name="app_name_sim1">SIM 1 -</string>
+    <string name="app_name_sim2">SIM 2 -</string>
     <string name="card_name_no_sim">Нет SIM-карты</string>
-    <string name="sim1_callforwarding">Переадресация (SIM1)</string>
-    <string name="sim2_callforwarding">Переадресация (SIM2)</string>
-    <string name="sim1_callwaiting">Ожидание вызовов (SIM1)</string>
-    <string name="sim2_callwaiting">Ожидание вызовов (SIM2)</string>
-    <string name="sim1_callbarring">Запрет вызовов (SIM1)</string>
-    <string name="sim2_callbarring">Запрет вызовов (SIM2)</string>
+    <string name="sim1_callforwarding">Переадресация (SIM 1)</string>
+    <string name="sim2_callforwarding">Переадресация (SIM 2)</string>
+    <string name="sim1_callwaiting">Ожидание вызовов (SIM 1)</string>
+    <string name="sim2_callwaiting">Ожидание вызовов (SIM 2)</string>
+    <string name="sim1_callbarring">Запрет вызовов (SIM 1)</string>
+    <string name="sim2_callbarring">Запрет вызовов (SIM 2)</string>
     <string name="phoneAppLabel_mz">Настройки телефона</string>
     <string name="speed_dail_label">Быстрый набор</string>
     <string name="voicemail_number">Номер голосовой почты</string>
-    <string name="speed_card1_voicemail">Голос. почта SIM1</string>
-    <string name="speed_card2_voicemail">Голос. почта SIM2</string>
+    <string name="speed_card1_voicemail">Голос. почта SIM 1</string>
+    <string name="speed_card2_voicemail">Голос. почта SIM 2</string>
     <string name="speed__voicemail">Гол. почта</string>
     <string name="add_to_speed_dial_contact">В быстрый набор</string>
     <string name="speed_dail_remove">Удалить</string>
@@ -533,8 +533,8 @@ flyme message and file transfer、contact
     <string name="only_use_LTE_data_summary">To enable only use single data, the function will not be able to use Phone call and text messages.</string>
     <string name="enable_4G_data">Enable 4G data</string>
     <string name="enable_4G_data_summary">4G can provide better and faster Internet access</string>
-    <string name="sim1_labelCallerId">Номер (SIM1)</string>
-    <string name="sim2_labelCallerId">Номер (SIM2)</string>
+    <string name="sim1_labelCallerId">Номер (SIM 1)</string>
+    <string name="sim2_labelCallerId">Номер (SIM 2)</string>
     <string name="sim_calls_category">Dual sim card</string>
     <string name="sim_calls_category_title">SIM-карта для вызова по умолчанию</string>
     <string name="sim_calls_defaule_name">Нет</string>
@@ -548,8 +548,8 @@ flyme message and file transfer、contact
     <string name="preference_import_contacts_from_otherphone_title">Импорт с другого телефона</string>
     <string name="auto_record_log">Записи вызовов</string>
     <string name="message_record_log">Голосовые записи</string>
-    <string name="sim_1">SIM1 -</string>
-    <string name="sim_2">SIM2 -</string>
+    <string name="sim_1">SIM 1 -</string>
+    <string name="sim_2">SIM 2 -</string>
     <string name="sim_calls_title">SIM-карта для вызова по умолчанию</string>
     <string name="auto_indentification_number_title">Распознавание номера</string>
     <string name="auto_indentification_number_summary">Показать название или беспокоящий номер</string>
@@ -711,8 +711,8 @@ flyme message and file transfer、contact
     <string name="callFailed_dsac_restricted_normal">В вашем домене запрещено звонить на обычные номера</string>
     <string name="callFailed_unobtainable_number">Неверный номер</string>
     <string name="incall_error_missing_voicemail_number">Неизвестный номер голосовой почты.</string>
-    <string name="sim1_more_info">Другие настройки(SIM1)</string>
-    <string name="sim2_more_info">Другие настройки(SIM2)</string>
+    <string name="sim1_more_info">Другие настройки(SIM 1)</string>
+    <string name="sim2_more_info">Другие настройки(SIM 2)</string>
     <string name="expand_option_title">Другие настройки</string>
     <string name="fake_phone_activity_infoText_text">Incoming phone number</string>
     <string name="fake_phone_activity_placeCall_text">Fake Incoming Call</string>
@@ -916,7 +916,7 @@ flyme message and file transfer、contact
     <string name="cdma_lte_data_service">Настроить передачу данных</string>
     <string name="carrier_settings_title">Настройки оператора</string>
     <string name="fdn">Разрешенные номера</string>
-    <string name="manage_fdn_list">Разрешённые номера</string>
+    <string name="manage_fdn_list">Разрешенные номера</string>
     <string name="fdn_activation">Активация разреш. номеров</string>
     <string name="fdn_enabled">Разрешенные номера включены</string>
     <string name="fdn_disabled">Разрешенные номера отключены</string>
@@ -949,8 +949,8 @@ flyme message and file transfer、contact
     <string name="delete_fdn_contact">Удалить номер ограниченного набора</string>
     <string name="deleting_fdn_contact">Выполняется удаление номера ограниченного набора…</string>
     <string name="fdn_contact_deleted">Номер фиксированного набора удалён</string>
-    <string name="pin2_invalid">Разрешенный номер не обновлен, так как введен неверный PIN-код.</string>
-    <string name="fdn_invalid_number">Разрешенный номер не обновлен, т. к. не может содержать более 20 цифр.</string>
+    <string name="pin2_invalid">Разрешенный номер не обновлен. Введен неверный PIN-код.</string>
+    <string name="fdn_invalid_number">Разрешенный номер не обновлен, не может содержать более 20 цифр.</string>
     <string name="pin2_or_fdn_invalid">Список разрешенных номеров не обновлен. Указан неверный PIN2 или номер телефона.</string>
     <string name="fdn_failed">Не удалось включить FDN</string>
     <string name="simContacts_emptyLoading">Считывание с SIM-карты…</string>
