@@ -388,11 +388,11 @@
     <string name="unlock_set_unlock_mode_password">Пароль</string>
     <string name="unlock_disable_lock_title">Отключить блокировку экрана</string>
     <string name="unlock_disable_lock_pattern_summary">Удалить графический ключ разблокировки</string>
-    <string name="unlock_disable_lock_pin_summary">Удалить ПИН-код разблокировки</string>
+    <string name="unlock_disable_lock_pin_summary">Удалить PIN-код разблокировки</string>
     <string name="unlock_disable_lock_password_summary">Удалить пароль разблокировки</string>
     <string name="unlock_disable_lock_unknown_summary">Отключить блокировку экрана</string>
     <string name="unlock_change_lock_pattern_title">Изменить графический ключ разблокировки</string>
-    <string name="unlock_change_lock_pin_title">Изменить ПИН-код разблокировки</string>
+    <string name="unlock_change_lock_pin_title">Изменить PIN-код разблокировки</string>
     <string name="unlock_change_lock_password_title">Изменить пароль разблокировки</string>
     <string name="lockpassword_password_too_short">Пароль должен содержать не менее %d символов</string>
     <string name="lockpassword_pin_too_short">PIN-код должен содержать не менее %d цифр</string>
@@ -1309,7 +1309,7 @@
     <string name="running_processes_header_apps_prefix">Приложения</string>
     <string name="running_processes_header_free_prefix">Свободно</string>
     <string name="running_processes_header_used_prefix">Используется</string>
-    <string name="running_processes_header_cached_prefix">Кешированные</string>
+    <string name="running_processes_header_cached_prefix">Кэшированные</string>
     <string name="running_processes_header_ram">%1$s ОЗУ</string>
     <string name="runningservicedetails_settings_title">Запущенное приложение</string>
     <string name="no_services">Неактивен</string>
@@ -1696,7 +1696,7 @@
     <string name="process_stats_total_duration">%1$s приложения за %2$s</string>
     <string name="process_stats_type_background">Фоновые</string>
     <string name="process_stats_type_foreground">Активные</string>
-    <string name="process_stats_type_cached">Кешированные</string>
+    <string name="process_stats_type_cached">Кэшированные</string>
     <string name="process_stats_memory_status">Уровень свободной памяти: %1$s</string>
     <string name="process_stats_avg_ram_use">Использование оперативной памяти (среднее значение)</string>
     <string name="process_stats_max_ram_use">Использование оперативной памяти (максимальное значение)</string>
@@ -1708,7 +1708,7 @@
     <string name="mem_use_subtitle">Использование памяти</string>
     <string name="mem_use_kernel_type">Ядро</string>
     <string name="mem_use_native_type">Собственные процессы</string>
-    <string name="mem_use_kernel_cache_type">Кеш ядра</string>
+    <string name="mem_use_kernel_cache_type">Кэш ядра</string>
     <string name="mem_use_zram_type">Замена ZRam</string>
     <string name="mem_use_free_type">Свободно</string>
     <string name="mem_use_total">Итого</string>
@@ -3208,8 +3208,8 @@
     <string name="lte_4g_switch_prompt">Произойдёт переключение с 2G/3G на 4G. Некоторые активные задачи будут остановлены.</string>
     <string name="flyme_push_dialog_title">Отключить Push?</string>
     <string name="flyme_push_dialog_content">Если отключить Push, то нельзя будет использовать функцию поиска телефона, синхронизацию нескольких устройств, Flyme-сообщения и другие функции.</string>
-    <string name="sim_1">Карта 1 -</string>
-    <string name="sim_2">Карта 2 -</string>
+    <string name="sim_1">SIM 1 -</string>
+    <string name="sim_2">SIM 2 -</string>
     <string name="no_uim_card">Пусто</string>
     <string name="no_sim_card">Пусто</string>
     <string name="sim_disable">Отключена</string>
