@@ -93,11 +93,11 @@
     <string name="font_family_caption_material">sans-serif</string>
     <string name="font_family_button_material">sans-serif-medium</string>
     <string name="byteShort">Б</string>
-    <string name="kilobyteShort">КБ</string>
-    <string name="megabyteShort">МБ</string>
-    <string name="gigabyteShort">ГБ</string>
-    <string name="terabyteShort">TБ</string>
-    <string name="petabyteShort">ПБ</string>
+    <string name="kilobyteShort">Кб</string>
+    <string name="megabyteShort">Мб</string>
+    <string name="gigabyteShort">Гб</string>
+    <string name="terabyteShort">Tб</string>
+    <string name="petabyteShort">Пб</string>
     <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="durationDays">%1$d дн.</string>
     <string name="durationDayHours">%1$d день %2$d ч.</string>
