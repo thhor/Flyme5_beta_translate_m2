@@ -264,7 +264,7 @@
     <string name="permgrouplab_personalInfo">Личная информация</string>
     <string name="permgroupdesc_personalInfo">Прямой доступ к моим контактным данным.</string>
     <string name="permgrouplab_socialInfo">Информация о моих контактах</string>
-    <string name="permgroupdesc_socialInfo">Прямой доступ к информации о моих контактах и социальных связях.</string>
+    <string name="permgroupdesc_socialInfo">Прямой доступ к информации о моих контактах в социальных сетях.</string>
     <string name="permgrouplab_location">Ваше местоположение</string>
     <string name="permgroupdesc_location">Приложение сможет отслеживать ваше местоположение.</string>
     <string name="permgrouplab_network">Сетевой обмен данными</string>
@@ -515,7 +515,7 @@
     <string name="permdesc_manageCaCertificates">Приложение сможет устанавливать сертификаты ЦС в качестве надежных учетных данных, а также удалять их.</string>
     <string name="permlab_bindJobService">Запуск приложения в фоновом режиме по расписанию</string>
     <string name="permdesc_bindJobService">Запуск приложения в фоновом режиме по запросу.</string>
-    <string name="permlab_diagnostic">Чтение/запись данных в системы диагностики</string>
+    <string name="permlab_diagnostic">Чтение/запись данных в системе диагностики</string>
     <string name="permdesc_diagnostic">Приложение сможет считывать и записывать данные системы диагностики (например, файлы в каталоге /dev). Это может повлиять на стабильность и безопасность системы. Это разрешение должно использоваться ТОЛЬКО производителем или оператором для диагностики аппаратного обеспечения.</string>
     <string name="permlab_changeComponentState">Включение/отключение компонентов приложения</string>
     <string name="permdesc_changeComponentState">Приложение сможет включать и отключать компоненты других программ. Вредоносные программы смогут таким образом отключать важные функции телефона. Используйте это разрешение с особой осторожностью, чтобы случайно не нарушить работу компонентов приложения.</string>
@@ -1459,7 +1459,7 @@
     <string name="data_usage_mobile_limit_title">Достигнут лимит мобильного трафика</string>
     <string name="data_usage_wifi_limit_title">Достигнут лимит трафика Wi-Fi</string>
     <string name="data_usage_limit_body">Передача данных приостановлена</string>
-    <string name="data_usage_3g_limit_snoozed_title">Превышен лимита трафика 2G/3G</string>
+    <string name="data_usage_3g_limit_snoozed_title">Превышен лимит трафика 2G/3G</string>
     <string name="data_usage_4g_limit_snoozed_title">Превышен лимит трафика 4G</string>
     <string name="data_usage_mobile_limit_snoozed_title">Превышен лимит мобильного трафика</string>
     <string name="data_usage_wifi_limit_snoozed_title">Превышен лимит трафика Wi-Fi</string>
