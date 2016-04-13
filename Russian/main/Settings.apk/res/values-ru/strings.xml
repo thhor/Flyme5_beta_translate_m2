@@ -1708,7 +1708,7 @@
     <string name="mem_use_subtitle">Использование памяти</string>
     <string name="mem_use_kernel_type">Ядро</string>
     <string name="mem_use_native_type">Собственные процессы</string>
-    <string name="mem_use_kernel_cache_type">Кеш ядра</string>
+    <string name="mem_use_kernel_cache_type">Кэш ядра</string>
     <string name="mem_use_zram_type">Замена ZRam</string>
     <string name="mem_use_free_type">Свободно</string>
     <string name="mem_use_total">Итого</string>
