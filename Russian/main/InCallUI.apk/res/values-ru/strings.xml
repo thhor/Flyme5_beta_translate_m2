@@ -33,7 +33,7 @@
     <string name="close_dialpad">Закрыть клавиатуру</string>
     <string name="mms_hint">Свой ответ</string>
     <string name="cancel_sms_list">Отменить</string>
-    <string name="incoming_tip">Слайд вправо для ответа</string>
+    <string name="incoming_tip">Проведите вправо для ответа</string>
     <string name="card_title_conf_call_notification">Конференц-связь %s</string>
     <string name="add">Добавить</string>
     <string name="call_duration_time">Продолжит. %s</string>
@@ -43,14 +43,14 @@
     <string name="stop_record_for_sd_nospace">Недостаточно места. Невозможно инициализировать запись</string>
     <string name="stop_record_for_bluetooth">Вызов через Bluetooth-гарнитуру активен. Включить запись разговоров нельзя.</string>
     <string name="stop_record_for_start_error">Ошибка запуска записи!</string>
-    <string name="stop_record_for_sd_unmount">Накопитель извлечен. Запись остановлена</string>
+    <string name="stop_record_for_sd_unmount">Карта памяти извлечена. Запись остановлена</string>
     <string name="stop_record_for_unknow_error">Неизвестная ошибка. Запись остановлена</string>
     <string name="stop_record_for_save_error">Запись длилась менее 1 секунды. Отмена</string>
     <string name="stop_record_for_length_limit">Лимит длины записи</string>
     <string name="stop_record_for_start_already_exist">Запись уже существует</string>
-    <string name="card_title_message_record">Message recording</string>
+    <string name="card_title_message_record">Запись сообщений</string>
     <string name="mz_respond_via_sms_custom_message">Свой ответ</string>
-    <string name="sim_picker_tile">Выбрать SIM</string>
+    <string name="sim_picker_tile">Выбрать SIM-карту</string>
     <string name="siminfo_item_text" formatted="false">SIM%d - %s</string>
     <string name="harassing_handler_hint">Отклонить и блокировать</string>
     <string name="sms_btn_label">Сообщение</string>
@@ -61,7 +61,7 @@
     <string name="caller_marked_ammount">%s отмечено</string>
     <string name="default_sim_select">Установить SIM-карту по умолчанию</string>
     <string name="bluetooth_auto_slot_countdown">(%s)</string>
-    <string name="incall_voice_route">Voice route</string>
+    <string name="incall_voice_route">Перенаправление голоса</string>
     <string name="volume_key_tip_text">Нажмите клавишу громкости для отключения сигнала вызова; Длительное нажатие кнопки увеличения громкости - для ответа</string>
     <string name="phoneAppLabel">Телефон</string>
     <string name="unknown">Неизвестно</string>
@@ -252,8 +252,8 @@
     <string name="mc_pattern_minute_before">, минут назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_app_name">MeizuCommon</string>
-    <string name="mc_action_settings">Settings</string>
+    <string name="mc_app_name">Общие файлы Meizu</string>
+    <string name="mc_action_settings">Настройки</string>
     <string name="mc_hello_world">Hello world!</string>
     <string name="mc_yes">ОК</string>
     <string name="mc_cancel">Отмена</string>
@@ -297,7 +297,7 @@
     <string name="mc_pm_s_mms">Послать MMS</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
-    <string name="mc_pm_location">Позиционирование</string>
+    <string name="mc_pm_location">Местоположение</string>
     <string name="mc_pm_recordaudio_local">Аудиозаписи</string>
     <string name="mc_pm_recordaudio_phone">Записи разговоров</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
@@ -316,7 +316,7 @@
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
     <string name="mc_pm_set_gprs_on">Включить передачу данных</string>
     <string name="mc_pm_online_intenert">Интернет</string>
-    <string name="mc_pull_refresh">Вниз для обновления</string>
+    <string name="mc_pull_refresh">Проведите вниз для обновления</string>
     <string name="mc_is_Refreshing">Обновление</string>
     <string name="mc_go_Refreshing">Обновить</string>
     <string name="mc_last_refresh">Последнее обновление</string>
