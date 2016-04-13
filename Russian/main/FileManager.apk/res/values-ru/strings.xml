@@ -20,7 +20,7 @@
     <string name="apk_display_name">Файлы APK</string>
     <string name="app_name">Проводник</string>
     <string name="before_month">Месяц назад</string>
-    <string name="big5_summary">По умолчанию код в Windows - традиционный китайской ввод</string>
+    <string name="big5_summary">По умолчанию код в Windows - традиционный китайский ввод</string>
     <string name="big5_title">BIG5</string>
     <string name="cancel">Выйти</string>
     <string name="cancel_copy">Отмена копирования</string>
@@ -46,7 +46,7 @@
     <string name="date_pm">п.п.</string>
     <string name="date_time_set">Установить</string>
     <string name="default_folder_name">Без имени</string>
-    <string name="delete_using_item_str">Файл находится в использовании и сейчас не может быть удалён!</string>
+    <string name="delete_using_item_str">Файл используется и сейчас не может быть удалён!</string>
     <string name="deleting">Удаление</string>
     <string name="detail_computing">Статистика</string>
     <string name="dialog_hint_zip">Архивировать</string>
@@ -88,7 +88,7 @@
     <string name="file_exists">Имя файла уже существует</string>
     <string name="file_limit_error">Путь к файлу слишком длинный, сократите путь</string>
     <string name="file_name_hint">Имя файла</string>
-    <string name="file_name_limit_error">Имя файла слишком длинное, сократите</string>
+    <string name="file_name_limit_error">Имя файла слишком длинное, сократите имя</string>
     <string name="files_limit_tip">Выберите не более %s файлов</string>
     <string name="ftp_anonymous_login">Анонимный вход</string>
     <string name="ftp_awake_close_state">Активность экрана отключена</string>
@@ -108,7 +108,7 @@
     <string name="ftp_tips_safety_high">Высокий уровень безопасности</string>
     <string name="ftp_tips_setting">Конфигурация</string>
     <string name="ftp_username_hint">Имя пользователя</string>
-    <string name="gbk_summary">По умолчанию код в Windows - упрощённый китайской ввод</string>
+    <string name="gbk_summary">По умолчанию код в Windows - упрощённый китайский ввод</string>
     <string name="gbk_title">GBK</string>
     <string name="go_to_folder">Просмотреть каталог</string>
     <string name="guide_back_to_parent">Нажмите для возврата</string>
@@ -175,7 +175,7 @@
     <string name="mc_pm_dialog_push">Всплывающий Push</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
     <string name="mc_pm_dlg_ok">ОК</string>
-    <string name="mc_pm_location">Позиционирование</string>
+    <string name="mc_pm_location">Местоположение</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_nfc">NFC</string>
     <string name="mc_pm_not_allow_check_app">Запретить</string>
