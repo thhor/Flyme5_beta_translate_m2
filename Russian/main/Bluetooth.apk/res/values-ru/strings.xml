@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="too_much_file_sent">Maximum %1$s files one time</string>
+    <string name="too_much_file_sent">Максимум %1$s файлов за раз</string>
     <string name="panu_no_need_connect">Нельзя использовать Bluetooth-модем при подключении к Wi-Fi</string>
-    <string name="panu_disconnect_while_wifi_connected">Bluetooth tethering disconnected</string>
-    <string name="notify_need_on_BT_before_retry">Bluetooth is Off. Please enable Bluetooth before retry sending</string>
-    <string name="sim_selected_dialog_title">Select SIM</string>
-    <string name="empty_sub_name">SIM Slot %1$d</string>
-    <string name="suggested">Suggested</string>
-    <string name="bluetooth_busy">Bluetooth is busy, please try again later</string>
+    <string name="panu_disconnect_while_wifi_connected">Точка доступа Bluetooth отключена</string>
+    <string name="notify_need_on_BT_before_retry">Bluetooth отключен. Пожалуйста включите Bluetooth перед повторной отправкой</string>
+    <string name="sim_selected_dialog_title">Выберите SIM-карту</string>
+    <string name="empty_sub_name">Слот SIM-карты %1$d</string>
+    <string name="suggested">Подтверждено</string>
+    <string name="bluetooth_busy">Bluetooth занят, повторите попытку позднее</string>
     <string name="permlab_bluetoothShareManager">Доступ к менеджеру загрузок</string>
     <string name="permdesc_bluetoothShareManager">Приложение получит доступ к диспетчеру обмена файлами по Bluetooth и сможет использовать его для передачи файлов.</string>
     <string name="permlab_bluetoothWhitelist">Доступ к «белому списку» устройства Bluetooth.</string>
@@ -278,11 +278,11 @@
     <string name="mznfcp2p_prep_progress_content">Подготовка к отправке</string>
     <string name="empty_folder_tips">Папка пуста. Отправка невозможна.</string>
     <string name="bt_turn_off_prompt">Для поддержки NFC раздачи необходим Bluetooth</string>
-    <string name="format_speed_MB">MB/S</string>
-    <string name="format_speed_KB">KB/S</string>
-    <string name="format_file_total_GB">GB</string>
-    <string name="format_file_total_MB">MB</string>
-    <string name="format_file_total_KB">KB</string>
+    <string name="format_speed_MB">Мб/сек</string>
+    <string name="format_speed_KB">Кб/сек</string>
+    <string name="format_file_total_GB">Гб</string>
+    <string name="format_file_total_MB">Мб</string>
+    <string name="format_file_total_KB">Кб</string>
     <string name="format_file_total_Byte">Byte</string>
     <string name="cancel_bt_transfer">Остановка передачи по Bluetooth</string>
     <string name="notification_transfer_sent_complete">Передача по Bluetooth завершена: %1$s</string>
