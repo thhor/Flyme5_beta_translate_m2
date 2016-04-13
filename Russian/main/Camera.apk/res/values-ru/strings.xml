@@ -19,10 +19,10 @@
     <string name="download_removed">Удалено</string>
     <string name="download_stopped">Пауза</string>
     <string name="downloaded">Загружено</string>
-    <string name="downloaded_fail_out_of_space">Недостаточно места для хранения, ошибка загрузки</string>
+    <string name="downloaded_fail_out_of_space">Недостаточно места для сохранения, ошибка загрузки</string>
     <string name="downloading">Идет загрузка</string>
     <string name="downloading_percent">Загрузка %s</string>
-    <string name="media_loading_text">Загрузка</string>
+    <string name="media_loading_text">Загрузка...</string>
     <string name="more_label">Ещё</string>
     <string name="mz_date_time_day">д</string>
     <string name="mz_date_time_hour">ч</string>
@@ -169,7 +169,7 @@
     <string name="mz_bar_code_hint">Наведите камеру на штрих-код для сканирования</string>
     <string name="mz_bar_code_hint_success">Сканирование выполнено, идёт обработка.</string>
     <string name="mz_barcode_intent_failed">Не удается запустить требуемое приложение</string>
-    <string name="mz_barcode_lingdong">Источник: Смарт Пикча</string>
+    <string name="mz_barcode_lingdong">Источник: "Умное изображение"</string>
     <string name="mz_barcode_no_network">Сеть недоступна</string>
     <string name="mz_barcode_no_response">Продукт не найден</string>
     <string name="mz_burst_process">Обработка…</string>
