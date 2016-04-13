@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="too_much_file_sent">Максимум %1$s файлов за раз</string>
-    <string name="panu_no_need_connect">Нельзя использовать Bluetooth-модем при подключении к Wi-Fi</string>
-    <string name="panu_disconnect_while_wifi_connected">Точка доступа Bluetooth отключена</string>
+    <string name="too_much_file_sent">Не более %1$s файлов за раз</string>
+    <string name="panu_no_need_connect">Нельзя использовать Bluetooth при подключении к Wi-Fi</string>
+    <string name="panu_disconnect_while_wifi_connected">Bluetooth-модем отключен</string>
     <string name="notify_need_on_BT_before_retry">Bluetooth отключен. Пожалуйста включите Bluetooth перед повторной отправкой</string>
     <string name="sim_selected_dialog_title">Выберите SIM-карту</string>
     <string name="empty_sub_name">Слот SIM-карты %1$d</string>
@@ -33,11 +33,11 @@
     <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Принять его?</string>
     <string name="notification_receiving">Bluetooth: получение %1$s</string>
     <string name="notification_received">Bluetooth: %1$s получено</string>
-    <string name="notification_received_fail">Bluetooth: File %1$s не получено</string>
+    <string name="notification_received_fail">Bluetooth: Файл %1$s не получен</string>
     <string name="notification_sending">Bluetooth: отправка %1$s</string>
     <string name="notification_sent">Bluetooth: %1$s отправлено</string>
-    <string name="notification_sent_complete">Выполнено 100%</string>
-    <string name="notification_sent_fail">Bluetooth: File %1$s не отправлено</string>
+    <string name="notification_sent_complete">Завершено</string>
+    <string name="notification_sent_fail">Bluetooth: Файл %1$s не отправлен</string>
     <string name="download_title">Отправка по Bluetooth</string>
     <string name="download_line1">"От: "</string>
     <string name="download_line2">"Файл: "</string>
@@ -66,7 +66,7 @@
     <string name="upload_fail_cancel">Отменить</string>
     <string name="bt_error_btn_ok">ОК</string>
     <string name="unknown_file">Неизвестный файл</string>
-    <string name="unknown_file_desc">"Не приложения для этого файла
+    <string name="unknown_file_desc">"Нет приложений для открытия файла данного типа
 "</string>
     <string name="not_exist_file">Нет файла</string>
     <string name="not_exist_file_desc">"Этот файл не существует
@@ -182,8 +182,8 @@
     <string name="mc_pattern_minute_before">, минут назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_app_name">MeizuCommon</string>
-    <string name="mc_action_settings">Settings</string>
+    <string name="mc_app_name">Общие файлы Meizu</string>
+    <string name="mc_action_settings">Настройки</string>
     <string name="mc_hello_world">Hello world!</string>
     <string name="mc_yes">ОК</string>
     <string name="mc_cancel">Отмена</string>
@@ -267,9 +267,9 @@
     <string name="bt_receiving">Получение…</string>
     <string name="bluetooth_share">Передача по Bluetooth</string>
     <string name="bt_receive_failed">Ошибка получения</string>
-    <string name="bt_receive_success">Получение завершено</string>
+    <string name="bt_receive_success">Получено</string>
     <string name="bt_send_failed">Ошибка отправки</string>
-    <string name="bt_send_success">Отправка завершена</string>
+    <string name="bt_send_success">Отправлено</string>
     <string name="incoming_file_confirm_tick">Принять файл</string>
     <string name="nfc_notification_received">NFC-передача: получено %1$s</string>
     <string name="nfc_notification_sent">NFC-передача: отправлено %1$s</string>
@@ -283,7 +283,7 @@
     <string name="format_file_total_GB">Гб</string>
     <string name="format_file_total_MB">Мб</string>
     <string name="format_file_total_KB">Кб</string>
-    <string name="format_file_total_Byte">Byte</string>
+    <string name="format_file_total_Byte">Байт</string>
     <string name="cancel_bt_transfer">Остановка передачи по Bluetooth</string>
     <string name="notification_transfer_sent_complete">Передача по Bluetooth завершена: %1$s</string>
     <string name="notification_transfer_multi_sent_complete">Передача по Bluetooth завершена</string>
