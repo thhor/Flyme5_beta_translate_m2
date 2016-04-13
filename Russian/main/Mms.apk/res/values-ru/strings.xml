@@ -725,8 +725,8 @@
     <string name="sending_disabled_not_default_app">Отправка отключена</string>
     <string name="sending_read_reports">%d отчётов об отправке MMS</string>
     <string name="server_error">Ошибка сервера</string>
-    <string name="sim1">"SIM1 "</string>
-    <string name="sim2">"SIM2 "</string>
+    <string name="sim1">"SIM 1"</string>
+    <string name="sim2">"SIM 2"</string>
     <string name="sim_close">Выкл.</string>
     <string name="sim_count">(%s)</string>
     <string name="sim_message_label">Сообщения SIM</string>
@@ -755,7 +755,7 @@
     <string name="spam_number_dialog_message_1">" будут добавлены в спам-фильтр"</string>
     <string name="spam_number_dialog_title">Выполнить фильтрацию?</string>
     <string name="spam_number_spare_sign">,</string>
-    <string name="spam_report_to_server">Рапорт в облако</string>
+    <string name="spam_report_to_server">Перенос в облако</string>
     <string name="spame_number">Фильтр</string>
     <string name="start_download_title">Нажмите для загрузки</string>
     <string name="storage_warning_content">Вы не будете получать новые SMS/MMS</string>
