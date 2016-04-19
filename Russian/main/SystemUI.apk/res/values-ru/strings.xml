@@ -611,8 +611,8 @@
     <string name="clock_24hr_format">Hm</string>
     <string name="lockscreen_battery_short">%d%%</string>
     <string name="keyguard_process_name">com.android.systemui</string>
-    <string name="keyguard_domestic_zone_name"Пекин</string>
-    <string name="every_day"Ежедневно</string>
+    <string name="keyguard_domestic_zone_name">Пекин</string>
+    <string name="every_day">Ежедневно</string>
     <string name="never">Никогда</string>
     <string name="day_concat">", "</string>
     <string name="default_label">Будильник</string>
