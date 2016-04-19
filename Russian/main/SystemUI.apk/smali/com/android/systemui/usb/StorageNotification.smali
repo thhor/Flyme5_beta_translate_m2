@@ -655,7 +655,7 @@
 
     const v16, 0x7f0203d5
 
-    const/16 v17, 0x1
+    const/16 v17, 0x0
 
     const/16 v18, 0x1
 
