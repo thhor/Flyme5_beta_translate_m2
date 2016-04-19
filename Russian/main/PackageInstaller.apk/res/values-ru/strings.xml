@@ -291,4 +291,5 @@
     <item type="string" name="APKTOOL_DUMMY_007f">false</item>
     <item type="string" name="APKTOOL_DUMMY_0080">false</item>
     <string name="install_failed_version_downgrade">Установка не удалась, более старая версия</string>
+    <string name="install_warning_default_summry"></string>
 </resources>
