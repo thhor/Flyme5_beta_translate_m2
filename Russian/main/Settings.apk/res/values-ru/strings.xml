@@ -762,7 +762,7 @@
     <string name="wifi_state_enabled">Включено</string>
     <string name="wifi_state_unknown">Неизвестно</string>
     <string name="wifi_config_info">Wi-Fi конфигурация</string>
-    <string name="config_list_label">Настроенные спети</string>
+    <string name="config_list_label">Настроенные сети</string>
     <string name="home_settings">Общие</string>
     <string name="display_settings_title">Экран</string>
     <string name="sound_settings">Звук</string>
