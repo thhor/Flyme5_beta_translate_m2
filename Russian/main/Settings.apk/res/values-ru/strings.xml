@@ -3468,4 +3468,6 @@
     <string name="logcat_reject_level_prevent_none">Разрешить всё</string>
     <string name="logcat_reject_level_prevent_part">Разрешить некоторое</string>
     <string name="logcat_reject_level_prevent_all">Запретить</string>
+    <string name="wifi_speed_test">Тестировать скорость сети</string>
+    <string name="wifi_network_diagn">Диагностика сети</string>
 </resources>
