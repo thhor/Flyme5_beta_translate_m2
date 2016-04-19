@@ -3463,5 +3463,9 @@
     <string name="mc_description_target_answer">Правильный вариант</string>
     <string name="4pda_info">Подробнее о русификации</string>
     <string name="ringtone_unknown">Без звука</string>
-	<string name="mz_install_unknown_applications">Неизвестные источники</string>
+    <string name="mz_install_unknown_applications">Неизвестные источники</string>
+    <string name="logcat_reject_level_title">Logd print</string>
+    <string name="logcat_reject_level_prevent_none">Allow all</string>
+    <string name="logcat_reject_level_prevent_part">Allow some</string>
+    <string name="logcat_reject_level_prevent_all">"Don't allow"</string>
 </resources>
