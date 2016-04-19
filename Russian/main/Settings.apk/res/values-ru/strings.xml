@@ -3464,8 +3464,8 @@
     <string name="4pda_info">Подробнее о русификации</string>
     <string name="ringtone_unknown">Без звука</string>
     <string name="mz_install_unknown_applications">Неизвестные источники</string>
-    <string name="logcat_reject_level_title">Logd print</string>
-    <string name="logcat_reject_level_prevent_none">Allow all</string>
-    <string name="logcat_reject_level_prevent_part">Allow some</string>
-    <string name="logcat_reject_level_prevent_all">"Don't allow"</string>
+    <string name="logcat_reject_level_title">Запись Logd</string>
+    <string name="logcat_reject_level_prevent_none">Разрешить всё</string>
+    <string name="logcat_reject_level_prevent_part">Разрешить некоторое</string>
+    <string name="logcat_reject_level_prevent_all">Запретить</string>
 </resources>
