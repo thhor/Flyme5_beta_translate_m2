@@ -49,7 +49,7 @@
     <string name="recents_close_all_mem">%1$d Мб очищено</string>
     <string name="recents_close_all_mem_nothing">Пусто</string>
     <string name="recents_start_multi">Окно</string>
-    <string name="keyguard_camera_hint">Слайд влево для запуска камеры</string>
+    <string name="keyguard_camera_hint">Тяните вверх для запуска камеры</string>
     <string name="fake_notification_tip">Новых уведомлений: %1$d</string>
     <string name="fake_notification_tips">Новых уведомлений: %1$d</string>
     <string name="qs_header_date_main_pattern12">%s a</string>
