@@ -30,7 +30,7 @@
     <string name="merge_call">Объединить вызовы</string>
     <string name="swap_call">Обмен вызовом</string>
     <string name="conference_call">Конференц-связь</string>
-    <string name="close_dialpad">Закрыть клавиатуру</string>
+    <string name="close_dialpad">Закрыть</string>
     <string name="mms_hint">Свой ответ</string>
     <string name="cancel_sms_list">Отменить</string>
     <string name="incoming_tip">Проведите вправо для ответа</string>
