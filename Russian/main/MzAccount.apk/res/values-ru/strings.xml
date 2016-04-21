@@ -676,7 +676,7 @@ If this phone is dual-sim card, default deducted fee from SIM1 card"</string>
     <string name="score_amount">%s очков</string>
     <string name="score_detail">Детали счета</string>
     <string name="score_fall_down">%1$s поднялся сегодня в табл.рекордов</string>
-    <string name="score_growth">%1$s опустился сегодня в табл.рекордов<</string>
+    <string name="score_growth">%1$s опустился сегодня в табл.рекордов</string>
     <string name="score_growth_text">"Сегодняшнее повышение"</string>
     <string name="score_honor">Имя %1$s</string>
     <string name="score_level">Уровень %1$s</string>
