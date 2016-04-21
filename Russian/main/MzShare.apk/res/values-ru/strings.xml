@@ -70,12 +70,12 @@
 "</string>
     <string name="noti_caption">%1$s успешно, %2$s неудачно.</string>
     <string name="notification_received">Bluetooth: %1$s получено</string>
-    <string name="notification_received_fail">Bluetooth: Файл %1$s не получен</string>
+    <string name="notification_received_fail">Bluetooth: %1$s не получено</string>
     <string name="notification_receiving">Bluetooth: получение %1$s</string>
     <string name="notification_sending">Bluetooth: отправка %1$s</string>
     <string name="notification_sent">Bluetooth: %1$s отправлено</string>
     <string name="notification_sent_complete">Завершено 100%</string>
-    <string name="notification_sent_fail">Bluetooth: Файл %1$s не отправлен</string>
+    <string name="notification_sent_fail">Bluetooth: %1$s не отправлено</string>
     <string name="notify_server">Уведомить TCP-сервер</string>
     <string name="ok_button">OK</string>
     <string name="outbound_history_title">Исходящие передачи</string>
