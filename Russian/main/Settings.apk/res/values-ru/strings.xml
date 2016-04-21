@@ -1029,7 +1029,7 @@
     <string name="master_clear_progress_title">Удаление…</string>
     <string name="master_clear_progress_text">Подождите...</string>
     <string name="media_format_title">Очистить карту памяти</string>
-    <string name="media_format_summary">Удаление всех данных с карты пмяти</string>
+    <string name="media_format_summary">Удаление всех данных с карты памяти</string>
     <string name="media_format_desc">Очистить карту памяти? Вы потеряете <b>все</b> данные на ней.</string>
     <string name="media_format_button_text">Очистить карту памяти</string>
     <string name="media_format_final_desc">Удалить с карты памяти все файлы без возможности восстановления?</string>
@@ -2856,7 +2856,7 @@
     <string name="wave_wake_tip">Please input voiceprint wakeup command:</string>
     <string name="wave_wake_tip_more_words">Команда не принята. Произнесите 3 слова, как минимум</string>
     <string name="wave_wake_tip_lest_words">Команда не распознана. Произнесите 3 слова, как минимум</string>
-    <string name="wave_wake_tip_create_success">"Голосовая команда становлена 
+    <string name="wave_wake_tip_create_success">"Голосовая команда установлена 
  Повторите команду трижды для подтверждения"</string>
     <string name="wave_wake_tip_confirm">Повторите %d раз(а)</string>
     <string name="wave_wake_tip_once">Повторите для подтверждения</string>
