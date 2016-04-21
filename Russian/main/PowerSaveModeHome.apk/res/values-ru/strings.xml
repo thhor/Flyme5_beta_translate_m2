@@ -11,8 +11,8 @@
     <string name="date">д.</string>
     <string name="date_time_set">Установить</string>
     <string name="day">д.</string>
-    <string name="exit">Выход</string>
-    <string name="exiting">Выход</string>
+    <string name="exit">Выйти</string>
+    <string name="exiting">Выйти</string>
     <string name="hello_world">Hello world!</string>
     <string name="hidden_sender_address">Скрыть адрес отправителя</string>
     <string name="hour">ч.</string>
@@ -128,7 +128,7 @@
     <string name="remainingbattery">Осталось заряда</string>
     <string name="remainingstandbytime">Хватит на</string>
     <string name="sure">OK</string>
-    <string name="title">Выйти?</string>
+    <string name="title">Желаете выйти?</string>
     <string name="unknow_contact_person">Неизвест.</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
