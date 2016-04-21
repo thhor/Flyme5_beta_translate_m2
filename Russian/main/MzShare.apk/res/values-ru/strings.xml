@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ErrorTooManyRequests">Обрабатывается слишком много запросов. Повторите попытку позднее.</string>
+    <string name="ErrorTooManyRequests">Слишком много запросов. Повторите попытку позднее.</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
@@ -70,12 +70,12 @@
 "</string>
     <string name="noti_caption">%1$s успешно, %2$s неудачно.</string>
     <string name="notification_received">Bluetooth: %1$s получено</string>
-    <string name="notification_received_fail">Bluetooth: File %1$s не получено</string>
+    <string name="notification_received_fail">Bluetooth: Файл %1$s не получен</string>
     <string name="notification_receiving">Bluetooth: получение %1$s</string>
     <string name="notification_sending">Bluetooth: отправка %1$s</string>
     <string name="notification_sent">Bluetooth: %1$s отправлено</string>
     <string name="notification_sent_complete">Завершено 100%</string>
-    <string name="notification_sent_fail">Bluetooth: File %1$s не отправлено</string>
+    <string name="notification_sent_fail">Bluetooth: Файл %1$s не отправлен</string>
     <string name="notify_server">Уведомить TCP-сервер</string>
     <string name="ok_button">OK</string>
     <string name="outbound_history_title">Исходящие передачи</string>
@@ -244,14 +244,14 @@
     <string name="mc_permission_apply">Разрешения</string>
     <string name="mc_permission_message_content">%1$s требуется %2$s, %3$d разрешений</string>
     <string name="mc_pm_allow_check_app">Разрешить</string>
-    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_call">Вызов</string>
     <string name="mc_pm_call_log">Читать журнал вызовов</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
     <string name="mc_pm_close">Выкл.</string>
     <string name="mc_pm_contacts">Читать контакты</string>
-    <string name="mc_pm_dialog_push">Всплывающий Push</string>
+    <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
     <string name="mc_pm_dlg_ok">ОК</string>
     <string name="mc_pm_location">Позиционирование</string>
