@@ -1055,7 +1055,7 @@
     <string name="bluetooth_tethering_device_connected_subtext">Интернет-подключение телефона используется 1 устройством</string>
     <string name="bluetooth_tethering_devices_connected_subtext">Интернет-подключение телефона используется %1$d устройствами</string>
     <string name="bluetooth_tethering_off_subtext_config">Использование устройства %1$d в режиме модема</string>
-    <string name="bluetooth_tethering_off_subtext">Передать сетевое подлкючение через Bluetooth</string>
+    <string name="bluetooth_tethering_off_subtext">Сетевое подключение через Bluetooth</string>
     <string name="bluetooth_tethering_errored_subtext">Отсутствует подключение</string>
     <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
     <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано.</string>
