@@ -123,13 +123,13 @@
 	<string name="perm_costs_money">Может привести к расходам</string>
 	<string name="warning_title_unsafe">Угроза безопасности</string>
 	<string name="install_warning_version_state">Установить обновлённую версию? %1$s (Новее)</string>
-    <string name="install_warning_rival_text">For better to adapter meizu mobile phone, please download apps in meizu app store.</string>
+    <string name="install_warning_rival_text">Для обеспечения безопасности телефона, загружайте приложения только из магазина приложений Meizu</string>
     <string name="install_warning_virus">"Вероятность наличия вируса. "</string>
-    <string name="install_warning_untypical_download">Detected package origination is: “%1$s”,from unofficial channel. Advise you be caution of this installation to avoid losses.</string>
-    <string name="install_warning_rival_download_text">Your mobile phone and personal data is easy to be attacked from unknown source apps. These apps may exits risk of tampering data, horse or advertisement implantation. Advise you using meizu official app store.</string>
-    <string name="btn_goto_mz_store">Go to app store</string>
-    <string name="btn_goto_mz_store_install">Install in meizu app store</string>
-    <string name="btn_goto_mz_store_for_high_version">Install newest version in meizu app store</string>
+    <string name="install_warning_untypical_download">Обнаруженный код приложения: “%1$s”, из неофициального источника. Советуем вам не устанавливать данное приложение, чтобы избежать потерь данных.</string>
+    <string name="install_warning_rival_download_text">Ваш мобильный телефон и личные данные могут подвергнуться нападению от неизвестных приложений источника. Данные приложения могут фальсификацировать ваши данные, содержать трояны или встраиваться в систему. Советуем вам использовать официальный магазин приложений Meizu.</string>
+    <string name="btn_goto_mz_store">Перейти в магазин приложений Meizu</string>
+    <string name="btn_goto_mz_store_install">Установить из магазина приложений Meizu</string>
+    <string name="btn_goto_mz_store_for_high_version">Установить из магазина приложений Meizu последнюю версию приложения</string>
     <string name="btn_delete_apk_file">Удалить приложение</string>
     <string name="text_btn_goto_market">Установить официальную версию</string>
     <string name="text_official_statement">Meizu сообщает Вам, что приложение устанавливается из неофициальных источников. Возможна кража вашей личной информации и потеря данных. Это предупреждение можно отключить в Настройках - администраторы устройства и полномочия.</string>
@@ -156,11 +156,11 @@
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
     <string name="abc_action_menu_overflow_description">Другие параметры</string>
-    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="abc_toolbar_collapse_description">Критическая ошибка</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
     <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
     <string name="abc_searchview_description_search">Поиск</string>
-    <string name="abc_search_hint">Search…</string>
+    <string name="abc_search_hint">Поиск…</string>
     <string name="abc_searchview_description_query">Поисковый запрос</string>
     <string name="abc_searchview_description_clear">Удалить запрос</string>
     <string name="abc_searchview_description_submit">Отправить запрос</string>
@@ -205,8 +205,8 @@
     <string name="mc_pattern_minute_before">, минут назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_today">Сегодня</string>
-    <string name="mc_app_name">MeizuCommon</string>
-    <string name="mc_action_settings">Settings</string>
+    <string name="mc_app_name">Общие файлы Meizu</string>
+    <string name="mc_action_settings">Настройки</string>
     <string name="mc_hello_world">Hello world!</string>
     <string name="mc_yes">ОК</string>
     <string name="mc_cancel">Отмена</string>
@@ -250,7 +250,7 @@
     <string name="mc_pm_s_mms">Послать MMS</string>
     <string name="mc_pm_network">Передача данных</string>
     <string name="mc_pm_wlan">Wi-Fi</string>
-    <string name="mc_pm_location">Позиционирование</string>
+    <string name="mc_pm_location">Местоположение</string>
     <string name="mc_pm_recordaudio_local">Аудиозаписи</string>
     <string name="mc_pm_recordaudio_phone">Записи разговоров</string>
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
@@ -262,8 +262,8 @@
     <string name="mc_pm_dlg_cancel">Отмена</string>
     <string name="mc_pm_bluetooth">Bluetooth</string>
     <string name="mc_pm_nfc">NFC</string>
-    <string name="mc_pm_dialog_push">Всплывающий Push</string>
-    <string name="mc_pm_allow_dialog_push">Разрешить Push</string>
+    <string name="mc_pm_dialog_push">Всплывающие Push-уведомления</string>
+    <string name="mc_pm_allow_dialog_push">Разрешить Push-уведомления</string>
     <string name="mc_pm_not_allow_dialog_push">Отключить</string>
     <string name="mc_pm_set_wifi_on">Включить Wi-Fi</string>
     <string name="mc_pm_set_bluetooth_on">Включить Bluetooth</string>
@@ -286,7 +286,7 @@
     <string name="mc_disable">Отключить</string>
     <string name="mc_time_picker_leap">Встав.</string>
     <string name="mc_loading_view_text">Загрузка</string>
-    <string name="grant_confirm_question">Do you want to grant the following permissions? It will get access to:</string>
+    <string name="grant_confirm_question">Вы хотите предоставить следующие разрешения? Приложение получит доступ к:</string>
     <item type="string" name="APKTOOL_DUMMY_007e">false</item>
     <item type="string" name="APKTOOL_DUMMY_007f">false</item>
     <item type="string" name="APKTOOL_DUMMY_0080">false</item>
