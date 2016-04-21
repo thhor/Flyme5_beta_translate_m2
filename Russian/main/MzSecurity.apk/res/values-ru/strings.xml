@@ -299,7 +299,7 @@
     <string name="junk_apk_num">Не используемых APK: %1$s</string>
     <string name="junk_app_cache_num">Кэш ПО: %1$s</string>
     <string name="junk_clear_mode">Лечение</string>
-    <string name="junk_system_cache_num">Системный кэш: %1$s</string>
+    <string name="junk_system_cache_num">Кэш системы: %1$s</string>
     <string name="junk_system_num">Ненужных файлов: %1$s</string>
     <string name="junk_timer_clear_mode1">Сканировать без очистки</string>
     <string name="junk_timer_clear_mode2">Поиск и очистка</string>
