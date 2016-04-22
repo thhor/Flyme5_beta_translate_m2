@@ -794,7 +794,7 @@
     <string name="mzc_call_log_deleting">Удаление</string>
     <string name="mzc_call_log_no_choiced_title">Выбрать записи</string>
     <string name="mzc_call_phone">Позвонить</string>
-    <string name="mzc_change_label">Изменить ярлык</string>
+    <string name="mzc_change_label">Изменение ярлыка</string>
     <string name="mzc_contactSavedErrorToast">Ошибка сохранения</string>
     <string name="mzc_contact_count">Контактов: %s</string>
     <string name="mzc_contact_edit_filter_info">Введён неподдерживаемый символ</string>
