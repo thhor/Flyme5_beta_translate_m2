@@ -316,7 +316,7 @@
     <string name="remote_display_name">Файлы в сети</string>
     <string name="remove_server_text">Удалить</string>
     <string name="rename_exist">%1$d файл(ов) переименовано, %2$d файл(ов) уже существует</string>
-    <string name="rename_fail">%1$d файл(ов) переименовано, ошибка переименования %2$d файл(ов))</string>
+    <string name="rename_fail">%1$d файл(ов) переименовано, ошибка переименования %2$d файл(ов)</string>
     <string name="rename_title_text">Переименовать</string>
     <string name="renaming">Переименование</string>
     <string name="samba">Сетевое окружение</string>
