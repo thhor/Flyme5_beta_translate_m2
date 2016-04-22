@@ -2970,7 +2970,7 @@
     <string name="battery_consumption_balance_title">Сбалансированный</string>
     <string name="battery_consumption_saving_title">Энергосберегающий</string>
     <string name="battery_consumption_performance_title">Производительный</string>
-    <string name="battery_consumption_summary">Осталось:%1$s</string>
+    <string name="battery_consumption_summary">Осталось: %1$s</string>
     <string name="battery_usage_app">Программное</string>
     <string name="battery_usage_hardware">Аппаратное</string>
     <string name="battery_optimization">Оптимизация энергопотребления</string>
