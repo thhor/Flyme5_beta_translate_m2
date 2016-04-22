@@ -3124,7 +3124,7 @@
     <string name="filter_apps_cached">В кэше</string>
     <string name="external_sdcard_storage">Внешняя карта памяти</string>
     <string name="unmount_sdcard">Отключить карту памяти</string>
-    <string name="unmount_sdcard_summay">Отключите карту памяти перед её извлечением</string>
+    <string name="unmount_sdcard_summay">Отключайте карту памяти перед извлечением</string>
     <string name="format_sdcard">Форматировать карту</string>
     <string name="format_sdcard_summary">Удаление всех данных с карты памяти</string>
     <string name="mount_sdcard">Подключить карту памяти</string>
