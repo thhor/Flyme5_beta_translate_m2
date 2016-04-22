@@ -2002,7 +2002,7 @@
     <string name="usb_audio_disable_routing">Откл. передачу аудио (USB)</string>
     <string name="usb_audio_disable_routing_summary">Откл. автом. маршрутизацию на внеш. USB-устройства</string>
     <string name="debug_layout">Показывать границы макета</string>
-    <string name="debug_layout_summary">Показывать границы клипа, поля и т. д.</string>
+    <string name="debug_layout_summary">Показ. границы клипа, поля и т. д.</string>
     <string name="force_rtl_layout_all_locales">Написание справа налево</string>
     <string name="force_rtl_layout_all_locales_summary">Включить написание справа налево для всех языков</string>
     <string name="show_cpu_usage">Показывать загрузку ЦП</string>
