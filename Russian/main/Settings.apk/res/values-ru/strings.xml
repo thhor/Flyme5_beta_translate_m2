@@ -2981,10 +2981,10 @@
     <string name="charging">Зарядка</string>
     <string name="screen_off">Экран выкл.</string>
     <string name="screen_on">Экран вкл.</string>
-    <string name="recently_three_hour">Последн. 3ч</string>
-    <string name="recently_six_hour">Последн. 6ч</string>
-    <string name="recently_nine_hour">Последн. 9ч</string>
-    <string name="recently_twelve_hour">Последн. 12ч</string>
+    <string name="recently_three_hour">За 3 часа</string>
+    <string name="recently_six_hour">За 6 часов</string>
+    <string name="recently_nine_hour">За 9 часов</string>
+    <string name="recently_twelve_hour">За 12 часов</string>
     <string name="recently_hours">Последн. %dч</string>
     <string name="time_usage">Время: %s</string>
     <string name="normal_sleep_time">Время сна</string>
