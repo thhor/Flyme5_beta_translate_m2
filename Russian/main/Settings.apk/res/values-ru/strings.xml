@@ -1661,7 +1661,7 @@
     <string name="battery_action_bluetooth">Настройки Bluetooth</string>
     <string name="battery_desc_voice">Использование батареи для голосовых вызовов</string>
     <string name="battery_desc_standby">Расход заряда батареи в режиме ожидания</string>
-    <string name="battery_desc_radio">Расход энергии на поддержание связи с сетью в режиме ожидания</string>
+    <string name="battery_desc_radio">Расход энергии на поддерж. связи с сетью в реж. ожидания</string>
     <string name="battery_sugg_radio">Если нет доступа в сеть, вкл. режим полета для экономии заряда</string>
     <string name="battery_desc_flashlight">Заряд батареи, израсходованный на вспышку</string>
     <string name="battery_desc_display">Использование батареи для подсветки экрана</string>
