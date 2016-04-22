@@ -942,10 +942,10 @@
     <string name="mzc_tab_dialpad">Набор номера</string>
     <string name="mzc_tab_net_contacts">Жёлтые страницы</string>
     <string name="mzc_tips_for_show_group_contacts">Отмеченные группы будут отображаться в основном списке контактов</string>
-    <string name="mzc_type_incoming">Входящ.</string>
-    <string name="mzc_type_incoming_reject">Отклон.</string>
-    <string name="mzc_type_missed">Пропущ.</string>
-    <string name="mzc_type_outgoing">Исходящ.</string>
+    <string name="mzc_type_incoming">Входящий</string>
+    <string name="mzc_type_incoming_reject">Отклонен</string>
+    <string name="mzc_type_missed">Пропущен</string>
+    <string name="mzc_type_outgoing">Исходящий</string>
     <string name="mzc_type_voicemail">Голосовая почта</string>
     <string name="mzc_type_voicemail_fail">Нет голосовых сообщений</string>
     <string name="mzc_unknown">Неизвест.</string>
