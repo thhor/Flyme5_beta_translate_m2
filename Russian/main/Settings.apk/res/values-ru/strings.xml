@@ -3274,7 +3274,7 @@
     <string name="header_category_notificaion">Звуки и уведомления</string>
     <string name="do_not_disturb_title">Режим \"Не беспокоить\"</string>
     <string name="do_not_disturb_tips">Включение режима \"Не беспокоить\" отключает рингтон и вибрацию</string>
-    <string name="do_not_disturb_enable_mannully">Включить вручную</string>
+    <string name="do_not_disturb_enable_mannully">Включать вручную</string>
     <string name="do_not_disturb_time_switch_title">Включать по расписанию</string>
     <string name="do_not_disturb_start_time">Начало</string>
     <string name="do_not_disturb_end_time">Окончание</string>
