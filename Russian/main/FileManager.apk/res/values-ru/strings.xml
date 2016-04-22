@@ -220,7 +220,7 @@
     <string name="menu_mkdir_title">Новая папка</string>
     <string name="menu_move_title">Переместить</string>
     <string name="menu_move_to_security_title">Переместить в хранилище</string>
-    <string name="menu_open_title">Открыть через</string>
+    <string name="menu_open_title">Открыть через...</string>
     <string name="menu_rename_limit_text">Можно переименовать до 100 файлов</string>
     <string name="menu_rename_title">Переименовать</string>
     <string name="menu_save_title">Сохранить</string>
@@ -383,7 +383,7 @@
     <string name="utf8_title">UTF-8</string>
     <string name="zip_display_name">Архивы</string>
     <string name="zip_name_exist_tip">Имя файла существует, выберите другое имя</string>
-    <string name="dialog_title_zip">%s файл(ов) для архивирования</string>
+    <string name="dialog_title_zip">Файлы для архивирования: %s</string>
     <string name="mc_pattern_a_hour_before">1 час назад</string>
     <string name="mc_pattern_a_minute_before">1 минуту назад</string>
     <string name="mc_pattern_hour_before">, часов назад</string>
