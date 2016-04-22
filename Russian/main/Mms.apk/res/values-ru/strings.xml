@@ -615,7 +615,7 @@
     <string name="not_default_message_app_dialog_title">Стандартное приложение не является приложением по умолчанию</string>
     <string name="notification_download_failed">Ошибка загрузки</string>
     <string name="notify_hide_content_msg">%1$s сообщений от %2$s адресатов</string>
-    <string name="notify_hide_content_msg_unique">получение %s сообщ.</string>
+    <string name="notify_hide_content_msg_unique">Получено сообщений: %s</string>
     <string name="online">Онлайн</string>
     <string name="open_flyme_sub_title">После включения можно использовать бесплатные звонки и сообщения</string>
     <string name="open_flyme_title">Включить Flyme-связь</string>
