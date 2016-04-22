@@ -3285,7 +3285,7 @@
     <string name="coming_call_white_list">Белый список</string>
     <string name="coming_call_white_list_none">Нет</string>
     <string name="coming_call_white_list_summary">%d контактов</string>
-    <string name="coming_call_white_list_tips">Неограниченные вызовы от выбранных контактов</string>
+    <string name="coming_call_white_list_tips">Неограниченные вызовы для выбранных контактов</string>
     <string name="do_not_disturb_time_interval_error_tips">Интервал должен быть не менее 1 минуты</string>
     <string name="do_not_disturb_notification_content">Телефонные звонки и сообщения не будут вас беспокоить</string>
     <string name="do_not_disturb_notification_title">Режим \"Не беспокоить\" включен</string>
