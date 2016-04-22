@@ -144,6 +144,6 @@
     <string name="top_alignment">Сверху</string>
     <string name="uninstall_notice">Автоочистка от остаточных файлов после удаления ПО</string>
     <string name="uninstall_title">Удалить приложение</string>
-    <string name="widgets_tab_label_click">Удерживать для добавления виджета</string>
+    <string name="widgets_tab_label_click">Удерживайте виджет для добавления</string>
     <string name="zhengli">Упорядочить</string>
 </resources>
