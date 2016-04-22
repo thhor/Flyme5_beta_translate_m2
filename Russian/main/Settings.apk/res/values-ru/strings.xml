@@ -413,9 +413,9 @@
     <string name="lockpattern_tutorial_cancel_label">Отмена</string>
     <string name="lockpattern_tutorial_continue_label">Далее</string>
     <string name="lock_setup">Блокировка настроена</string>
-    <string name="device_admin_title">Администрирование устройства</string>
-    <string name="manage_device_admin">Администраторы устройства</string>
-    <string name="manage_device_admin_summary">Просмотрите или отключите администраторов устройств</string>
+    <string name="device_admin_title">Управление администраторами</string>
+    <string name="manage_device_admin">Администраторы</string>
+    <string name="manage_device_admin_summary">Просмотр приложений с правами администратора</string>
     <string name="manage_trust_agents">Агенты доверия</string>
     <string name="disabled_because_no_backup_security">Сначала необходимо настроить блокировку экрана</string>
     <string name="manage_trust_agents_summary">Посмотреть или отключить агенты доверия</string>
@@ -1377,7 +1377,7 @@
     <string name="testing">Проверка</string>
     <string name="testing_phone_info">Информация о телефоне</string>
     <string name="testing_battery_info">Информация о батарее</string>
-    <string name="testing_sim_toolkit">SIM toolkit</string>
+    <string name="testing_sim_toolkit">Набор инструментов SIM</string>
     <string name="quick_launch_title">Быстрый запуск</string>
     <string name="quick_launch_summary">Настройка быстрых клавиш для запуска приложений</string>
     <string name="quick_launch_assign_application">Назначить приложение</string>
@@ -2059,7 +2059,7 @@
     <string name="data_usage_disable_3g_limit">Лимитировать трафик 2G и 3G</string>
     <string name="data_usage_disable_wifi_limit">Установить лимит трафика Wi-Fi</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
-    <string name="data_usage_tab_ethernet">Ethernet</string>
+    <string name="data_usage_tab_ethernet">Интернет</string>
     <string name="data_usage_tab_mobile">Мобильные</string>
     <string name="data_usage_tab_4g">4G</string>
     <string name="data_usage_tab_3g">2G/3G</string>
@@ -2709,7 +2709,7 @@
     <string name="screen_lock">Пароль блокировки</string>
     <string name="shutdown_verify_password">Проверка пароля при выключении телефона</string>
     <string name="unacceptable_char">Следующие символы недопустимы |\\/:*?\"&lt;></string>
-    <string name="credentials_and_admin_title">Администраторы и полномочия</string>
+    <string name="credentials_and_admin_title">Администраторы устройства</string>
     <string name="device_admin_enabled">Активно</string>
     <string name="device_admin_disabled">Не активно</string>
     <string name="open_root_permission_title">Root-доступ</string>
@@ -2946,7 +2946,7 @@
     <string name="show_notification_on_lockscreen">Показывать уведомления</string>
     <string name="show_notification_content">Показывать содержимое</string>
     <string name="show_notification_content_summary">Показывать содержимое уведомлений, даже если установлен пароль блокировки</string>
-    <string name="wakeup_screen_on_notification_title">Новое уведомление будет активировать подсветку экрана</string>
+    <string name="wakeup_screen_on_notification_title">Активировать подсветку экрана</string>
     <string name="wakeup_screen_on_notification_summary">Новое уведомление будет пробуждать экран, если телефон не в кармане</string>
     <string name="statusbar">Статус-бар</string>
     <string name="accessibility_current_network_speed_title">Скорость соединения</string>
@@ -2958,7 +2958,7 @@
     <string name="float_notification_summary">Новое уведомление будет отображаться в верхней части окна</string>
     <string name="allow_notify">Разрешить уведомления</string>
     <string name="notification_priority_summary">Новое уведомление будет отображаться вверху списка</string>
-    <string name="lockscreen_pull_down_notificationbar">Выпадающая панель уведомлений на экране блокировки</string>
+    <string name="lockscreen_pull_down_notificationbar">Активировать уведомления</string>
     <string name="lockscreen_pull_down_notificationbar_summary">Выпадающая панель уведомлений на экране блокировки</string>
     <string name="notificationbar_category_title">Панель уведомлений</string>
     <string name="lockscreen_category_title">Экран блокировки</string>
@@ -3219,7 +3219,7 @@
     <string name="uim_info_editor_number">Номер телефона</string>
     <string name="preferred_lte">Только 4G</string>
     <string name="preferred_lte_summary">При включении этого режима голосовые вызовы и сообщения недоступны</string>
-    <string name="data_suggest">Системные push-уведомления и облачные сервисы потребляют трафик</string>
+    <string name="data_suggest">Системные Push-уведомления и облачные сервисы потребляют трафик</string>
     <string name="gemini_sim_select_title">Выберите SIM-карту</string>
     <string name="sim_enabled">Использовать</string>
     <string name="sim_info_editor_name">Изменить имя</string>
