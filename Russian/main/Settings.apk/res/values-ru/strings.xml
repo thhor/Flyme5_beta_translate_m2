@@ -1993,7 +1993,7 @@
     <string name="show_hw_layers_updates">Показывать аппаратные обновления</string>
     <string name="show_hw_layers_updates_summary">Выделять аппаратные уровни зеленым при обновлении</string>
     <string name="debug_hw_overdraw">Отладка наложения</string>
-    <string name="disable_overlays">Отключить аппаратные наложения</string>
+    <string name="disable_overlays">Откл. аппаратные наложения</string>
     <string name="disable_overlays_summary">Всегда использовать GPU при компоновке экрана</string>
     <string name="simulate_color_space">Имитировать аномалию</string>
     <string name="enable_opengl_traces_title">Включить трассировку OpenGL</string>
