@@ -1597,7 +1597,7 @@
     <string name="print_search_box_hidden_utterance">Окно поиска скрыто</string>
     <string name="power_usage_summary_title">Управление питанием</string>
     <string name="power_usage_summary">На что расходуется заряд батареи</string>
-    <string name="power_usage_not_available">Расход батареи неизвестен.</string>
+    <string name="power_usage_not_available">Расход заряда батареи неизвестен.</string>
     <string name="power_usage_level_and_status">%1$s – %2$s</string>
     <string name="power_discharge_remaining">Батарея будет разряжена через %1$s</string>
     <string name="power_charge_remaining">Батарея будет заряжена через %1$s</string>
@@ -1622,8 +1622,8 @@
     <string name="wifi_on_time">Время работы Wi-Fi</string>
     <string name="bluetooth_on_time">Время работы Wi-Fi</string>
     <string name="history_details_title">Подробная история</string>
-    <string name="details_title">Расход батареи</string>
-    <string name="details_subtitle">Расход батареи</string>
+    <string name="details_title">Расход заряда батареи</string>
+    <string name="details_subtitle">Расход заряда батареи</string>
     <string name="controls_subtitle">Режим энергопотребления</string>
     <string name="packages_subtitle">Пакеты</string>
     <string name="power_screen">Экран</string>
