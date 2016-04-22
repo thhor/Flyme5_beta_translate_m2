@@ -55,7 +55,7 @@
     <string name="qs_header_date_main_pattern12">%s a</string>
     <string name="qs_header_date_main_pattern24">%s</string>
     <string name="qs_header_date_local_pattern">E, d MMMM</string>
-    <string name="external_storage_mounted_title">Безопасное отключение внешнего накопителя</string>
+    <string name="external_storage_mounted_title">Безопасное отключение</string>
     <string name="external_storage_mounted_ticker">Подключено: %s</string>
     <string name="external_storage_checking_title">Подготовка USB-устройства</string>
     <string name="external_storage_checking_ticker">Подготовка USB-устройства</string>
