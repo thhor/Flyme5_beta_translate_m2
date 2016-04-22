@@ -2615,7 +2615,7 @@
     <string name="wifi_tether_subtext">" %1$s шифрование"</string>
     <string name="wlan_tether_no_encypt">Открытая</string>
     <string name="obtain_device_info_txt">Получение информации об устройстве…</string>
-    <string name="wifi_setting_sleep_policy_sum">Отключать модуль Wi-Fi для энергосбережения</string>
+    <string name="wifi_setting_sleep_policy_sum">отключать модуль Wi-Fi для энергосбережения</string>
     <string name="smart_wifi_selection_title">Интеллектуальный выбор Wi-Fi сети</string>
     <string name="smart_wifi_selection_sum">Автоматически подключаться к более подходящей Wi-Fi сети</string>
     <string name="cert_issued_to">Владелец</string>
