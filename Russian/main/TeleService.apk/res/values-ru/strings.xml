@@ -78,7 +78,7 @@
     <string name="vt_peer_video_rep_des">Установить картинку для отображения, когда удаленное видео недоступно</string>
     <string name="vt_vocie_answer">Голосовой ответ</string>
     <string name="vt_wait_voice">Ожидание подключения голосового вызова</string>
-    <string name="vt_voice_connecting">Подлкючение голосового вызова</string>
+    <string name="vt_voice_connecting">Подключение голосового вызова</string>
     <string name="vt_auto_dropback">Автозавершение</string>
     <string name="vt_auto_dropback_des">Завершать голосовой вызов автоматически</string>
     <string name="vt_cannot_support_setting">Камера не поддерживает этот параметр</string>
