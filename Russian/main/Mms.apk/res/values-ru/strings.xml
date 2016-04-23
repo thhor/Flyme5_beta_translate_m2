@@ -121,7 +121,7 @@
     <string name="pref_title_mms_group_mms">Групповые сообщения</string>
     <string name="pref_title_mms_read_reports">Отчёты о прочтении</string>
     <string name="pref_title_mms_retrieval_during_roaming">Автозагрузка в роуминге</string>
-    <string name="pref_title_notification_enabled">Показывать превью в уведомлениях</string>
+    <string name="pref_title_notification_enabled">Предпросмотр в уведомлениях</string>
     <string name="pref_title_sms_delivery_reports">Отчеты о доставке</string>
     <string name="preferences_title">Настройки</string>
     <string name="preview">Предпросмотр</string>
@@ -636,7 +636,7 @@
     <string name="pref_other_settings_title">Другие настройки</string>
     <string name="pref_summary_allow_return_mms_read_reports">После прочтения каждого нового сообщения, если отправитель разрешил получение отчёта о доставке</string>
     <string name="pref_summary_default_message_is_system_own">Системное приложение</string>
-    <string name="pref_summary_edit_quick_reply">Правка сообщения быстрого ответа</string>
+    <string name="pref_summary_edit_quick_reply">Правка сообщений для быстрого ответа</string>
     <string name="pref_summary_key_manage_message_storage">Управление изображениями и файлами, связанными с сообщениями</string>
     <string name="pref_summary_manage_messages_spam">Спам-сообщения будут помещены в корзину</string>
     <string name="pref_summary_manage_spam_address">%d номеров</string>
@@ -676,7 +676,7 @@
     <string name="progress_processing">Обработка</string>
     <string name="progress_query_title">Идет запрос</string>
     <string name="quick_reply">Ответ</string>
-    <string name="quick_reply_menu">Быстрый ответ</string>
+    <string name="quick_reply_menu">Шаблоны сообщений</string>
     <string name="quick_reply_save_alert">Сохранить новое содержимое?</string>
     <string name="re_send_tip">Переотправка</string>
     <string name="read_report_dialog_cancel">Отмена</string>
