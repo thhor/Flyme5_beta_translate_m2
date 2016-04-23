@@ -73,9 +73,9 @@
     <string name="permdesc_read_settings">Приложение получит доступ к данным о настройках и ярлыках на главном экране.</string>
     <string name="permdesc_uninstall_shortcut">Приложение сможет самостоятельно удалять ярлыки.</string>
     <string name="permdesc_write_settings">Приложение сможет изменять настройки и ярлыки на главном экране.</string>
-    <string name="permlab_install_shortcut">устанавливать ярлыки</string>
-    <string name="permlab_read_settings">читать настройки домашнего экрана и ярлыки</string>
-    <string name="permlab_uninstall_shortcut">удалять ярлыки</string>
+    <string name="permlab_install_shortcut">Устанавливать ярлыки</string>
+    <string name="permlab_read_settings">Читать настройки домашнего экрана и ярлыки</string>
+    <string name="permlab_uninstall_shortcut">Удалять ярлыки</string>
     <string name="permlab_write_settings">Изменять настройки домашнего экрана и ярлыки</string>
     <string name="pick_image">Выбрать изображение</string>
     <string name="pick_wallpaper">Обои</string>
@@ -107,7 +107,7 @@
     <string name="bottom_alignment">Снизу</string>
     <string name="default_folder_name">Папка</string>
     <string name="education_folder">Образование</string>
-    <string name="featured_plug">Популярное ПО</string>
+    <string name="featured_plug">Популярное</string>
     <string name="finance_folder">Финансы</string>
     <string name="game_folder">Игры</string>
     <string name="has_mark_read">Отмечено как прочитанное</string>
@@ -125,9 +125,9 @@
     <string name="nfc_share">Нажмите для выбора или отмены выбора приложений, которые вы ходите передать</string>
     <string name="nfc_share_title">Передать приложения через NFC</string>
     <string name="online_gallery">Обои в сети</string>
-    <string name="other_folder">Другая</string>
+    <string name="other_folder">Другое</string>
     <string name="out_of_widget_space">На экране нет больше места</string>
-    <string name="productivity_folder">Эффективность</string>
+    <string name="productivity_folder">Активность</string>
     <string name="pull_to_mark_read">Потянуть для отметки прочитанным</string>
     <string name="pull_to_mark_unread">Потянуть для отметки непрочитанным</string>
     <string name="read_folder">Чтение</string>
@@ -138,9 +138,9 @@
     <string name="set_wallpaper">Нажмите для установки обоев</string>
     <string name="share">Передать</string>
     <string name="shopping_folder">Шоппинг</string>
-    <string name="social_network_folder">Социальная сеть</string>
-    <string name="system_tools">Служебные</string>
-    <string name="tools_folder">Инструменты</string>
+    <string name="social_network_folder">Общение</string>
+    <string name="system_tools">Система</string>
+    <string name="tools_folder">Полезное</string>
     <string name="top_alignment">Сверху</string>
     <string name="uninstall_notice">Автоочистка от остаточных файлов после удаления ПО</string>
     <string name="uninstall_title">Удалить приложение</string>
