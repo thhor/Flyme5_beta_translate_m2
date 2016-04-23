@@ -321,7 +321,7 @@
     <string name="sub_classify_no_data">Нет данных</string>
     <string name="subscription_add">Подписка</string>
     <string name="subscription_del">Отмена</string>
-    <string name="subscription_no_account">Вход в Flyme</string>
+    <string name="subscription_no_account">Вход в аккаунт Flyme</string>
     <string name="subscription_no_data">Нет подписок</string>
     <string name="this_month">Этот месяц</string>
     <string name="this_week">Эта неделя</string>
