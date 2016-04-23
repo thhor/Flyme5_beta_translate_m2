@@ -938,7 +938,7 @@
     <string name="mzc_sip_call">Совершить интернет-вызов</string>
     <string name="mzc_sip_label">Интернет-вызов</string>
     <string name="mzc_sip_mms">Отправить интернет-сообщение</string>
-    <string name="mzc_tab_call_log">Набор номера</string>
+    <string name="mzc_tab_call_log">Журнал звонков</string>
     <string name="mzc_tab_dialpad">Набор номера</string>
     <string name="mzc_tab_net_contacts">Жёлтые страницы</string>
     <string name="mzc_tips_for_show_group_contacts">Отмеченные группы будут отображаться в основном списке контактов</string>
@@ -980,7 +980,7 @@
     <string name="mzc_fail_reason_vcard_parse_error">Невозможно открыть файл vCard</string>
     <string name="mzc_hour">час</string>
     <string name="mzc_international_search_exchange_directory">Search Global Contacts</string>
-    <string name="mzc_item_sim_card_call">Использовать SIM%s для вызова</string>
+    <string name="mzc_item_sim_card_call">SIM %s - совершить вызов</string>
     <string name="mzc_preference_account_dialog_subtitle">Аккаунт по умолчанию для сохранения новых контактов</string>
     <string name="mzc_preference_default_account">Аккаунт по умолчанию</string>
     <string name="mzc_preference_import_contacts_from_storagedisk_title">Импорт с диска</string>
