@@ -28,11 +28,11 @@
     <string name="alarm_repeat">Повтор</string>
     <string name="alarm_repeat_type_custom">Свой выбор</string>
     <string name="alarm_repeat_type_everyday">Ежедневно</string>
-    <string name="alarm_repeat_type_mon_to_fri">Понедельник-пятница</string>
+    <string name="alarm_repeat_type_mon_to_fri">Будни</string>
     <string name="alarm_repeat_type_once">Один раз</string>
     <string name="alarm_repeat_type_statutory_working_days">В рабочие дни</string>
     <string name="alarm_vibrate">Вибросигнал</string>
-    <string name="alarm_volume_title">Громкость</string>
+    <string name="alarm_volume_title">Звук</string>
     <string name="alert">Мелодия</string>
     <string name="all_timers_stopped_notif">Нажать для просмотра таймеров</string>
     <string name="alwaysUse">По умолчанию для этого действия</string>
