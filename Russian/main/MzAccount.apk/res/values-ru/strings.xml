@@ -334,10 +334,10 @@
     <string name="recharge_and_pay">Пополнение счета и Оплата</string>
     <string name="recharge_card">Предоплата телефонных карты с мобильного</string>
     <string name="recharge_card_amout">Сумма предоплаты телефонных карты с мобильного</string>
-    <string name="recharge_card_instruction_info">"The recharging amount should be the same as the prepaid card value,or recharching failure or balance missing might occur
-Only national prepaid cards are accepted; regional prepaid cards might cause recharging failures
-The recharging amount will be arriving within 1 business day. If any abnormal, please contact customer service within 15 days"</string>
-    <string name="recharge_card_num">Номер карты.</string>
+    <string name="recharge_card_instruction_info">"Сумма пополнения должна быть равной сумме карты предоплаты, в противном случае пополнение баланса не произойдет или может произойти списание нежелательных средств 
+Принимаются только международные карты предоплаты; региональные карты предоплаты могут не работать с пополнением счета
+Пополнение счета произойдет в течении одного рабочего дня. В случае возникновения проблем, пожалуйста, свяжитесь со службой поддержки в течении 15 дней"</string>
+    <string name="recharge_card_num">Номер карты</string>
     <string name="recharge_card_pwd">PIN-код карты</string>
     <string name="recharge_not_enough_tip">Чтобы завершить оплату, пожалуйста пополните счет RMB %s</string>
     <string name="recharge_type">Способ предоплаты</string>
@@ -491,9 +491,9 @@ The recharging amount will be arriving within 1 business day. If any abnormal, p
     <string name="award_state_use">Использовать</string>
     <string name="balance_donate_s">Включая бонусные монеты %s</string>
     <string name="bank_access_user_agreement_s">Выполните оплату для принятия %s и добавления этой банковской карты</string>
-    <string name="bank_card">BБанковская карта</string>
-    <string name="bank_card_capture_confirm">If the card number is incorrect, please return to rescan</string>
-    <string name="bank_card_capture_tip">Placed bank card in this area and try to align the edge</string>
+    <string name="bank_card">Банковская карта</string>
+    <string name="bank_card_capture_confirm">Если номер карты неверен, вернитесь на экран назад и пересканируйте карту</string>
+    <string name="bank_card_capture_tip">Поместите вашу карту в данную зону так, чтобы края зоны соприкасались с краями карты</string>
     <string name="bank_card_capture_title_result">Проверка банковской карты</string>
     <string name="bank_card_capture_title_scan">Сканирование банковскрй карты</string>
     <string name="bank_card_delete_fail">Невозможно удалить банковскую карту</string>
@@ -540,21 +540,21 @@ The recharging amount will be arriving within 1 business day. If any abnormal, p
     <string name="coupon_amount_s">%s </string>
     <string name="coupon_code">Код обмена:</string>
     <string name="coupon_count_n">%d</string>
-    <string name="coupon_instructions_content_1">Flyme cash coupon is the Flyme gift vouchers, can be used to reduced price in the business of Flyme</string>
-    <string name="coupon_instructions_content_2">General Flyme cash coupons can be used in music, games, apps and themes, specified coupons can only used in specified services</string>
+    <string name="coupon_instructions_content_1">Денежный купон Flyme это подарочный сертификат Flyme, который может быть использован в качестве скидки при покупке в магазине Flyme</string>
+    <string name="coupon_instructions_content_2">Обычные денежные купоны Flyme могут быть исползованы для приобретения музыки, игр, приложений и тем, спецкупоны могут быть исползованы только в специальных сервисах</string>
     <string name="coupon_instructions_content_3_1_1">1. </string>
-    <string name="coupon_instructions_content_3_1_2">The payment of the purchase, will automatically choose available coupons</string>
+    <string name="coupon_instructions_content_3_1_2">При оплате данной покупки, доступные купоны будут выбраны автоматически</string>
     <string name="coupon_instructions_content_3_2_1">2. </string>
-    <string name="coupon_instructions_content_3_2_2">The single consumption can only use 1 coupon, does not have the change, not cash, not transferable</string>
+    <string name="coupon_instructions_content_3_2_2">Купон может быть единично использован только в качестве скидки, его нельзя обменять, обналичить, или передать</string>
     <string name="coupon_instructions_content_3_3_1">3. </string>
-    <string name="coupon_instructions_content_3_3_2">Coupon can not be used when the discount amount more than the amount of payment</string>
+    <string name="coupon_instructions_content_3_3_2">Купон не можеи быть использован когда сумма скидки больше суммы оплаты</string>
     <string name="coupon_instructions_content_3_4_1">4. </string>
-    <string name="coupon_instructions_content_3_4_2">Please use within the validity period, expired coupons are useless</string>
-    <string name="coupon_instructions_content_4">You can get the coupon by participating Flyme activity, redeem, etc.</string>
-    <string name="coupon_instructions_title_1">What is the Flyme cash coupon?</string>
-    <string name="coupon_instructions_title_2">Where you can use the Flyme cash coupon?</string>
-    <string name="coupon_instructions_title_3">How to use the Flyme cash coupon?</string>
-    <string name="coupon_instructions_title_4">How to get the Flyme cash coupon?</string>
+    <string name="coupon_instructions_content_3_4_2">Пожалуйста, используйте купоны до истечения их срока действия, просроченные купоны бесполезны</string>
+    <string name="coupon_instructions_content_4">Вы можете получить купон участвую в мероприятиях Flyme, выкупая купоны, и т.д.</string>
+    <string name="coupon_instructions_title_1">Что такое - денежный купон Flyme?</string>
+    <string name="coupon_instructions_title_2">Где вы можете использовать денежный купон Flyme?</string>
+    <string name="coupon_instructions_title_3">Как можно использовать денежный купон Flyme?</string>
+    <string name="coupon_instructions_title_4">Как получить денежный купон Flyme?</string>
     <string name="coupon_mark">Денежный купон</string>
     <string name="coupon_mark_s">сохранить %s RMB</string>
     <string name="coupon_unuseable_tip">Превышен лимит</string>
@@ -598,10 +598,10 @@ The recharging amount will be arriving within 1 business day. If any abnormal, p
     <string name="has_accept">Принято</string>
     <string name="has_exchange">Обменяно</string>
     <string name="has_obtain">Получено</string>
-    <string name="hot_city">Hot City Slot</string>
+    <string name="hot_city">Игровой автомат Hot City</string>
     <string name="illegal_pay_request">Неверный запрос оплаты</string>
     <string name="input_bank_card_hint">Введите номер банковской карты</string>
-    <string name="kakalib_msg_camera_framework_bug">Невохможно подключиться к камере, перезагрузите устройство и повторите попытку</string>
+    <string name="kakalib_msg_camera_framework_bug">Невозможно подключиться к камере, перезагрузите устройство и повторите попытку</string>
     <string name="left_days">%s день(дней) осталось</string>
     <string name="loading_text">Загрузка</string>
     <string name="local_city">Город</string>
@@ -648,19 +648,19 @@ The recharging amount will be arriving within 1 business day. If any abnormal, p
     <string name="order_id_s">Номер заказа: %s</string>
     <string name="over_charge_limit_tip">Превышен лимит %s, выберите другой способ пополнения</string>
     <string name="password_error">Неверный пароль</string>
-    <string name="pay_over_amount_tip_recharge_card">The remaining %s RMB after purchase will transfer to your mCoin balance</string>
-    <string name="pay_over_amount_tip_sms" formatted="false">Because the mobile operators charge fees, %s RMB prepaid exchange 1 mCoin, the remaining %s RMB after purchase will transfer to your mCoin balance</string>
-    <string name="pay_type">Спопосбы оплаты</string>
+    <string name="pay_over_amount_tip_recharge_card">Оставшийся(еся) %s RMB после покупки будут зачислены на ваш баланс mCoin</string>
+    <string name="pay_over_amount_tip_sms" formatted="false">По причине взыскания платы операторами при пополнении счета, размер предоплаты обмена %s RMB будет равен 1 mCoin, оставшийся(еся) %s RMB после покупки будут зачислены на ваш баланс mCoin</string>
+    <string name="pay_type">Способы оплаты</string>
     <string name="pay_way_balance">Баланс mCoin</string>
     <string name="pay_way_balance_not_enough_s">%s RMB, недостаточно средств</string>
-    <string name="phone_charge_warning" formatted="false">"Because the mobile operators charge fees, %s RMB prepaid exchange 1 mCoin
-When using the SMS payment, such as prepaid failed or other problems encountered, you can directly call the partner's customer service number: %s 
-The content of SMS send in SMS payments, may be inconsistent with your actual purchase, which is SMS service providers' problems, will not incur additional costs, please understand
-If this phone is dual-sim card, default deducted fee from SIM1 card"</string>
+    <string name="phone_charge_warning" formatted="false">"По причине взыскания платы операторами при пополнении счета, размер предоплаты обмена %s RMB будет равен 1 mCoin
+При использовании SMS-оплаты, могут возникнуть проблемы с оплатой, в таком случае вы можете напрямую позвонить по номеру обслуживания клиентов партнера: %s 
+Содержание SMS отправленного в SMS-платеже, может быть несовместимо с вашей фактической покупкой, что является проблемой провайдеров SMS-услуги, и не повлечет за собой дополнительные расходы.
+Внимание. Если этот телефон с двумя сим-картами, по умолчанию сумма оплаты взимается с SIM 1"</string>
     <string name="phone_pay_amount_s" formatted="false">%s RMB (необходимо %s RMB для предоплаты)</string>
     <string name="please_complete_information">Пожалуйста заполните информацию о себе</string>
     <string name="plus">+%1$s</string>
-    <string name="province">Province</string>
+    <string name="province">Область</string>
     <string name="qh_finish_title">Ваш облачный аккаунт был улучшен</string>
     <string name="quick_register_agreement">"1. Нажатие 'Регистрация по этому номеру' означает ваше согласие %s
 2. Быстрая регистрация предполагает аутентификационные сообщения, за которые оператор может взимать плату."</string>
@@ -699,7 +699,7 @@ If this phone is dual-sim card, default deducted fee from SIM1 card"</string>
     <string name="time_of_award">Время победы:%s</string>
     <string name="tip_accept">Принять</string>
     <string name="tip_address">Адрес:</string>
-    <string name="tip_award">AНаграда:</string>
+    <string name="tip_award">Награда:</string>
     <string name="tip_empty_award">Нет наград</string>
     <string name="tip_exchange">Обменять</string>
     <string name="tip_exchange_award">Обменять награду</string>
@@ -712,7 +712,7 @@ If this phone is dual-sim card, default deducted fee from SIM1 card"</string>
     <string name="tip_use">Использовать</string>
     <string name="title_account_center">Мой аккаунт</string>
     <string name="title_account_name">Имя пользователя</string>
-    <string name="title_address">DАдрес доставки</string>
+    <string name="title_address">Адрес доставки</string>
     <string name="title_address_dialog">Принять награду</string>
     <string name="title_alipay">Alipay</string>
     <string name="title_award">Награды</string>
@@ -763,47 +763,47 @@ If this phone is dual-sim card, default deducted fee from SIM1 card"</string>
     <string name="unit_zhang"> купоны</string>
     <string name="updateWeixinTitle">Обновите приложение WeChat</string>
     <string name="update_for_this_award">Перейти в приложение для обновления?</string>
-    <string name="update_system_for_this_award">Please update to the newest system and try again</string>
-    <string name="upgrade_from_mstore">Upgrade application in store</string>
-    <string name="use_gift_after_game_installed">You can download games in Game Center and use this game gift</string>
-    <string name="use_now">Use now</string>
-    <string name="use_other_bank_card">Use other bank cards</string>
-    <string name="use_tip">Use tip</string>
-    <string name="user_address_error">User address invalid</string>
-    <string name="user_detail_address">Address</string>
-    <string name="user_local_district">Region</string>
-    <string name="user_name">Name</string>
-    <string name="user_phone">Phone number</string>
-    <string name="user_post_code">Postcode</string>
-    <string name="validate_period">Validity:</string>
-    <string name="validity_period">Validity: %s day(s) left</string>
+    <string name="update_system_for_this_award">Необходимо обновить до последней версии системы и попробовать еще раз</string>
+    <string name="upgrade_from_mstore">Обновите приложение в магазине</string>
+    <string name="use_gift_after_game_installed">Вы можете скачать игры в Game Center и использовать этот игровой подарок</string>
+    <string name="use_now">Использовать</string>
+    <string name="use_other_bank_card">Использовать другие банковские карты</string>
+    <string name="use_tip">Использовать подсказку</string>
+    <string name="user_address_error">Неверный адрес</string>
+    <string name="user_detail_address">Адрес</string>
+    <string name="user_local_district">Регион</string>
+    <string name="user_name">Имя</string>
+    <string name="user_phone">Телефонный номер</string>
+    <string name="user_post_code">Индекс</string>
+    <string name="validate_period">Действительно до:</string>
+    <string name="validity_period">Действительно: остался(ось) %s день(дней)</string>
     <string name="verify_pwd">Проверка аккаунта и пароля Flyme</string>
-    <string name="wait">Please wait</string>
+    <string name="wait">Пожалуйста подождите</string>
     <string name="weixin">WeChat</string>
-    <string name="weixinNeeded">Need WeChat app to complete the payment</string>
-    <string name="weixinUpdateNeeded">Need WeChat app to complete the payment</string>
+    <string name="weixinNeeded">Необходимо приложение WeChat для завершения платежа</string>
+    <string name="weixinUpdateNeeded">Необходимо обновление приложения WeChat для завершения платежа</string>
     <string name="weixin_pay">WeChat</string>
-    <string name="weixin_unknown_error">WeChat no response, please retry</string>
+    <string name="weixin_unknown_error">WeChat не отвечает, попробуйте еще раз</string>
     <string name="woman">Женский</string>
     <string name="yunos_error_account_info_error">Ошибка данных</string>
     <string name="yunos_error_no_bind_state">Нет данных</string>
     <string name="yunos_error_not_bind_account">Не привязан</string>
     <string name="yunos_error_param_error">Ошибка параметров</string>
-    <string name="yunos_error_token_error">Invalid token</string>
+    <string name="yunos_error_token_error">Неверный токен</string>
     <string name="yunos_error_user_cancel">Отменено пользователем</string>
     <string name="bind_taobao_tip_yunos">"• Бесплатное использование облачного хранилища
 • 40ТБ места под хранение своих данных
 • Бесплатный доступ к сервисам Taobao"</string>
     <string name="confirm_ali_sync">Подтвердить</string>
-    <string name="desc_ali_sync">Combine personal data of Flyme server to YunOS server</string>
+    <string name="desc_ali_sync">Слияние данных серевера Flyme с данными сервера YunOS</string>
     <string name="game_download_dec">Вы можете скачивать игры и использовать подарки в Game Center</string>
-    <string name="msg_ali_sync_dialog">Data redundancy might be occurred if there are same data store in both YunOS and Flyme cloud.</string>
-    <string name="msg_no_taobao_bound">No Taobao account bound</string>
+    <string name="msg_ali_sync_dialog">Расход трафика может происходить при хранении одинаковых данных в облаках YunOS и Flyme.</string>
+    <string name="msg_no_taobao_bound">Нет привязанного аккаунта Taobao</string>
     <string name="msg_time_error">Ошибка входа. Убедитесь в правильности вводимых данных.</string>
-    <string name="notification_desc_ali_sync">Integrate cloud data of Flyme and YunOS</string>
+    <string name="notification_desc_ali_sync">Интегрировать облачные данные Flyme и YunOS</string>
     <string name="notification_titile_ali_sync">Мой аккаунт</string>
     <string name="taobao_unbind_tip">Нельзя использовать облачный накопитель после отвязки</string>
-    <string name="title_ali_sync">YunOS data integration</string>
+    <string name="title_ali_sync">Интеграция данных YunOS</string>
     <string name="title_confirm_delete">Удалить адрес?</string>
     <string name="title_level">Уровень</string>
     <string name="title_order">Заказ</string>
