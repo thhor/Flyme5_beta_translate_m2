@@ -51,7 +51,7 @@
     <string name="card_title_message_record">Запись сообщений</string>
     <string name="mz_respond_via_sms_custom_message">Свой ответ</string>
     <string name="sim_picker_tile">Выбрать SIM-карту</string>
-    <string name="siminfo_item_text" formatted="false">SIM%d - %s</string>
+    <string name="siminfo_item_text" formatted="false">SIM %d - совершить вызов</string>
     <string name="harassing_handler_hint">Отклонить и блокировать</string>
     <string name="sms_btn_label">Сообщение</string>
     <string name="sms_sent">Сообщение отправлено</string>
@@ -59,7 +59,7 @@
     <string name="back_to_incall">Вернуться к вызову</string>
     <string name="title_incoming_fastsms_panel">Нажмите на сообщение для ответа</string>
     <string name="caller_marked_ammount">%s отмечено</string>
-    <string name="default_sim_select">Установить SIM-карту по умолчанию</string>
+    <string name="default_sim_select">установить по умолчанию</string>
     <string name="bluetooth_auto_slot_countdown">(%s)</string>
     <string name="incall_voice_route">Перенаправление голоса</string>
     <string name="volume_key_tip_text">Нажмите клавишу громкости для отключения сигнала вызова; Длительное нажатие кнопки увеличения громкости - для ответа</string>
