@@ -63,10 +63,10 @@
     <string name="group_shortcuts">Ярлыки</string>
     <string name="group_widgets">Виджеты</string>
     <string name="home">Главная</string>
-    <string name="hotseat_out_of_space">Нет свободного места в слоте</string>
-    <string name="invalid_hotseat_item">Виджет слишком велик для слота</string>
+    <string name="hotseat_out_of_space">Нет свободного места</string>
+    <string name="invalid_hotseat_item">Виджет слишком велик</string>
     <string name="long_press_widget_to_add">Чтобы выбрать виджет, нажмите на значок и удерживайте его.</string>
-    <string name="market">Магзин</string>
+    <string name="market">Магазин</string>
     <string name="menu_item_add_item">Добавить на домашний экран</string>
     <string name="out_of_space">На этом экране все занято</string>
     <string name="permdesc_install_shortcut">Приложение сможет самостоятельно добавлять ярлыки.</string>
