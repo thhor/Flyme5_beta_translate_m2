@@ -55,8 +55,8 @@
     <string name="mz_action_bar_select_file_title">Выбрать аудиофайлы</string>
     <string name="mz_basic_settings">Основные настройки</string>
     <string name="mz_contacts_manager_summary">Импорт или экспорт контактов с SIM-карты</string>
-    <string name="Mz_respond_via_sms_setting_summary">Редактировать шаблоны</string>
-    <string name="Mz_respond_via_sms_setting_title">Отклонение вызова сообщением</string>
+    <string name="Mz_respond_via_sms_setting_summary">Правка сообщений для отклонения вызова</string>
+    <string name="Mz_respond_via_sms_setting_title">Шаблоны сообщений</string>
     <string name="expand_option_title">Другие настройки</string>
     <string name="speed_voicemail">Голос. почта</string>
     <string name="speed_card1_voicemail">SIM 1 голос. почта</string>
@@ -106,7 +106,7 @@
     <string name="save_btn">Сохранить</string>
     <string name="mz_edit_quick_responce">Ред. быстрый ответ</string>
     <string name="vibrate_on_connected_toggle_title">Вибрация при соединении</string>
-    <string name="vibrate_when_answered">Вибрация при ответе</string>
+    <string name="vibrate_when_answered">Во время исходящего звонка</string>
     <string name="abc_action_mode_done">Готово</string>
     <string name="abc_action_bar_home_description">Перейти на главный экран</string>
     <string name="abc_action_bar_up_description">Перейти вверх</string>
