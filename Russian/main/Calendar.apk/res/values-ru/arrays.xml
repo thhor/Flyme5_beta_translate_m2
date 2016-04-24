@@ -143,11 +143,11 @@
     </string-array>
     <string-array name="pref_default_reminder_labels">
         <item>Нет</item>
-        <item>в момент события</item>
-        <item>за 10 минут</item>
-        <item>за 30 минут</item>
-        <item>за 1 час</item>
-        <item>за 1 день</item>
+        <item>В момент события</item>
+        <item>За 10 минут</item>
+        <item>За 30 минут</item>
+        <item>За 1 час</item>
+        <item>За 1 день</item>
     </string-array>
     <string-array name="pref_week_start_labels">
         <item>По умолчанию</item>
@@ -183,9 +183,9 @@
         <item>Будильник</item>
     </string-array>
     <string-array name="repeats_end_labels">
-        <item>Всегда</item>
-        <item>На дату</item>
-        <item>На количество событий</item>
+        <item>Всё время</item>
+        <item>До даты</item>
+        <item>Количество повторов</item>
     </string-array>
     <string-array name="sectional_array">
         <item></item>
