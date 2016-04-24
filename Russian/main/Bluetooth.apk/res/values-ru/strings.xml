@@ -55,7 +55,7 @@
     <string name="download_fail_ok">ОК</string>
     <string name="download_succ_line5">Файл получен</string>
     <string name="download_succ_ok">Открыть</string>
-    <string name="upload_line1">"Куда: "</string>
+    <string name="upload_line1">"Кому: "</string>
     <string name="upload_line3">Тип файла: %1$s (%2$s)</string>
     <string name="upload_line5">Отправка файла...</string>
     <string name="upload_succ_line5">Файл отправлен</string>

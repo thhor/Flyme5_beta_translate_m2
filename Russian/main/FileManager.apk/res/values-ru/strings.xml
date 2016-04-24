@@ -172,7 +172,7 @@
     <string name="mc_pm_camera">Камера (Фото/Видео)</string>
     <string name="mc_pm_close">Выкл.</string>
     <string name="mc_pm_contacts">Читать контакты</string>
-    <string name="mc_pm_dialog_push">Всплывающий Push</string>
+    <string name="mc_pm_dialog_push">Всплывающие PUSH-уведомления</string>
     <string name="mc_pm_dlg_cancel">Отмена</string>
     <string name="mc_pm_dlg_ok">ОК</string>
     <string name="mc_pm_location">Местоположение</string>
@@ -220,7 +220,7 @@
     <string name="menu_mkdir_title">Новая папка</string>
     <string name="menu_move_title">Переместить</string>
     <string name="menu_move_to_security_title">Переместить в хранилище</string>
-    <string name="menu_open_title">Открыть через...</string>
+    <string name="menu_open_title">Открыть с помощью...</string>
     <string name="menu_rename_limit_text">Можно переименовать до 100 файлов</string>
     <string name="menu_rename_title">Переименовать</string>
     <string name="menu_save_title">Сохранить</string>
@@ -299,7 +299,7 @@
     <string name="ok">OK</string>
     <string name="only_file_text">%s файл(ов)</string>
     <string name="only_folder_text">%s папок</string>
-    <string name="openwith">Открыть через</string>
+    <string name="openwith">Открыть с помощью...</string>
     <string name="opetation_done">Изменение завершено</string>
     <string name="otg_remove_tips">Отключить внешний накопитель?</string>
     <string name="others_display_name">Другие файлы</string>
@@ -331,7 +331,7 @@
     <string name="sdcard_capacity_title">Карта памяти</string>
     <string name="sdcard_name">Диск</string>
     <string name="search_select_text_all">Все</string>
-    <string name="search_select_text_apk">APK</string>
+    <string name="search_select_text_apk">APK файлы</string>
     <string name="search_select_text_apk_recently">Приложения</string>
     <string name="search_select_text_doc">Документы</string>
     <string name="search_select_text_music">Музыка</string>
