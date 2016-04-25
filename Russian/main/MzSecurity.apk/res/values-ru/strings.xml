@@ -196,7 +196,7 @@
     <string name="bs_multiChoice_no_options_title4">Выбрать белый список</string>
     <string name="bs_no_white_list_empty_summary">Нет белого списка</string>
     <string name="bs_phone">Фильтрация вызовов</string>
-    <string name="bs_private_number_spam_pfs_title">Неизвестный номер блокирован</string>
+    <string name="bs_private_number_spam_pfs_title">Блокировка неизв. номеров</string>
     <string name="bs_remind_spam_pfc_title">После блокировки</string>
     <string name="bs_remind_spam_pfs_title">Показывать оповещения</string>
     <string name="bs_remove_black_list_dialog_title">Удалить из чёрного списка</string>
