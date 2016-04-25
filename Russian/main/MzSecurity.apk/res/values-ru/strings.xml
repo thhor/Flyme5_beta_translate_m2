@@ -205,8 +205,8 @@
     <string name="bs_sms">Фильтрация сообщений</string>
     <string name="bs_spam_phone_tab_text">Блокированный вызов</string>
     <string name="bs_spam_sms_tab_text">Блокированное сообщение</string>
-    <string name="bs_stranger_spam_phone_pfs_title">Блокировка вызовов от неизв.</string>
-    <string name="bs_stranger_spam_sms_pfs_title">Блокировка SMS от неизв.</string>
+    <string name="bs_stranger_spam_phone_pfs_title">Блокировка неизв. вызовов</string>
+    <string name="bs_stranger_spam_sms_pfs_title">Блокировка неизв. SMS</string>
     <string name="btn_done">Готово</string>
     <string name="btn_opt_again">Оптимизировать снова</string>
     <string name="btn_optimize_done">Оптимизация завершена</string>
