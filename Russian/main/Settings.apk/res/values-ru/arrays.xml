@@ -626,7 +626,7 @@
     </string-array>
     <string-array name="keyboard_back_behavior_entries">
         <item>Свернуть клавиатуру</item>
-        <item>Выключить клавиатуру и вернуться</item>
+        <item>Выкл. клавиатуру и вернуться</item>
     </string-array>
     <string-array name="app_standby_permission">
         <item>Разрешить в режиме ожидания</item>
