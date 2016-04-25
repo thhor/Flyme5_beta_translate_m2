@@ -929,7 +929,7 @@
     <string name="sd_insert_summary">Вставьте карту памяти для подключения</string>
     <string name="sd_mount">Подключить карту памяти</string>
     <string name="sd_mount_summary" />
-    <string name="sd_format">Форматирование встроенной памяти</string>
+    <string name="sd_format">Форматирование внутр. памяти</string>
     <string name="sd_format_summary">Стираются все данные с внутренней памяти (например, фотографии и видео)</string>
     <string name="memory_clear_cache_title">Очистить кэш?</string>
     <string name="memory_clear_cache_message">Будут удалены данные всех приложений.</string>
