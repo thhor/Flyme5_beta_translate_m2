@@ -843,9 +843,9 @@
     <string name="summary_font_size">%1$s</string>
     <string name="dialog_title_font_size">Размер шрифта</string>
     <string name="sim_lock_settings">Настройки блокировки SIM-карты</string>
-    <string name="sim_lock_settings_category">Установить блокировку SIM-карты</string>
+    <string name="sim_lock_settings_category">Установка блок. SIM-карты</string>
     <string name="sim_lock_settings_title">Блокировка SIM-карты</string>
-    <string name="sim_pin_toggle">Блок. SIM-карты</string>
+    <string name="sim_pin_toggle">Блокировка SIM-карты</string>
     <string name="sim_lock_on">Для использования телефона необходим PIN-код</string>
     <string name="sim_lock_off">При включении телефона будет необходимо ввести PIN-код</string>
     <string name="sim_pin_change">Изменение PIN SIM-карты</string>
