@@ -289,7 +289,7 @@
     <string name="pref_title_almanac">Альманах</string>
     <string name="pref_title_default_calendar">По умолчанию</string>
     <string name="pref_title_default_reminder">Время напоминания по умолчанию</string>
-    <string name="pref_title_default_week_start">Начало недели</string>
+    <string name="pref_title_default_week_start">Первый день недели:</string>
     <string name="pref_title_holiday_zone">Место отдыха</string>
     <string name="pref_title_horoscope">Гороскоп</string>
     <string name="pref_title_notice">Настройка напоминаний</string>
