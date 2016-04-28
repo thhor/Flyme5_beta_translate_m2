@@ -304,7 +304,7 @@
     <string name="ptr_last_refresh_second">сек. назад</string>
     <string name="ptr_pull_refresh">Потянуть вниз для обновления</string>
     <string name="recurrence_end_date">До:</string>
-    <string name="recurrence_end_times">Сколько:</string>
+    <string name="recurrence_end_times">Сколько раз:</string>
     <string name="relex">Отдых</string>
     <string name="reminders_label">Добавить напоминание</string>
     <string name="repeats_end_label">Окончание повтора</string>
